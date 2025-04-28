@@ -59,6 +59,10 @@ loan_agg = loans.agg({
     "principal": "sum",
     "paid": "sum"
 })
+
+loan_agg_df = loan_agg.reset_index()
+loan_agg_df.columns = ["category", "USD"]
+
 loan_req_break = loanrequest.approval.value_counts(dropna=False).reset_index()
 loan_req_break.columns = ["approval","count"]
 
@@ -81,9 +85,11 @@ fig_dorm = px.scatter(dormant, x="account_no", y="balance",
 fig_last = px.histogram(last_txn, x="last_time", nbins=30,
                         title="Distribution of Last Transaction Dates")
 
-fig_loans = px.bar(loan_agg.melt(var_name="category",value_name="USD"),
-                   x="category", y="USD", text="USD",
-                   title="Loan Portfolio – Principal vs. Paid")
+fig_loans = px.bar(
+    loan_agg_df,
+    x="category", y="USD", text="USD",
+    title="Loan Portfolio – Principal vs Paid"
+)
 
 fig_req = px.pie(loan_req_break, values="count", names="approval",
                  title="Loan-Request Approval Funnel",
@@ -99,9 +105,8 @@ CAP = {
  "dorm": "Dormant, funded accounts are classic laundering targets.",
  "last": "Most customers transacted recently; long-inactive ones "
          "should be watched for sudden large withdrawals.",
- "loans":"Roughly {:.1%} of total principal has been repaid."
-         .format(loan_agg["paid"]/
-                 loan_agg["principal"]),
+ "loans":"Roughly {:.1%} of total principal has been repaid.".format(
+    loan_agg["paid"] / loan_agg["principal"]),
  "req":  "Approval funnel shows current conversion rate of loan requests."
 }
 
