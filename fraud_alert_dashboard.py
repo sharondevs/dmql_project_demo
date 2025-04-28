@@ -17,9 +17,9 @@ def load_or_query(table):
         return pd.read_csv(csv_path)
 
 customers     = load_or_query("Customer")
-print(f"Loaded {len(customers)} customers")
 accounts      = load_or_query("Accounts")
 transactions  = load_or_query("Transactions")
+transactions["day"] = pd.to_datetime(transactions["time"]).dt.date
 sessions      = load_or_query("Sessions")
 creditcard    = load_or_query("CreditCard")
 loans         = load_or_query("Loans")
