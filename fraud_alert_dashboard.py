@@ -55,8 +55,10 @@ last_txn = (transactions.merge(
             .agg(last_time=("day","max"))
             .merge(customers[["cust_id","customer"]]))
 
-loan_agg = loans.agg(total_principal=("principal","sum"),
-                     total_paid=("paid","sum"))
+loan_agg = loans.agg({
+    "principal": "sum",
+    "paid": "sum"
+})
 loan_req_break = loanrequest.approval.value_counts(dropna=False).reset_index()
 loan_req_break.columns = ["approval","count"]
 
@@ -98,8 +100,8 @@ CAP = {
  "last": "Most customers transacted recently; long-inactive ones "
          "should be watched for sudden large withdrawals.",
  "loans":"Roughly {:.1%} of total principal has been repaid."
-         .format(loan_agg.total_paid.iloc[0]/
-                 loan_agg.total_principal.iloc[0]),
+         .format(loan_agg["paid"]/
+                 loan_agg["principal"]),
  "req":  "Approval funnel shows current conversion rate of loan requests."
 }
 
