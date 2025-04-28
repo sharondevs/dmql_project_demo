@@ -66,23 +66,23 @@ loan_agg_df.columns = ["category", "USD"]
 loan_req_break = loanrequest.approval.value_counts(dropna=False).reset_index()
 loan_req_break.columns = ["approval","count"]
 
-fig_mix = px.bar(txn_by_type, x="t_type", y="txn_count", text="txn_count",
-                 title="Transaction Mix by Type")
-fig_mix.update_traces(textposition="outside")
 
-fig_cards = px.bar(top_card.sort_values("total_outstanding"),
+fig_txn_mix = px.bar(txn_by_type, x="t_type", y="txn_count", text="txn_count", title="Transaction Mix by Type")
+fig_txn_mix.update_traces(textposition="outside")
+
+fig_top_cards = px.bar(top_card.sort_values("total_outstanding"),
                    x="total_outstanding", y="customer", orientation="h",
                    title="Top 5 Credit-Card Outstanding")
 
-fig_sess = px.bar(multi_session.sort_values("session_count"),
+fig_sessions = px.bar(multi_session.sort_values("session_count"),
                   x="session_count", y="customer", orientation="h",
                   title="Customers with Multiple Sessions")
 
-fig_dorm = px.scatter(dormant, x="account_no", y="balance",
+fig_dormant = px.scatter(dormant, x="account_no", y="balance",
                       title="Dormant Accounts with Balances",
                       labels={"account_no":"Account #","balance":"Balance ($)"})
 
-fig_last = px.histogram(last_txn, x="last_time", nbins=30,
+fig_last_txn = px.histogram(last_txn, x="last_time", nbins=30,
                         title="Distribution of Last Transaction Dates")
 
 fig_loans = px.bar(
@@ -95,7 +95,7 @@ fig_req = px.pie(loan_req_break, values="count", names="approval",
                  title="Loan-Request Approval Funnel",
                  hole=0.4)
 
-CAP = {
+CAPTIONS = {
  "mix":  ("Deposits, withdrawals and transfers occur in balanced "
           "proportions. Deviations trigger anomaly alerts."),
  "cards":"Outstanding credit risk is concentrated in five customers; "
@@ -131,6 +131,16 @@ app.layout = html.Div(
                 dcc.Graph(figure=fig_dormant),
                 html.P(CAPTIONS["dorm"]),
             ], style={"width":"48%","display":"inline-block","marginLeft":"4%"}),
+            html.Div([
+                dcc.Graph(figure=fig_sessions),
+                html.P(CAPTIONS["sess"]),
+                dcc.Graph(figure=fig_dormant),
+                html.P(CAPTIONS["dorm"]),
+                dcc.Graph(figure=fig_loans),
+                html.P(CAPTIONS["loans"]),
+                dcc.Graph(figure=fig_req),
+                html.P(CAPTIONS["req"]),
+            ], style={"width":"48%", "display":"inline-block", "marginLeft":"4%"}),
         ]),
         html.Hr(),
         html.P("Built with Dash + Plotly • Source SQL in comments • © 2025 S-Cube Team")
