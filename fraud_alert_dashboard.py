@@ -7,7 +7,6 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 from sqlalchemy import create_engine
 
-POSTGRES_DSN = "" 
 
 BASE = pathlib.Path(__file__).parent
 DATA_DIR = BASE / "data"
@@ -16,12 +15,6 @@ def load_or_query(table, sql=None):
     csv_path = DATA_DIR / f"{table}.csv"
     if csv_path.exists():
         return pd.read_csv(csv_path)
-    elif POSTGRES_DSN and sql:
-        engine = create_engine(POSTGRES_DSN)
-        with engine.connect() as con:
-            return pd.read_sql(sql, con)
-    else:
-        raise FileNotFoundError(f"Need {table}.csv or a live DSN")
 
 customers = load_or_query(
     "Customers",
@@ -40,8 +33,8 @@ transactions = load_or_query(
     """),
 )
 creditcards = load_or_query(
-    "CreditCards",
-    "SELECT cust_id, outstanding FROM CreditCards",
+    "CreditCard",
+    "SELECT cust_id, outstanding FROM CreditCard",
 )
 sessions = load_or_query(
     "Sessions",
@@ -152,4 +145,5 @@ app.layout = html.Div(
 )
 
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    port = int(os.environ.get("PORT", 8050))
+    app.run_server(host="0.0.0.0", port=port)
