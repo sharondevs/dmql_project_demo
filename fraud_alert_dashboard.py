@@ -121,7 +121,7 @@ app.layout = html.Div(
                 dcc.Graph(figure=fig_txn_mix),
                 html.P(CAPTIONS["mix"]),
                 dcc.Graph(figure=fig_top_cards),
-                html.P(CAPTIONS["top"]),
+                html.P(CAPTIONS["cards"]),
                 dcc.Graph(figure=fig_last_txn),
                 html.P(CAPTIONS["last"]),
             ], style={"width":"48%","display":"inline-block","verticalAlign":"top"}),
