@@ -1,0 +1,3001 @@
+bank_id,bank_name,cust_count,established
+1,"Carrillo, Stevens and Kemp Bank",38912,1886-12-20
+2,Green Group Bank,31191,1961-09-02
+3,"Baker, Browning and Ingram Bank",5096,1909-06-26
+4,"Price, Wong and Calderon Bank",10404,1907-02-21
+5,Johnson Ltd Bank,21958,2000-01-30
+6,Hill-Rose Bank,4412,1921-10-18
+7,Vance PLC Bank,34308,1894-10-27
+8,Summers Inc Bank,46867,1998-08-24
+9,Contreras Inc Bank,31738,1984-09-10
+10,Mendez-Stewart Bank,15529,1928-07-23
+11,Roach-Juarez Bank,4257,2013-09-01
+12,Nelson Inc Bank,45675,2003-04-03
+13,Owens-Day Bank,41479,1986-05-06
+14,Mejia LLC Bank,19918,1927-10-06
+15,"Kelly, Davis and Torres Bank",48612,1958-07-24
+16,"Lloyd, Vazquez and Reyes Bank",35680,2012-04-10
+17,"Lawrence, Wilson and Clay Bank",6744,1963-08-27
+18,Williams Group Bank,12654,2000-06-16
+19,Beard LLC Bank,44108,2007-06-13
+20,White-Martin Bank,37035,1904-12-22
+21,Williams-Adams Bank,37039,1995-04-27
+22,Ramos-Nelson Bank,7509,1904-07-19
+23,"Chambers, Huerta and Barker Bank",42381,1892-07-03
+24,Harper LLC Bank,21916,1904-11-21
+25,"Sanchez, Ramos and Rodriguez Bank",23460,1977-09-28
+26,"King, Dyer and Everett Bank",43562,1973-10-02
+27,Alvarado-Bailey Bank,25701,1941-09-14
+28,Bell PLC Bank,7135,2012-04-04
+29,Carrillo Inc Bank,40184,1929-07-03
+30,Warren Inc Bank,18353,1937-01-30
+31,Torres Inc Bank,24851,1881-06-11
+32,Taylor-Norman Bank,23286,1891-04-27
+33,"Le, Weaver and Young Bank",16279,1925-02-02
+34,Dawson and Sons Bank,36495,1946-06-04
+35,Elliott-Nelson Bank,9948,2014-08-04
+36,"Kline, Lewis and Peterson Bank",9895,2003-05-14
+37,Taylor-Smith Bank,27625,1943-10-31
+38,Good-Williams Bank,15976,1932-05-27
+39,Torres-Wilson Bank,23653,1978-04-04
+40,"Benton, Dorsey and Morris Bank",21776,1985-01-15
+41,Robertson Inc Bank,32624,1938-02-13
+42,Gomez-Fowler Bank,24532,1877-01-07
+43,"Scott, Rodgers and Smith Bank",18743,1957-12-27
+44,Davis and Sons Bank,20402,1905-03-12
+45,Pearson PLC Bank,44076,1981-10-16
+46,Brown-Cooper Bank,27577,1982-12-18
+47,"Johnson, Wheeler and Mckee Bank",13578,1904-03-24
+48,"Sharp, Arnold and Bullock Bank",5905,1943-03-09
+49,Taylor PLC Bank,7761,1913-03-06
+50,Edwards PLC Bank,22489,2010-12-03
+51,Banks-Phillips Bank,23400,1887-01-25
+52,"Nelson, Nguyen and Lynn Bank",8003,1914-06-25
+53,Haney Group Bank,42773,2007-01-06
+54,Long and Sons Bank,32167,1992-02-05
+55,Alexander-Richardson Bank,19062,1967-03-22
+56,"Smith, Smith and Carey Bank",11455,2005-10-15
+57,Friedman-Poole Bank,41987,1906-02-07
+58,Moore-Martinez Bank,4926,1986-05-29
+59,Lambert-Potter Bank,44561,1999-07-09
+60,"Garcia, Davenport and White Bank",10310,1887-03-27
+61,Mayer-Norton Bank,36579,1909-01-07
+62,Robinson Inc Bank,10349,1927-09-14
+63,Mccarthy-Smith Bank,47986,1929-09-01
+64,Vaughn Inc Bank,5485,1901-05-10
+65,"Reynolds, Craig and Lewis Bank",23398,1904-05-19
+66,"Burke, Spencer and Williams Bank",21653,1997-03-25
+67,"Dominguez, Williams and Young Bank",33550,1975-06-11
+68,Harris-Braun Bank,17315,1910-03-15
+69,Rich-Poole Bank,5943,1901-06-13
+70,Rivera Ltd Bank,5397,1995-10-11
+71,Saunders Ltd Bank,14990,1979-11-05
+72,"Page, Patel and Brown Bank",6847,1956-07-17
+73,"Deleon, Rivera and Barrera Bank",10559,1999-07-12
+74,Dean Group Bank,25859,1993-08-25
+75,"Lewis, Wilkerson and Hall Bank",38864,2010-01-28
+76,Clark PLC Bank,21431,1906-10-23
+77,"Griffin, Terrell and Mason Bank",13371,1950-11-12
+78,Castaneda-Clarke Bank,39031,1960-11-01
+79,Lewis LLC Bank,32895,1890-09-14
+80,Lee-Smith Bank,30273,1890-08-03
+81,"Jones, Carr and Patel Bank",38381,1920-07-10
+82,Velazquez-Nguyen Bank,13148,1953-07-15
+83,"Mack, Wilkinson and Stevenson Bank",37990,1899-03-18
+84,Jenkins-Olson Bank,11498,1913-07-16
+85,Rodriguez Group Bank,3633,1990-05-12
+86,Johnson Group Bank,12860,1975-06-26
+87,Leblanc-Molina Bank,12024,1999-07-14
+88,Harris-Brennan Bank,48347,1966-07-10
+89,Flores-Hoffman Bank,47791,1997-03-11
+90,Garner-Miller Bank,35590,1914-06-25
+91,Anderson and Sons Bank,40569,1927-06-22
+92,"Sawyer, Wagner and Hudson Bank",25455,2012-04-06
+93,"Reynolds, Fitzgerald and Anderson Bank",27028,1906-05-25
+94,Jennings-Smith Bank,35516,1927-09-07
+95,Diaz-Howard Bank,34842,1907-07-05
+96,"Sawyer, Griffin and Rogers Bank",4540,1892-08-26
+97,Bonilla Inc Bank,3834,1957-01-19
+98,"Ruiz, Bruce and Pennington Bank",42296,1935-04-10
+99,"Rogers, Alexander and Wolfe Bank",24372,1920-04-24
+100,"Moore, Carr and Bradford Bank",40831,1918-12-01
+101,Cordova Inc Bank,21289,1976-02-27
+102,Fisher-Guerra Bank,12505,1998-01-12
+103,Norman-Wu Bank,15080,1969-03-31
+104,Wolf-James Bank,15335,1903-10-31
+105,Gonzales-Horn Bank,26702,1944-01-23
+106,Chase Inc Bank,15031,1888-01-07
+107,English-King Bank,33202,1898-02-24
+108,Smith-Henderson Bank,6077,1914-11-30
+109,"Williams, Choi and Ward Bank",47369,1986-03-04
+110,Mack-Smith Bank,23826,1990-08-12
+111,Randolph-Smith Bank,12742,2004-06-24
+112,Martinez-Cook Bank,18933,1921-09-02
+113,"Oneal, Shelton and Richards Bank",12262,1908-03-12
+114,Sanders-Oconnor Bank,10895,1970-08-05
+115,Miles-Wood Bank,18316,1893-08-07
+116,Lee-Ortiz Bank,30490,1933-05-24
+117,"Erickson, Winters and Weaver Bank",33090,1892-04-21
+118,Conrad-Smith Bank,8649,1877-03-10
+119,"Gibbs, Moore and Wallace Bank",42649,1883-02-03
+120,"Christian, Ellis and Perez Bank",35413,1934-05-24
+121,"Campbell, Flynn and Williams Bank",48348,2014-12-17
+122,Green Inc Bank,42290,1963-09-07
+123,Bradford-Massey Bank,23490,1999-06-14
+124,Savage-Reeves Bank,37766,1881-05-14
+125,Poole Group Bank,48002,1999-01-06
+126,Barrera Group Bank,36672,1969-09-11
+127,Baker Ltd Bank,39005,1998-10-31
+128,Osborne-Murphy Bank,24413,1882-04-05
+129,Lopez-Owens Bank,9590,1972-04-08
+130,Hunter-Shannon Bank,28651,1952-12-16
+131,Carter and Sons Bank,6296,1881-10-09
+132,"Gonzales, Huynh and Silva Bank",26290,1943-08-10
+133,"Wilson, Ford and Matthews Bank",38781,1948-02-22
+134,Novak-Gardner Bank,40879,1890-08-22
+135,Hernandez Ltd Bank,32780,1924-01-14
+136,Bowen-Jackson Bank,42278,1977-03-21
+137,Anderson Ltd Bank,1645,1968-04-27
+138,Henderson Ltd Bank,23735,1987-01-08
+139,Wade LLC Bank,29663,1962-10-23
+140,Wheeler and Sons Bank,42150,1953-06-08
+141,Wise PLC Bank,29766,1881-09-13
+142,Hamilton Inc Bank,16933,1919-01-23
+143,Rodriguez LLC Bank,7837,1938-06-03
+144,Mccoy Ltd Bank,45368,2005-08-08
+145,"Duncan, Sanchez and Flores Bank",33605,2013-01-02
+146,White-Bailey Bank,41670,1915-08-04
+147,Bryant-Johnson Bank,41258,1949-12-20
+148,Hernandez Group Bank,26980,1981-03-19
+149,Dennis-Sanders Bank,40414,1965-12-12
+150,Espinoza-Russell Bank,8235,1964-01-22
+151,Silva Inc Bank,31144,1958-08-04
+152,Singleton and Sons Bank,27518,1934-05-11
+153,Preston-Jenkins Bank,38944,1882-03-21
+154,"Young, Payne and Gibson Bank",16509,1913-08-30
+155,Ferguson and Sons Bank,6259,1934-12-10
+156,Stevens PLC Bank,32323,1978-05-08
+157,Hanna-Owens Bank,19034,1977-08-07
+158,Martin-Wright Bank,11111,2011-06-16
+159,"Garcia, Jackson and Campbell Bank",40082,1972-04-24
+160,Hamilton-Hoffman Bank,23377,2014-05-24
+161,"Hodges, Gillespie and Carter Bank",22743,1905-06-15
+162,Bruce Ltd Bank,6976,1980-07-29
+163,Davis-Powell Bank,49761,1894-09-30
+164,"Russell, Schmidt and Smith Bank",38024,1955-03-17
+165,"Price, Singleton and Maddox Bank",18551,1886-05-03
+166,Howard-Martin Bank,33958,1994-03-26
+167,Gillespie Ltd Bank,4218,1921-10-12
+168,Smith-Owens Bank,19701,1977-12-25
+169,Bennett PLC Bank,38300,1913-06-07
+170,Gonzalez PLC Bank,41546,1984-01-16
+171,Villa-Moore Bank,44300,1901-10-05
+172,Frost Group Bank,42362,1876-06-02
+173,Powell PLC Bank,47670,1994-08-05
+174,"Mccarthy, Davis and Gilmore Bank",3109,1965-06-16
+175,Turner Ltd Bank,17697,2003-08-30
+176,Brooks-Burke Bank,4486,1980-06-07
+177,Morgan LLC Bank,37979,1973-11-14
+178,"Good, Jones and Mays Bank",4149,2006-02-11
+179,"Ward, Compton and Mcdonald Bank",31130,1945-03-24
+180,"Rodriguez, Aguirre and Thomas Bank",27718,1951-12-24
+181,"Flores, Hill and Duarte Bank",24508,1936-02-04
+182,Peterson-Allen Bank,9799,1969-12-31
+183,Santos-Conley Bank,27825,1966-10-07
+184,Sanders PLC Bank,11337,2012-04-11
+185,"Cox, Andrews and Washington Bank",4132,2003-05-20
+186,"Cole, Turner and Mckenzie Bank",2851,2007-07-17
+187,Ward Inc Bank,30092,1989-02-14
+188,"Callahan, Cooke and Nguyen Bank",21304,1952-01-17
+189,"Henderson, Mitchell and Foster Bank",36199,1926-08-19
+190,Cooper-Gonzalez Bank,5095,1990-08-24
+191,Flores-Hinton Bank,27892,1986-01-10
+192,"Nunez, Palmer and Vargas Bank",6251,1918-08-03
+193,"Smith, Reyes and Frederick Bank",4542,1956-10-01
+194,Snow-Shaw Bank,44606,1947-09-20
+195,Gilbert Group Bank,13393,1950-01-30
+196,Stewart Group Bank,43545,1899-03-13
+197,"Duran, Scott and Simpson Bank",14351,1940-06-12
+198,Lang-Burnett Bank,43197,1994-08-13
+199,"Smith, Holden and Sanford Bank",4067,1941-01-25
+200,"Barker, Fernandez and Dean Bank",41344,1936-02-22
+201,Boone-Murphy Bank,14714,1946-06-25
+202,"Sanchez, Knox and Golden Bank",41759,1942-02-13
+203,Jones-Rodriguez Bank,36074,1960-08-24
+204,Green and Sons Bank,23924,1928-02-05
+205,Hayes-Moore Bank,42752,1968-08-05
+206,"Burnett, Garcia and Fox Bank",48574,1945-05-17
+207,Green-Anderson Bank,12809,1946-09-15
+208,"Hill, Floyd and Vaughan Bank",19739,1929-05-28
+209,"Wade, Luna and Mckenzie Bank",10661,1968-01-29
+210,Morales-Wright Bank,18174,1949-09-29
+211,Elliott Ltd Bank,32665,1982-08-19
+212,"Simpson, Haney and Johnson Bank",42623,2012-10-29
+213,Johnston Group Bank,32981,1968-07-21
+214,"Dunn, Mora and Garcia Bank",43263,2004-01-06
+215,Blair-Newman Bank,44536,1898-12-15
+216,Bailey Group Bank,40389,1944-04-07
+217,"Hernandez, Murray and Barnes Bank",15640,2001-04-11
+218,Liu PLC Bank,19886,1894-01-20
+219,Wright Ltd Bank,45197,1930-05-07
+220,Turner and Sons Bank,44673,1918-07-30
+221,"Collins, Anderson and Holt Bank",20321,1918-09-28
+222,Young and Sons Bank,30112,1902-10-25
+223,"Martin, Brown and Byrd Bank",37009,1906-03-23
+224,Whitehead-Schmidt Bank,49336,1948-09-09
+225,"Sullivan, Rivera and Ramirez Bank",45174,1988-08-29
+226,"Cooke, Hubbard and Nguyen Bank",16099,1966-09-27
+227,"Ramirez, Ellis and Jordan Bank",34711,1957-05-20
+228,"Stone, Mills and Davis Bank",23026,1985-01-25
+229,"Sandoval, Jordan and Dixon Bank",46953,1889-06-20
+230,Medina-Butler Bank,23745,1913-07-07
+231,"Collins, Jenkins and Smith Bank",27636,1987-08-11
+232,"Wilson, Lee and Solis Bank",24316,1968-12-14
+233,Myers and Sons Bank,15182,1920-06-29
+234,Grant and Sons Bank,13431,1933-01-14
+235,Cole-Fowler Bank,31154,1914-01-10
+236,Shah-Brooks Bank,2099,1909-12-24
+237,Cole-Martin Bank,37203,1952-12-31
+238,Cohen PLC Bank,23814,1978-09-17
+239,Dillon-Brown Bank,19328,2008-07-18
+240,"Hernandez, Schultz and Mullen Bank",17963,1909-11-23
+241,"Smith, Garcia and Trevino Bank",47317,2012-11-16
+242,"Whitney, Ray and Jenkins Bank",40547,1994-10-08
+243,"Martin, Nelson and Jones Bank",27291,2002-09-15
+244,Price Inc Bank,23907,1919-12-18
+245,Vega-Gordon Bank,22638,1928-04-06
+246,Kline Inc Bank,13852,1924-08-30
+247,"Moore, Shelton and Davis Bank",21179,1973-02-07
+248,Hill Inc Bank,30188,1977-05-15
+249,"Gonzalez, Santiago and Calhoun Bank",13984,1964-01-31
+250,Vincent-Marquez Bank,33475,1972-04-12
+251,Williams-Porter Bank,29275,1934-11-16
+252,"Rosales, Joseph and Bernard Bank",17200,2005-07-05
+253,Mayer Ltd Bank,4132,1901-05-30
+254,Rose and Sons Bank,10164,1880-06-11
+255,Johnson PLC Bank,49992,1876-01-10
+256,Carlson PLC Bank,45597,1919-01-27
+257,Valdez Ltd Bank,49605,1908-01-11
+258,"Wheeler, Hooper and Thompson Bank",29759,1949-01-27
+259,Bell-Jordan Bank,12156,2006-04-22
+260,"Wright, Chavez and Horn Bank",9774,2013-04-30
+261,Blanchard Group Bank,9804,1949-11-02
+262,Carter-Snyder Bank,21583,1911-01-26
+263,"Brown, Taylor and Rodriguez Bank",3848,2011-03-01
+264,Evans and Sons Bank,8560,1931-04-02
+265,Ayers LLC Bank,9343,1893-06-13
+266,Andrews-Morse Bank,44945,2006-10-21
+267,Krause-Irwin Bank,48831,1949-05-10
+268,Burns-Duran Bank,2483,1937-09-09
+269,Wood-Werner Bank,10810,2014-11-22
+270,"Sanchez, Carter and Shelton Bank",40966,1946-11-28
+271,Gilbert-King Bank,17432,1984-03-06
+272,"Lane, Walsh and Johnson Bank",8844,1984-04-17
+273,Coleman-Travis Bank,1245,2000-02-22
+274,Wolf-Burns Bank,8781,1930-12-17
+275,"Murphy, Myers and Dennis Bank",33881,1895-07-10
+276,"Daniels, Ramos and Mckee Bank",16828,1899-07-02
+277,Franklin and Sons Bank,49290,1939-03-14
+278,"Kline, Weeks and Anderson Bank",15221,1915-10-22
+279,Boyd PLC Bank,10046,1881-06-23
+280,Rice-Evans Bank,30484,2002-07-27
+281,Joyce-Lyons Bank,18752,1985-02-09
+282,Wolf Group Bank,38290,1973-03-13
+283,"Robertson, Stanley and Woods Bank",22020,1907-08-08
+284,Miller Group Bank,1169,1963-03-26
+285,Moore-Moore Bank,7427,1880-03-25
+286,Byrd-Martinez Bank,49201,1881-11-06
+287,"Velasquez, Higgins and Krueger Bank",5003,1956-05-05
+288,Foster and Sons Bank,15467,1929-07-28
+289,Baker LLC Bank,42572,1963-11-29
+290,Wilson Group Bank,19150,2009-02-13
+291,Patterson Ltd Bank,25668,1951-02-18
+292,Mcdowell Ltd Bank,36203,1955-09-23
+293,Smith-Fernandez Bank,37797,1879-04-02
+294,"Henry, Robinson and Berg Bank",15308,1878-12-11
+295,Butler and Sons Bank,7890,1930-10-21
+296,Stevens-Cochran Bank,48336,2001-05-09
+297,Rivera Inc Bank,22656,1937-06-15
+298,"Parsons, Barrett and Mccall Bank",17918,1942-01-23
+299,Adams-Brady Bank,22504,1962-02-26
+300,"Henry, Aguilar and Duncan Bank",24402,1915-02-17
+301,Richardson PLC Bank,8490,1982-03-03
+302,Mcknight Group Bank,30336,1959-12-01
+303,Jones PLC Bank,7390,1983-10-17
+304,Roberson PLC Bank,10178,1963-07-06
+305,Barber-Garner Bank,40150,1912-10-02
+306,"Munoz, Lewis and Fuller Bank",32682,1894-06-05
+307,Schmidt-Ramirez Bank,36819,1990-12-23
+308,Vasquez-Brandt Bank,47422,1918-05-11
+309,Mann-Williams Bank,8513,1905-10-01
+310,Williams-Cruz Bank,47793,2000-01-30
+311,"Williams, Stone and Estrada Bank",4638,1969-09-15
+312,Jennings Ltd Bank,1956,1888-02-01
+313,Roberts-Henry Bank,2198,1923-03-07
+314,Ramos PLC Bank,1161,1998-08-22
+315,Daniel-Peterson Bank,21099,1995-11-09
+316,Garza Ltd Bank,9242,1998-05-22
+317,Vega PLC Bank,43873,1990-07-08
+318,Jones Inc Bank,2206,2006-09-02
+319,"Ford, Banks and Lowe Bank",30148,1982-03-31
+320,Galloway and Sons Bank,31825,1958-07-07
+321,"Campbell, Williams and Koch Bank",31650,1881-04-22
+322,Watson-Smith Bank,40731,1963-03-09
+323,"Clark, White and Wolfe Bank",24629,1959-01-26
+324,"Coleman, Novak and Townsend Bank",26919,1917-03-15
+325,"White, Wood and Davis Bank",33269,1937-01-07
+326,"White, Hill and Gibson Bank",9585,1982-06-02
+327,Wu Inc Bank,48678,1906-04-05
+328,"Butler, Murray and Peterson Bank",5847,2009-04-11
+329,Jones-Manning Bank,11003,1894-07-30
+330,Griffin-Mills Bank,49116,1995-11-19
+331,Watson-Gonzalez Bank,31670,2000-03-19
+332,Mendez-Mcintyre Bank,12425,1962-02-05
+333,Solomon Ltd Bank,37615,1893-02-26
+334,Schultz Inc Bank,33909,1904-04-19
+335,Luna and Sons Bank,13950,2007-10-29
+336,"Robertson, Chandler and Smith Bank",11259,1904-10-18
+337,Watson LLC Bank,49114,1964-05-16
+338,White Group Bank,47326,1938-07-25
+339,Lee Inc Bank,14215,1880-05-20
+340,Warner and Sons Bank,18715,1953-11-12
+341,Mullins-Peters Bank,30492,1962-03-25
+342,Pace Ltd Bank,46524,1951-04-13
+343,Wang Inc Bank,45529,1942-07-12
+344,Vargas-Hall Bank,31367,1898-12-16
+345,"Robinson, Nelson and Rodriguez Bank",19204,1901-06-15
+346,Stout-Russell Bank,49034,1969-09-01
+347,Nguyen Ltd Bank,22621,1980-03-13
+348,"Walker, Soto and Pratt Bank",45642,1969-05-19
+349,"Brown, Hess and Mcmillan Bank",43547,1877-02-09
+350,"Morgan, Harris and Smith Bank",44635,1955-09-06
+351,"Thomas, Conley and Snyder Bank",16209,1998-06-19
+352,Rodriguez and Sons Bank,23342,1944-07-09
+353,"Robinson, Delgado and Barker Bank",5021,1948-05-15
+354,Bonilla-Taylor Bank,46092,1914-04-02
+355,"Wade, Brown and Wagner Bank",22407,1965-02-17
+356,Powell Inc Bank,10065,1967-06-01
+357,Anderson-Vazquez Bank,2508,1960-07-28
+358,Gonzalez-Mejia Bank,18925,1887-02-09
+359,Flores-Le Bank,2327,1984-01-30
+360,Davis Inc Bank,14282,1999-08-08
+361,Powell-Anderson Bank,21209,1951-10-01
+362,Sanchez-Mcdowell Bank,4334,1992-10-20
+363,"Ward, West and Stewart Bank",1017,1953-08-04
+364,Skinner Ltd Bank,23351,1996-12-20
+365,Allison PLC Bank,46909,1883-07-04
+366,Cruz PLC Bank,28895,1888-10-04
+367,Maxwell-Baker Bank,33039,1934-03-29
+368,Simpson and Sons Bank,5740,1914-05-01
+369,Reyes Ltd Bank,18689,2009-04-22
+370,"Rogers, Gallagher and Dickerson Bank",38611,1956-07-15
+371,Brown and Sons Bank,38615,1973-08-24
+372,"Quinn, Holden and Wagner Bank",33709,1878-06-19
+373,Dickson Ltd Bank,34227,1930-10-16
+374,Johnson and Sons Bank,19807,1899-11-02
+375,Palmer PLC Bank,4710,1893-11-17
+376,Howard-Frank Bank,8431,1968-08-06
+377,"Morris, Hoover and Smith Bank",18604,1924-05-04
+378,Dennis and Sons Bank,45458,1878-11-29
+379,Romero LLC Bank,40130,1974-09-08
+380,Stone-Bryan Bank,46192,1926-10-19
+381,"Bauer, Howe and Black Bank",16444,1886-10-06
+382,"Holmes, Whitney and Mcmillan Bank",21952,1994-03-23
+383,Mcdonald LLC Bank,27796,1928-01-31
+384,"Scott, Robles and Mora Bank",39471,1981-08-08
+385,Martinez PLC Bank,35565,1880-09-14
+386,"Bender, Callahan and Taylor Bank",49191,1969-05-22
+387,Massey-Harrell Bank,32199,2012-01-09
+388,"Ortiz, Vasquez and Patterson Bank",41385,1931-05-15
+389,"Martinez, Butler and Osborne Bank",45908,1979-10-23
+390,Henry-Lara Bank,34078,1942-03-25
+391,"Brown, Sanchez and Pennington Bank",34817,1890-05-15
+392,"Ryan, Choi and Wilkerson Bank",40905,1954-11-26
+393,Gonzalez-Garza Bank,10073,1889-03-07
+394,Garza-Perry Bank,18829,1989-06-17
+395,"Austin, Marsh and Wilson Bank",18378,1985-05-17
+396,Wong-Pineda Bank,46726,1913-06-22
+397,Jensen Group Bank,40702,1915-11-21
+398,Cochran-Ochoa Bank,33714,2013-10-27
+399,"Anderson, Murphy and Jenkins Bank",29853,1993-07-16
+400,Williams-Reynolds Bank,29030,1882-07-07
+401,Jordan-Butler Bank,15774,1949-09-18
+402,"Dunn, Murray and Fisher Bank",3764,2007-09-02
+403,Duarte Ltd Bank,33412,1925-04-29
+404,Davis Ltd Bank,7096,1897-12-24
+405,Lee and Sons Bank,3091,1895-06-16
+406,Smith Group Bank,27018,1878-06-21
+407,"Hammond, Morgan and Webster Bank",30063,1934-06-30
+408,Stanton-Wilson Bank,23384,1995-07-29
+409,Meyer Inc Bank,18967,1994-03-16
+410,Garcia-Collins Bank,30667,1932-05-07
+411,"Smith, Hughes and Mueller Bank",22779,2006-03-28
+412,Roberts and Sons Bank,36397,1878-11-30
+413,Parker-Dean Bank,48688,1961-05-17
+414,"Flores, Johnson and Sanchez Bank",48488,1903-02-28
+415,Potter Group Bank,23928,1928-10-11
+416,Brown-Bautista Bank,32978,1880-01-12
+417,Smith-Mccoy Bank,4518,1999-04-16
+418,Davis-Curtis Bank,45911,2000-07-25
+419,Nelson-Ramirez Bank,46529,1933-03-18
+420,Carroll-Martinez Bank,10102,1970-04-09
+421,Thornton LLC Bank,7651,1983-12-13
+422,Caldwell-Sherman Bank,33120,1897-11-10
+423,Lewis-Moore Bank,33980,1902-12-29
+424,Mcfarland LLC Bank,19070,1998-04-29
+425,Beasley-Silva Bank,18421,1972-01-10
+426,Washington-Mcdowell Bank,24566,1970-09-29
+427,"Atkinson, Wilson and Jacobs Bank",5324,1932-03-20
+428,Brown-Matthews Bank,46683,1956-07-06
+429,Dickson-Turner Bank,47347,1876-12-26
+430,Harvey-Heath Bank,42942,1940-08-12
+431,Johnson-Mckee Bank,38722,1964-01-17
+432,Martinez Group Bank,13920,1942-10-19
+433,"Anderson, Burnett and Webb Bank",24886,1878-06-08
+434,"Mcdonald, Edwards and Jones Bank",49100,1947-07-23
+435,Murphy PLC Bank,45805,1887-03-14
+436,"Flores, Benson and Brown Bank",33927,1987-03-28
+437,Salazar-Savage Bank,31123,2006-02-16
+438,Evans PLC Bank,20195,2014-02-23
+439,"Spears, Prince and Howard Bank",32913,1958-05-21
+440,"Powell, Stephens and Christensen Bank",32718,1971-08-10
+441,Collins Inc Bank,18018,1993-01-01
+442,Berg-Baker Bank,30282,1941-12-15
+443,Johnson-Johnson Bank,12460,1964-04-24
+444,Silva Ltd Bank,15054,1880-02-18
+445,Estrada Ltd Bank,48663,1907-03-06
+446,Rocha Group Bank,8276,1964-01-09
+447,Day-Cook Bank,27626,1936-08-05
+448,"Reese, Tran and Yoder Bank",17140,1880-12-18
+449,Gonzales-Sherman Bank,48292,1892-07-15
+450,Campbell PLC Bank,36342,1960-07-29
+451,"Dawson, Munoz and Price Bank",40835,2009-06-06
+452,"Strong, Gomez and Merritt Bank",17055,1997-12-17
+453,"Crawford, Meyer and Bartlett Bank",11741,1969-12-06
+454,"Brown, Jones and Reed Bank",38777,1913-05-12
+455,Olsen-Anderson Bank,39709,1984-11-04
+456,Harris-Dillon Bank,16291,1937-08-03
+457,Church Group Bank,23282,1945-10-03
+458,"Mercado, Gardner and Garcia Bank",8766,1998-05-02
+459,Miles Inc Bank,30330,1944-11-14
+460,"Schwartz, Ortega and Brown Bank",13686,1954-03-07
+461,Nichols-Wilson Bank,27268,1930-11-11
+462,Bright and Sons Bank,26152,1891-04-17
+463,Martin LLC Bank,11532,2009-10-14
+464,"Hunter, Holmes and Morris Bank",29981,1904-08-03
+465,Sanders-Ruiz Bank,22593,1997-01-02
+466,Valentine-Bauer Bank,43215,1967-06-12
+467,"Smith, Stewart and Mejia Bank",35937,1977-02-05
+468,Smith PLC Bank,41566,1970-11-09
+469,Watson Group Bank,5088,1937-10-01
+470,Bailey-Fox Bank,40861,1914-06-10
+471,Murphy and Sons Bank,1150,1953-04-20
+472,Dickson Group Bank,41457,1964-11-22
+473,Diaz-Vargas Bank,2629,1976-03-20
+474,"Cole, Andrade and Powers Bank",44817,1912-07-28
+475,Duncan Group Bank,5141,1875-09-22
+476,White PLC Bank,37423,1924-11-17
+477,Ramirez LLC Bank,22028,1973-08-27
+478,"Mann, Nguyen and Hendrix Bank",10998,1952-10-18
+479,Cisneros-Berry Bank,7474,1973-10-25
+480,Scott LLC Bank,46382,1930-07-04
+481,"David, Tran and Davis Bank",29165,1882-09-07
+482,Flores-Williams Bank,11697,1962-10-22
+483,Jenkins-Anderson Bank,27023,1937-01-27
+484,Waters Ltd Bank,1244,1905-04-28
+485,Dougherty Ltd Bank,45201,1880-02-26
+486,"Hernandez, Gill and Williams Bank",47882,1992-07-11
+487,Church Inc Bank,13358,1897-10-20
+488,Dixon Ltd Bank,25730,1924-10-02
+489,Reyes-Briggs Bank,4537,1943-04-07
+490,Rodriguez PLC Bank,27808,1942-04-28
+491,Fowler-Garcia Bank,41165,1928-03-23
+492,Wilson Ltd Bank,10184,1957-07-20
+493,"Long, Robinson and Liu Bank",40220,1995-08-23
+494,Erickson-Gonzalez Bank,44386,1888-03-13
+495,"Lyons, Hall and Kennedy Bank",29291,1938-05-10
+496,Norton Ltd Bank,5732,1953-11-08
+497,"Hunter, Adams and Daniels Bank",43158,1981-06-23
+498,"Mendoza, Snyder and Wolf Bank",9121,2001-01-26
+499,Young LLC Bank,41080,1964-02-02
+500,Garcia-Wheeler Bank,28789,1986-12-08
+501,Carter Group Bank,14984,1978-06-19
+502,"Jacobs, White and Rivers Bank",16400,1904-04-08
+503,Cook Group Bank,46447,1912-11-04
+504,Miller-Jacobson Bank,24210,1934-02-14
+505,Ayala-Stanley Bank,45662,1995-09-29
+506,Mckinney Inc Bank,40248,1927-05-21
+507,Palmer LLC Bank,46941,1894-07-07
+508,Collier-Gentry Bank,1401,1904-10-10
+509,Harvey-Jones Bank,39089,1985-06-24
+510,Patrick-Garcia Bank,8257,2004-07-24
+511,"Johnson, Graham and Garcia Bank",20265,2010-12-15
+512,Conway-Mayer Bank,20232,1885-10-12
+513,Peck PLC Bank,6107,2002-10-17
+514,Mccoy LLC Bank,44187,1922-11-09
+515,"Garrett, Johnson and Diaz Bank",19600,1876-09-05
+516,Shaffer Inc Bank,27889,2005-05-08
+517,"Hall, Guzman and Woodward Bank",23114,2005-09-20
+518,Baldwin-Davis Bank,11043,1893-02-14
+519,"Williams, Rogers and Collins Bank",10289,1997-06-24
+520,Garner Ltd Bank,19950,1928-04-12
+521,Proctor-Kramer Bank,49057,1941-07-04
+522,Larson and Sons Bank,45969,1922-01-28
+523,Cox PLC Bank,12642,1954-07-31
+524,Munoz-Ingram Bank,22633,1966-05-22
+525,"Clark, Maxwell and Gonzalez Bank",21378,1916-04-28
+526,Morris-Higgins Bank,16186,1922-03-02
+527,Robbins-Joyce Bank,25833,1904-02-19
+528,"Salinas, Lynn and Brown Bank",44711,1959-03-15
+529,Rodriguez Inc Bank,21313,1959-01-28
+530,Davis-Lawrence Bank,36605,1891-05-11
+531,"Paul, Miller and Cox Bank",6742,1878-06-17
+532,"Hill, Burch and Malone Bank",26343,1992-02-29
+533,"Waters, Bray and Taylor Bank",20778,2002-08-05
+534,"Thomas, Goodwin and Norton Bank",33771,1889-02-02
+535,Rodriguez Ltd Bank,24521,2008-11-28
+536,"Blair, Jordan and Abbott Bank",46707,1985-12-12
+537,Allen-Smith Bank,4120,2012-07-25
+538,Brooks Ltd Bank,10706,1989-08-13
+539,Hale Group Bank,6992,1924-05-05
+540,"Kennedy, Johnson and Lopez Bank",4547,1921-11-03
+541,Bennett-Davis Bank,17869,1915-04-19
+542,Bailey-Smith Bank,49926,1976-05-09
+543,Browning Inc Bank,47129,1996-11-27
+544,Garza Inc Bank,1858,1979-12-11
+545,"Dickerson, Shea and Goodman Bank",22982,1901-12-01
+546,Kline PLC Bank,5569,1982-08-26
+547,George Inc Bank,12060,1924-11-06
+548,Torres PLC Bank,8153,1941-02-02
+549,"Coleman, Love and Gonzalez Bank",31772,1998-07-01
+550,Newman-Gonzalez Bank,6942,1920-04-22
+551,Huff-Bradshaw Bank,46289,1952-07-14
+552,"Stewart, Parker and Baker Bank",27744,1888-06-03
+553,"Schultz, Shepard and Nguyen Bank",40941,1943-02-04
+554,"Lambert, Miller and Alvarado Bank",23574,1988-07-31
+555,Garner-Dean Bank,33736,1995-01-27
+556,Jones and Sons Bank,16217,1875-04-22
+557,Long-Carroll Bank,24757,1941-03-16
+558,"Harris, Lopez and Rubio Bank",28764,1983-11-19
+559,Johnson-Boyd Bank,37953,1936-09-08
+560,Watkins LLC Bank,48246,1963-04-09
+561,Hodges-Chen Bank,19895,1917-01-31
+562,"Sandoval, Wilson and Anderson Bank",1529,2008-07-02
+563,Friedman-Barrett Bank,26120,1978-05-18
+564,"Willis, Garcia and Johnson Bank",15593,1979-04-08
+565,"Williams, Boyd and Monroe Bank",35175,2000-01-19
+566,"Kim, Reynolds and Bentley Bank",44531,1995-11-28
+567,Paul-Jones Bank,17683,2009-12-07
+568,Franklin Group Bank,10681,1885-06-25
+569,Hicks-Mccoy Bank,20363,1902-01-22
+570,Armstrong and Sons Bank,29316,1933-05-22
+571,"Thomas, Frank and Patrick Bank",49985,1935-03-31
+572,"Keller, Lopez and Miller Bank",10867,1984-01-16
+573,"Mcconnell, Black and Hamilton Bank",40175,1882-01-13
+574,Turner PLC Bank,3155,1969-05-01
+575,Lamb-Smith Bank,39425,1903-12-18
+576,"Mitchell, Martin and Vazquez Bank",41903,1887-03-16
+577,"Carpenter, Simmons and Hardy Bank",33922,1969-06-19
+578,"Solomon, Dorsey and Schwartz Bank",8457,1968-01-20
+579,Arnold Ltd Bank,12527,1945-02-02
+580,"Hall, Cisneros and Kelly Bank",13494,1980-05-13
+581,"Mayer, Ellis and Lee Bank",12324,1926-09-24
+582,Ross and Sons Bank,5063,1974-04-07
+583,Hernandez-Ramos Bank,30442,1946-04-20
+584,"Gates, Gomez and Wise Bank",26877,1998-01-03
+585,Gonzales-Carey Bank,22048,1900-07-02
+586,"Simmons, Mooney and Bishop Bank",21050,1981-05-22
+587,"Hill, Robinson and Gentry Bank",32707,1919-04-18
+588,Barry-Buckley Bank,20224,1904-02-19
+589,Carr LLC Bank,35321,1899-08-28
+590,George-Baker Bank,27891,1932-09-12
+591,Ingram PLC Bank,41266,2010-01-14
+592,"Hansen, Hernandez and Ross Bank",35526,2006-06-30
+593,"Rodriguez, King and Thompson Bank",32602,1943-03-02
+594,Rodriguez-Dalton Bank,27961,1979-04-16
+595,Weaver LLC Bank,48861,1995-06-08
+596,"Chandler, Cisneros and Reed Bank",40068,1883-11-15
+597,Beltran-Rogers Bank,19664,1966-02-08
+598,Williams-Gonzalez Bank,18729,1958-10-28
+599,Miller-Flores Bank,25422,1892-06-22
+600,"Rogers, Gomez and Hudson Bank",43772,1993-02-12
+601,"Trevino, Kirk and Spencer Bank",21591,1896-05-27
+602,Smith Ltd Bank,1613,1875-12-15
+603,Ellis Group Bank,42344,1900-08-23
+604,"Wilson, Carter and Morris Bank",39114,1986-11-22
+605,Smith and Sons Bank,19807,1936-10-07
+606,"Gallegos, Tucker and Richardson Bank",44398,1978-06-28
+607,"Walton, Leonard and Brown Bank",25873,1959-03-18
+608,Palmer-Morgan Bank,1775,1937-03-30
+609,Hughes Ltd Bank,38892,1922-03-26
+610,Goodwin and Sons Bank,18349,1898-11-23
+611,Jackson-Thomas Bank,37564,1980-12-20
+612,Kaiser Ltd Bank,21489,1996-11-08
+613,Lopez LLC Bank,38142,1911-10-26
+614,Boyd-Alexander Bank,15175,1991-02-14
+615,Hubbard-Carpenter Bank,46559,1967-07-01
+616,Barron-Allen Bank,8129,1931-08-18
+617,Watson Inc Bank,29254,1927-12-03
+618,"Harrison, Porter and Fowler Bank",11827,1973-05-29
+619,Walls-Johnson Bank,41757,1950-03-01
+620,"Gonzalez, Brown and Lutz Bank",5169,1875-08-22
+621,Cummings LLC Bank,35318,1976-11-10
+622,"Martinez, Beard and Wilson Bank",43860,1942-05-14
+623,"Burgess, Henderson and Moore Bank",7116,1961-12-20
+624,Smith-Hobbs Bank,46569,1877-12-19
+625,Flores-Hahn Bank,36334,1995-08-22
+626,Crawford and Sons Bank,25968,1907-03-23
+627,Hicks Inc Bank,40788,1947-04-17
+628,"Myers, Williams and Mcgee Bank",15167,1947-11-05
+629,"Moody, Johnson and Miller Bank",18836,1990-04-23
+630,Adams-Kelly Bank,2127,1875-05-01
+631,Hayes Group Bank,6604,1948-10-25
+632,Gray-Robertson Bank,31657,1965-08-21
+633,"Novak, Chandler and Matthews Bank",45150,1931-04-22
+634,Guerrero Inc Bank,37931,1929-05-26
+635,"Taylor, Cabrera and Gordon Bank",10221,1888-03-18
+636,Rowe-Ross Bank,4233,1934-05-17
+637,Gonzalez-Dixon Bank,20864,2013-07-26
+638,Avery and Sons Bank,21914,1990-05-15
+639,"Walker, Smith and Young Bank",32924,1939-03-21
+640,"Mays, Jensen and Davis Bank",9775,2009-07-12
+641,Hill Group Bank,34291,1894-04-26
+642,"Doyle, Rice and Garcia Bank",21602,1968-08-14
+643,Cisneros PLC Bank,8337,1972-11-30
+644,"Faulkner, Robbins and Lang Bank",11490,1993-04-05
+645,Duarte Group Bank,14248,1901-10-16
+646,Stevens Group Bank,34970,1989-06-04
+647,Mendez Ltd Bank,10059,1960-08-09
+648,"Keller, Jones and Reid Bank",44280,1950-03-02
+649,"Moore, Russell and Miller Bank",21813,1962-01-04
+650,Smith LLC Bank,7577,1884-02-08
+651,"Riddle, Wood and Gonzalez Bank",19476,1891-02-19
+652,"Mata, Smith and Gonzalez Bank",49640,1949-11-20
+653,"Golden, Cox and Ritter Bank",27082,1924-11-04
+654,Coffey-Cline Bank,16797,1920-10-07
+655,Gomez-Stanley Bank,12474,1902-07-23
+656,Manning-Duarte Bank,12350,1930-10-22
+657,"Ramos, Hunt and Young Bank",9522,1880-02-10
+658,Estrada LLC Bank,3386,1971-02-04
+659,Sims-Horn Bank,1698,1978-04-22
+660,Bell LLC Bank,45840,1913-08-31
+661,"Skinner, Cox and Wolfe Bank",43303,1943-02-01
+662,"Griffith, Cummings and Rodriguez Bank",32405,1950-02-18
+663,Mccarthy-Marshall Bank,17140,1961-10-29
+664,Lynch and Sons Bank,11413,1955-02-22
+665,Jackson-Singh Bank,28137,1908-07-27
+666,"Curtis, Mayer and Allen Bank",42069,1985-11-22
+667,Lozano-Jackson Bank,9338,1917-01-07
+668,"Johnson, Bryan and Moore Bank",24149,1967-01-28
+669,"Odom, Kirby and Hogan Bank",37522,1930-03-14
+670,"Armstrong, Peters and Cole Bank",45263,1995-06-15
+671,Coleman LLC Bank,43514,1957-10-02
+672,"Dixon, Petersen and Steele Bank",40763,1947-05-06
+673,"Reese, Cohen and Davis Bank",10035,1948-09-05
+674,Burke Group Bank,35725,1890-12-19
+675,Berry Inc Bank,28061,1891-01-04
+676,Joseph-Peterson Bank,12907,1929-07-13
+677,"Mccormick, Santiago and Mack Bank",5417,1992-02-22
+678,Reynolds Ltd Bank,14353,1948-09-10
+679,"White, Sanchez and Holland Bank",17857,1932-01-01
+680,"Martinez, Olsen and Grant Bank",8405,1900-02-26
+681,"Evans, Perez and Garcia Bank",43132,1911-06-12
+682,Harris PLC Bank,4951,1909-01-03
+683,"Richards, Ward and Mahoney Bank",43007,1985-10-02
+684,Watkins-Kennedy Bank,35392,1949-09-29
+685,Price LLC Bank,10092,1956-11-17
+686,Woods PLC Bank,10525,1981-05-16
+687,Morales Group Bank,31354,1932-03-10
+688,"Young, Cain and Brooks Bank",19688,1913-03-19
+689,Hood Ltd Bank,12525,1969-08-05
+690,Chandler-Williams Bank,18067,1953-05-24
+691,"Scott, Miller and Thomas Bank",18383,1892-04-24
+692,"Stewart, Ruiz and Ortiz Bank",19854,1905-09-22
+693,"Perez, Leonard and Fuller Bank",7645,1943-04-05
+694,Morris LLC Bank,37359,2004-07-21
+695,Leblanc-Castro Bank,29618,1974-05-28
+696,Summers Group Bank,38238,1891-08-09
+697,Kelly-Figueroa Bank,46030,1876-09-13
+698,"Bailey, Gutierrez and Nielsen Bank",40016,1934-10-26
+699,Carter PLC Bank,30426,1891-03-18
+700,Grant-Preston Bank,30323,1998-08-15
+701,Washington Inc Bank,22062,1945-01-07
+702,Brown-Howard Bank,10238,1941-04-29
+703,"Stewart, Waters and Lopez Bank",1113,1960-12-16
+704,Davis LLC Bank,14891,1987-03-25
+705,Aguilar-Warner Bank,8573,1979-03-31
+706,"Stanley, Cordova and Gardner Bank",15472,1887-01-26
+707,"Hawkins, Henry and Barrera Bank",37680,1975-07-02
+708,"King, Stone and Boyer Bank",1364,1922-01-08
+709,Hall Group Bank,27575,1965-02-10
+710,Glover and Sons Bank,6264,1981-04-23
+711,Maddox-Martinez Bank,5616,1985-02-10
+712,"Tucker, Cooper and Mejia Bank",42650,1884-01-17
+713,Trevino-Johns Bank,18616,1930-05-18
+714,"Turner, Greene and Marquez Bank",14389,1973-12-05
+715,Morgan-Jones Bank,4572,1955-03-22
+716,Thomas Inc Bank,32809,1933-08-01
+717,Myers LLC Bank,16914,1932-05-18
+718,Hurley Group Bank,45306,1970-03-12
+719,Shaw-Harrison Bank,11802,1985-09-15
+720,Morgan-Davis Bank,12619,1955-08-27
+721,"Humphrey, Anderson and Ramos Bank",25005,1977-01-13
+722,"Thompson, Miller and Snyder Bank",41420,1973-03-21
+723,Fischer-Henderson Bank,10515,1884-10-25
+724,Chaney-Adams Bank,25342,1932-07-17
+725,Rogers-Jenkins Bank,16560,1891-07-17
+726,Roberts-Beck Bank,15669,1979-06-04
+727,"Russell, Garcia and Hall Bank",15672,1947-03-29
+728,Guerra-Cunningham Bank,37740,1957-11-02
+729,Mathews PLC Bank,38091,1930-07-24
+730,"Richard, Buck and Jackson Bank",48324,1890-08-18
+731,"Turner, Ferguson and Murphy Bank",27626,1946-11-14
+732,Moore-Heath Bank,9861,1877-02-08
+733,"Barr, Phillips and Cooper Bank",18339,1934-01-18
+734,Zamora Group Bank,48939,1924-03-27
+735,Thomas-Turner Bank,2132,1959-03-02
+736,Chambers-Hall Bank,15041,2000-09-24
+737,Hendricks PLC Bank,42458,1947-07-03
+738,Marquez-Dean Bank,7458,1947-12-22
+739,Hardy and Sons Bank,46853,2010-01-10
+740,Carter-Wagner Bank,13781,1890-07-30
+741,Deleon and Sons Bank,49631,1892-03-21
+742,"Maldonado, Myers and Wilson Bank",26687,1919-01-02
+743,White LLC Bank,12436,1948-04-02
+744,"Thornton, Hester and Parker Bank",8187,1917-05-26
+745,"Mccann, Berger and Adams Bank",25082,1951-04-22
+746,Moss and Sons Bank,13976,2008-08-09
+747,Smith-Brock Bank,15254,2008-12-20
+748,"Long, Russell and Mcbride Bank",1690,1934-09-29
+749,Barajas Group Bank,36842,1969-02-23
+750,"Gonzalez, Allen and Vasquez Bank",13502,1909-10-16
+751,Davies-Mcfarland Bank,42749,1915-10-31
+752,"Velasquez, Larsen and Callahan Bank",16919,1984-06-10
+753,Smith-Smith Bank,18540,1902-08-02
+754,Hoffman-Williams Bank,36383,1923-01-24
+755,"Reyes, Williamson and Gonzalez Bank",26653,2007-08-13
+756,Davis-Bush Bank,40942,1946-10-01
+757,"Winters, Campbell and Mitchell Bank",45726,1964-10-16
+758,Luna Group Bank,38810,2014-10-13
+759,"Barnes, Santos and Kelley Bank",18030,1944-08-09
+760,Hurley-Carey Bank,21730,1945-11-14
+761,Hall-Boyer Bank,33361,2006-03-23
+762,Armstrong-Hicks Bank,36678,1964-10-24
+763,"Howard, Thomas and Evans Bank",33358,1942-11-25
+764,Williams Ltd Bank,29785,1984-11-25
+765,Hayes-West Bank,33231,1948-08-06
+766,Ross-Hampton Bank,24974,2001-05-30
+767,Lang-Mitchell Bank,8954,1998-05-26
+768,Cummings-Herring Bank,7985,1999-03-29
+769,Harvey Group Bank,12596,2002-02-05
+770,"Watkins, Nguyen and Obrien Bank",1198,1967-05-22
+771,"Lester, Adams and Ward Bank",17478,1915-12-30
+772,Orr-Leonard Bank,47699,1964-11-22
+773,Ramirez Ltd Bank,36680,1986-03-11
+774,"Aguirre, Butler and Turner Bank",40976,1912-12-23
+775,King LLC Bank,19642,1916-05-03
+776,"Fitzgerald, Bradley and Cabrera Bank",4758,1981-12-15
+777,"Ward, Pena and Berry Bank",39050,1916-12-31
+778,Hubbard and Sons Bank,20262,1977-01-10
+779,Taylor-Morgan Bank,6210,1917-04-16
+780,"Collier, Vasquez and Welch Bank",33171,1936-10-21
+781,"Swanson, Burns and Patel Bank",13660,1884-02-21
+782,Thompson Ltd Bank,42926,1927-02-07
+783,Williamson Inc Bank,19467,1880-02-25
+784,"Tucker, Tanner and Manning Bank",34654,1971-10-22
+785,Nichols PLC Bank,13995,1906-11-02
+786,Aguilar-Patterson Bank,6854,2010-09-04
+787,"Bullock, Ryan and Mendoza Bank",39722,1986-07-11
+788,Howard-Smith Bank,48819,1981-03-23
+789,Perkins-Taylor Bank,13796,1973-11-29
+790,Singh-Robertson Bank,12239,1928-04-10
+791,Pierce and Sons Bank,43540,1936-07-09
+792,"Bell, Love and Greene Bank",4441,1986-04-10
+793,Jackson-Perez Bank,23103,1917-01-26
+794,"Miller, Benjamin and Matthews Bank",29110,1970-11-04
+795,King-Park Bank,47819,1904-10-31
+796,"Cooper, Larsen and Rodriguez Bank",23850,1987-12-22
+797,"Valdez, Skinner and Alvarado Bank",37014,1973-06-15
+798,Miller-James Bank,38483,1881-12-17
+799,Newman and Sons Bank,44413,1954-05-03
+800,Ramos-Powell Bank,12981,1955-05-15
+801,"Roberts, Burns and Knight Bank",21006,1915-03-27
+802,"Ortega, Burke and Reed Bank",16713,2012-05-20
+803,Villarreal PLC Bank,19067,1995-07-23
+804,Carr-Ward Bank,31531,2014-05-08
+805,Wagner-Camacho Bank,48718,1918-09-13
+806,Lewis Inc Bank,4557,1898-06-02
+807,Morrison and Sons Bank,27332,1891-07-23
+808,Garcia-Nelson Bank,30457,1926-11-24
+809,Larson Inc Bank,46407,1978-07-02
+810,"Arias, Clark and Wilkins Bank",23778,1920-03-09
+811,"Savage, Kim and Forbes Bank",3777,1919-11-15
+812,Sexton Ltd Bank,30887,1912-11-11
+813,Turner-Barnett Bank,4176,1897-01-06
+814,"Huffman, Morgan and Sims Bank",19191,1954-12-08
+815,Spencer Inc Bank,4631,1945-07-19
+816,Clark-Hamilton Bank,20480,1895-12-09
+817,"Sexton, Ramirez and Nash Bank",10684,1994-05-16
+818,Lara Group Bank,37668,1926-02-16
+819,Scott PLC Bank,24896,1961-06-15
+820,"Myers, Roberts and Torres Bank",16689,1884-06-28
+821,"Clark, Smith and Frazier Bank",24439,1916-06-27
+822,Miller PLC Bank,7902,2004-09-14
+823,Smith-Wright Bank,2827,1955-04-15
+824,Jenkins-Young Bank,24630,1949-02-14
+825,Adkins-Fleming Bank,33381,1896-04-17
+826,"Ross, Wolfe and Mendez Bank",24531,1884-12-12
+827,Abbott and Sons Bank,44090,1946-12-12
+828,Johnson-Price Bank,21804,1983-11-05
+829,Horne Inc Bank,22727,1929-08-30
+830,Adams PLC Bank,31774,1983-10-12
+831,Valencia-Carter Bank,16405,1979-10-20
+832,Meyers-Faulkner Bank,31304,1951-10-06
+833,Russell LLC Bank,23463,1879-02-15
+834,"Jones, Hansen and Mcdowell Bank",40009,1940-10-06
+835,"Wright, Bowen and Clark Bank",27357,1884-07-16
+836,"Parker, Ellis and Bishop Bank",13233,2003-01-20
+837,Lyons Group Bank,15099,1989-03-15
+838,Nelson-Carroll Bank,10054,2011-02-10
+839,Evans Ltd Bank,13308,1915-01-17
+840,"Freeman, Young and Moore Bank",14890,1888-12-22
+841,"Gill, Stevens and Brooks Bank",23368,1882-01-05
+842,Maldonado-Thompson Bank,18340,1916-07-05
+843,Patterson-Young Bank,18510,1943-12-03
+844,Ortega and Sons Bank,46490,1987-05-02
+845,Garcia and Sons Bank,44130,1951-03-22
+846,Stafford-Cooper Bank,38194,1942-01-20
+847,Coleman-Shah Bank,9851,1950-05-06
+848,Bauer Group Bank,23336,1982-09-04
+849,"Smith, Moore and Santiago Bank",45232,1974-11-06
+850,Kim-Moses Bank,29841,1902-09-14
+851,Fleming-Salas Bank,9778,1990-03-01
+852,Ballard Group Bank,37290,1980-06-14
+853,"Hicks, Miller and Bell Bank",47447,2009-12-11
+854,Francis-Willis Bank,6971,1934-07-30
+855,Lee-Wilson Bank,47817,2012-09-08
+856,Golden Group Bank,5719,1983-12-08
+857,Blake Ltd Bank,40612,1951-03-19
+858,"King, Miller and Robles Bank",28350,1889-07-09
+859,"Turner, Mitchell and Hernandez Bank",29654,1968-01-23
+860,Rowland Inc Bank,5191,1971-07-28
+861,Perez Inc Bank,2700,2004-09-28
+862,"Mullen, Bell and Kim Bank",3611,1902-10-24
+863,Bishop-Barry Bank,25929,2007-01-19
+864,Munoz-Austin Bank,2481,1915-11-30
+865,Reid and Sons Bank,1369,1970-11-27
+866,Clark and Sons Bank,26792,1924-11-08
+867,Henderson PLC Bank,9301,1929-03-21
+868,Poole-Wilkinson Bank,13134,1997-06-16
+869,"Clark, Carter and Williams Bank",4025,1878-09-11
+870,Mullen and Sons Bank,49593,1966-05-21
+871,"Flores, Kelly and Butler Bank",27234,1904-11-11
+872,Morales-Turner Bank,32716,2006-05-09
+873,"Brock, Greene and Reed Bank",32184,1974-03-26
+874,Jones Group Bank,10214,1980-09-24
+875,Sanchez and Sons Bank,13039,2001-04-17
+876,"Proctor, Livingston and Freeman Bank",39889,1882-11-16
+877,Johnson-Mccarty Bank,46582,1913-06-18
+878,Johnson-Ramirez Bank,23880,1967-05-31
+879,"Ramirez, Cunningham and Chan Bank",6743,1997-04-02
+880,"Collins, Chang and Lopez Bank",47391,1988-09-10
+881,Anderson-Ross Bank,48369,2013-03-15
+882,Kaufman-Long Bank,6393,1916-07-29
+883,"Baker, Leonard and Smith Bank",11015,1971-10-10
+884,"Cunningham, Fernandez and Crawford Bank",7222,1912-09-15
+885,Ray Inc Bank,25456,2003-04-14
+886,"Williams, Wells and Soto Bank",44168,2000-11-29
+887,"Livingston, Curtis and Jackson Bank",16323,1999-08-13
+888,"Bailey, Salazar and Gibbs Bank",23121,1995-02-11
+889,Bennett Group Bank,42675,1906-12-30
+890,"Williams, White and Gallegos Bank",3650,2010-06-21
+891,Torres-Smith Bank,42926,1984-08-10
+892,Berry and Sons Bank,49069,1921-03-01
+893,"Hall, Martinez and Everett Bank",2193,1982-01-11
+894,Diaz-Hooper Bank,10529,1888-05-17
+895,Sparks PLC Bank,6467,1999-03-27
+896,"Villa, Jacobs and Allen Bank",12262,1959-03-01
+897,"Casey, Kelley and Dalton Bank",28499,1961-06-28
+898,Perez-Davis Bank,42441,2010-03-10
+899,Herman-Key Bank,18265,2004-11-14
+900,Black LLC Bank,8095,1974-07-07
+901,Harper Ltd Bank,25669,1902-07-12
+902,"Larson, Mendoza and Wallace Bank",14933,1892-03-08
+903,Clark-Russell Bank,28846,1908-04-16
+904,Keller-Espinoza Bank,35182,1953-03-05
+905,Schmidt-Lowe Bank,33996,1931-01-22
+906,Rosales-Hess Bank,23613,1993-10-31
+907,Wolfe-Evans Bank,8374,2007-05-03
+908,Johnson Inc Bank,35155,1887-08-17
+909,Crane-Jones Bank,42262,1977-10-23
+910,Nolan Inc Bank,10426,2006-11-12
+911,"Lee, Chavez and Nelson Bank",5281,1898-11-28
+912,Diaz-Kline Bank,11627,1884-01-01
+913,"Esparza, Mckenzie and Cummings Bank",3810,1930-01-22
+914,"Krause, Chan and Baker Bank",32221,1980-10-17
+915,Hansen-Romero Bank,2113,1956-07-14
+916,Howard LLC Bank,3883,1890-05-03
+917,Wilson-Freeman Bank,49978,1995-08-08
+918,Fisher Group Bank,32648,2009-06-02
+919,Perkins-Beard Bank,42284,1884-12-04
+920,Washington-Ramirez Bank,34148,1878-05-29
+921,Mosley Inc Bank,34496,1914-11-21
+922,Blevins-Hudson Bank,16078,1922-04-25
+923,"Mcgee, Crawford and Adams Bank",44811,1913-03-17
+924,"Collins, Lee and Floyd Bank",14110,1993-04-17
+925,Clark-Berry Bank,41385,1888-01-23
+926,Donaldson Ltd Bank,41266,1897-09-02
+927,Bond LLC Bank,24973,1987-12-31
+928,Hubbard-Kim Bank,38224,1889-02-07
+929,Smith Inc Bank,23319,1915-08-28
+930,Thomas-Campbell Bank,4860,1932-10-01
+931,Kim PLC Bank,5765,1888-04-19
+932,Fernandez Inc Bank,8873,1973-02-06
+933,"Combs, Davis and Huber Bank",24987,1936-02-18
+934,Bryan-Willis Bank,47553,1888-02-17
+935,Newton PLC Bank,46111,2011-04-08
+936,Thornton PLC Bank,9592,1892-04-08
+937,Fitzgerald LLC Bank,39479,1993-06-03
+938,"Turner, Todd and Martin Bank",12599,1892-05-11
+939,Collins LLC Bank,19875,1954-05-10
+940,Ward-Miller Bank,42003,1941-05-23
+941,Johns PLC Bank,16248,2000-05-04
+942,"Garcia, Hall and Green Bank",22656,1916-12-18
+943,Hall-Villegas Bank,1049,1896-03-14
+944,"Hansen, Williams and Wheeler Bank",4500,1939-04-29
+945,"Blevins, Vargas and Phillips Bank",32429,1879-01-10
+946,Brooks-Moore Bank,47932,1905-10-28
+947,"Turner, Palmer and Johnson Bank",48085,1974-10-17
+948,Bailey-Diaz Bank,22857,1945-12-22
+949,Price-Gibson Bank,13129,1966-01-29
+950,"Phillips, Poole and Thompson Bank",47942,1889-04-06
+951,Long-Torres Bank,20469,1925-01-19
+952,Gregory-Lopez Bank,39778,2013-07-05
+953,"Howell, Brooks and Villegas Bank",43523,1948-12-12
+954,"Ramirez, Bryant and Baker Bank",4632,1959-05-12
+955,Jackson PLC Bank,49267,1998-06-08
+956,Larson-King Bank,5024,1973-12-06
+957,Ali-Little Bank,44303,1973-11-26
+958,"Munoz, Hartman and Lewis Bank",47919,1959-08-18
+959,"Ramos, Vasquez and Fox Bank",3984,1951-09-15
+960,"Glenn, Travis and Nichols Bank",38030,1998-06-10
+961,Jimenez-Long Bank,44350,1890-01-15
+962,"Farley, Wagner and Garcia Bank",46670,1938-04-15
+963,"Collins, Parker and Henderson Bank",29349,1968-03-18
+964,Larson-Jennings Bank,34928,2001-11-30
+965,"Roberts, Maxwell and Howell Bank",2805,1928-05-22
+966,French-Williams Bank,9101,1951-02-26
+967,"Henry, Wallace and Anderson Bank",42571,1999-09-25
+968,"Paul, Morton and Butler Bank",6759,1913-12-08
+969,Gibbs Inc Bank,31098,1977-11-07
+970,Tucker Ltd Bank,45966,1914-04-05
+971,White-Levy Bank,29480,1988-11-13
+972,Adams LLC Bank,26664,2009-12-18
+973,Sosa Inc Bank,26429,1994-02-28
+974,Mills Ltd Bank,8344,1879-12-21
+975,Richardson LLC Bank,42461,1919-10-08
+976,Gibbs-Lopez Bank,31210,1919-03-16
+977,Stephens and Sons Bank,11738,1937-04-21
+978,Gordon PLC Bank,25179,1971-06-08
+979,Brown Inc Bank,42467,1987-02-03
+980,Knight-Carey Bank,21443,1942-01-04
+981,"Le, Smith and Day Bank",5574,1970-02-12
+982,Scott Inc Bank,27463,1887-03-10
+983,Ward Group Bank,16064,2006-06-27
+984,Diaz PLC Bank,15907,1885-03-30
+985,"Johnson, Williams and Smith Bank",8894,1899-02-09
+986,Meyer-Smith Bank,27546,1914-03-04
+987,"Crawford, Sullivan and Sellers Bank",19072,1899-02-12
+988,Campbell-Thompson Bank,24444,1876-03-13
+989,Green-Aguirre Bank,45655,1990-09-27
+990,"Hernandez, James and Lewis Bank",5950,1939-11-11
+991,Schroeder Group Bank,23117,1969-03-15
+992,Lynch PLC Bank,11180,1986-05-10
+993,Lee PLC Bank,38948,1926-11-26
+994,"Torres, Long and Ward Bank",37942,1887-06-29
+995,Ware Group Bank,33985,1903-04-28
+996,"Cunningham, Arroyo and Bass Bank",11109,1999-12-07
+997,"Warren, Lynch and Norris Bank",8670,1938-10-20
+998,Leonard Inc Bank,38218,1938-07-11
+999,"Meyers, Reynolds and Zhang Bank",32755,1908-06-09
+1000,Brown LLC Bank,5940,1882-09-23
+1001,"Wilson, Robinson and Gonzales Bank",9902,1947-12-24
+1002,"Rowe, Hopkins and Mccann Bank",7621,1947-10-13
+1003,Watts-Morgan Bank,31029,1921-01-20
+1004,Ramos Ltd Bank,3886,1935-10-14
+1005,"Williams, Pitts and Olson Bank",3777,1876-11-05
+1006,"Farmer, Dean and Anderson Bank",25270,1986-03-20
+1007,"Meyers, Stevens and Thompson Bank",49802,1971-01-01
+1008,"David, Williams and Henderson Bank",23768,2014-11-14
+1009,Armstrong-Johnson Bank,7574,1919-10-09
+1010,Gray-Morales Bank,17102,2013-10-17
+1011,Barton and Sons Bank,39134,1906-06-04
+1012,Daniels-Wolf Bank,28810,1880-08-25
+1013,Flynn-Barnes Bank,33383,1976-12-24
+1014,Wilson-Johnson Bank,10383,1934-09-21
+1015,Moore-Nelson Bank,45790,1969-08-30
+1016,"Cook, Harris and Robles Bank",47349,1949-08-30
+1017,"Gilbert, Smith and Jackson Bank",46829,1951-12-06
+1018,Wilkinson Ltd Bank,32065,1926-10-25
+1019,Rogers-Thomas Bank,43381,1921-09-23
+1020,"Mitchell, Hill and Jones Bank",14061,1921-04-23
+1021,"Smith, Martinez and Wilson Bank",36573,1882-06-14
+1022,Gibson-George Bank,36392,1890-04-16
+1023,Small-James Bank,2158,1978-09-13
+1024,Clark Ltd Bank,15325,1891-12-27
+1025,Butler-Morris Bank,41445,1975-05-01
+1026,Schultz-Oconnor Bank,46280,1930-03-29
+1027,Cruz Ltd Bank,20573,1877-03-27
+1028,"Bryant, Rice and Davis Bank",24734,2006-11-15
+1029,Harris Inc Bank,43512,1943-07-18
+1030,Haley-Berry Bank,39359,1976-02-17
+1031,Ramos Inc Bank,19529,1949-12-14
+1032,Henry-Huang Bank,20111,1878-03-09
+1033,Johnson-Crawford Bank,47008,1913-01-05
+1034,Gomez-Cunningham Bank,4993,1894-09-30
+1035,Proctor-Nelson Bank,7619,1963-07-17
+1036,Durham-Guzman Bank,19682,1988-02-27
+1037,"Thompson, Perez and Green Bank",6704,2011-12-19
+1038,Washington-Burke Bank,24424,1997-09-03
+1039,Anderson-Collins Bank,1111,1888-10-19
+1040,Wyatt-Simpson Bank,44736,1877-09-16
+1041,Vega-Collins Bank,1889,1912-10-23
+1042,"Perry, Jones and Brooks Bank",1397,1987-02-15
+1043,Terry-Colon Bank,41092,2006-09-13
+1044,Massey and Sons Bank,1961,1947-09-20
+1045,Norton-Hill Bank,39950,1895-10-11
+1046,Rose-Mason Bank,11569,1953-02-11
+1047,Smith-Martinez Bank,39151,1876-10-02
+1048,"Pacheco, Lewis and Martinez Bank",25368,1880-01-14
+1049,"Clarke, Torres and Smith Bank",26793,1951-01-22
+1050,Wood Inc Bank,20896,1955-12-14
+1051,"Williams, Perez and Thomas Bank",46061,1948-09-24
+1052,"Reese, Hall and Lewis Bank",32440,1927-10-16
+1053,"Suarez, Fitzgerald and Farley Bank",19696,1992-12-09
+1054,Romero and Sons Bank,13712,1963-12-08
+1055,"Perkins, Knight and Griffin Bank",3090,1924-07-12
+1056,Blankenship Inc Bank,16532,1994-08-27
+1057,Reed-Davis Bank,30648,2008-04-10
+1058,Thomas Group Bank,3523,1880-12-13
+1059,White-Guzman Bank,42041,1965-01-17
+1060,Grimes Inc Bank,38309,1914-02-19
+1061,"Stevens, Davis and Vaughan Bank",21812,1904-09-21
+1062,Vargas PLC Bank,5302,1989-07-28
+1063,Bray-Cruz Bank,8495,1882-12-22
+1064,"Frank, Miller and Miller Bank",11603,1964-10-28
+1065,"Hernandez, Gamble and Lee Bank",18055,1966-01-23
+1066,"Griffin, Phillips and Thompson Bank",16003,1887-12-18
+1067,Young-Duke Bank,36779,1945-12-12
+1068,Marquez-Nelson Bank,47978,1985-07-24
+1069,"Holloway, Garcia and Patterson Bank",27008,1905-02-05
+1070,Robinson-Rodriguez Bank,12236,2014-03-19
+1071,Mcfarland-York Bank,46983,1999-01-21
+1072,"Reid, Hughes and Lambert Bank",49135,1900-08-07
+1073,"Fletcher, Clark and Garcia Bank",3036,1923-07-19
+1074,"Blair, Smith and Phillips Bank",45188,1968-10-08
+1075,"Zimmerman, Mccullough and Holt Bank",7135,1935-06-08
+1076,Shelton-Leblanc Bank,44469,1967-03-26
+1077,"Herring, Green and Jones Bank",7297,1984-10-18
+1078,Houston and Sons Bank,41024,1938-02-17
+1079,"Williamson, Pena and Owens Bank",40224,2007-04-05
+1080,"Phillips, Salas and Thornton Bank",23702,1949-08-11
+1081,Bond and Sons Bank,26234,1964-03-06
+1082,Young-Phillips Bank,34819,1978-12-11
+1083,Walton Inc Bank,26601,1988-07-27
+1084,"Quinn, Wilson and Holmes Bank",33692,1986-11-01
+1085,Tyler PLC Bank,35260,1896-05-13
+1086,Valencia-Bell Bank,34658,1899-01-11
+1087,Day-Garza Bank,13673,1901-05-11
+1088,"Vaughn, Perry and Craig Bank",26232,1886-01-01
+1089,Graham Ltd Bank,24281,1959-05-31
+1090,"Clark, Kidd and Johnson Bank",47199,1935-03-06
+1091,"Park, Young and Hensley Bank",14830,1908-06-12
+1092,Nolan-Nunez Bank,15692,1936-09-14
+1093,Clark Group Bank,39953,1984-10-09
+1094,"Salazar, Baker and Lowe Bank",1969,2003-08-26
+1095,Schmidt PLC Bank,40083,1927-04-30
+1096,"Booker, Jones and Velazquez Bank",15626,1985-07-17
+1097,Diaz LLC Bank,49417,1956-10-13
+1098,"Jackson, Young and Fischer Bank",42537,1888-03-30
+1099,Mcdowell LLC Bank,34361,1956-07-17
+1100,Huffman PLC Bank,47554,1893-08-31
+1101,Lara-Berry Bank,45882,1922-08-17
+1102,Medina-Cox Bank,3448,1916-12-09
+1103,"Garcia, Jackson and Cameron Bank",31470,1890-03-02
+1104,Petersen-Castillo Bank,7844,1908-12-25
+1105,Robinson-Wilkinson Bank,36356,1880-07-27
+1106,Lewis-Mendoza Bank,41431,1926-11-26
+1107,Hendricks-Powell Bank,40686,1974-09-08
+1108,"Ray, Garrett and Farley Bank",43457,1901-10-04
+1109,Mahoney Group Bank,45092,1960-06-21
+1110,"Gilbert, Smith and Curtis Bank",32446,1911-06-24
+1111,Summers-Cox Bank,22295,1891-07-06
+1112,"Taylor, Martin and Davis Bank",46537,1984-09-01
+1113,Contreras and Sons Bank,47712,1957-10-31
+1114,Terry Ltd Bank,40810,1975-01-11
+1115,Schmidt-Sandoval Bank,31492,1933-09-12
+1116,"Ramirez, Clark and Arroyo Bank",43845,1966-09-20
+1117,Cox-Acosta Bank,47826,1976-11-04
+1118,Mendez-Collins Bank,9994,2007-02-06
+1119,Barnes Inc Bank,38781,2004-04-27
+1120,Hudson-Phillips Bank,41045,1906-12-20
+1121,Roberson-White Bank,5411,1902-06-25
+1122,Payne Inc Bank,10964,1956-03-31
+1123,Andrews Ltd Bank,21743,1952-04-10
+1124,"Estrada, Williams and Leblanc Bank",21172,1957-08-26
+1125,Stanton Group Bank,32835,1977-08-17
+1126,Garcia LLC Bank,13538,1954-10-07
+1127,Blankenship LLC Bank,13229,1998-06-12
+1128,"Smith, Marshall and Graves Bank",16880,1974-02-22
+1129,Wu Group Bank,19816,1923-11-10
+1130,"Burns, Smith and Brennan Bank",30206,1979-09-25
+1131,"Powers, Bryant and Robinson Bank",5697,1956-02-23
+1132,Hanson-Escobar Bank,41957,1965-09-13
+1133,Payne Group Bank,40000,2006-09-03
+1134,Moreno-Myers Bank,34630,1986-08-18
+1135,Jarvis-Schneider Bank,23980,1944-05-21
+1136,Barajas-Jones Bank,17336,1971-10-25
+1137,Beasley-Cervantes Bank,11123,2011-11-24
+1138,Miller Inc Bank,44690,1960-12-29
+1139,"Patterson, Perry and Anderson Bank",43368,2005-11-04
+1140,Lyons-Reilly Bank,14750,1931-04-04
+1141,"Martinez, Cole and Rowe Bank",36434,1961-09-28
+1142,Martinez Inc Bank,14059,1880-09-13
+1143,Fowler PLC Bank,23310,1900-08-12
+1144,Gutierrez LLC Bank,7969,1969-10-09
+1145,"Mendez, Holland and Lambert Bank",7703,1924-10-15
+1146,Duran-Robertson Bank,25118,1898-05-30
+1147,Ayala and Sons Bank,8192,1898-01-04
+1148,"Hardy, Garcia and Vaughan Bank",25732,1922-11-30
+1149,Decker LLC Bank,4663,1889-01-19
+1150,"Taylor, Jones and Gonzales Bank",27569,1981-01-07
+1151,Williams-Sanchez Bank,1234,1985-10-07
+1152,Reid-Olson Bank,7942,2003-05-19
+1153,"Smith, Oneal and Matthews Bank",47182,1944-09-14
+1154,"Rodriguez, Leblanc and Hill Bank",35793,2005-07-28
+1155,Stone-Robinson Bank,26054,1978-10-14
+1156,"Hoover, Kelly and Sosa Bank",43137,1889-10-01
+1157,Lewis-Best Bank,44389,1991-11-01
+1158,Fernandez LLC Bank,25357,1957-07-21
+1159,"Moore, Bray and Boone Bank",18562,1996-09-14
+1160,"Taylor, Berry and Wilson Bank",11845,1942-11-17
+1161,Byrd PLC Bank,31919,1987-09-21
+1162,"White, Shaw and Bates Bank",18708,1879-11-14
+1163,Jones-Williams Bank,17611,1925-08-12
+1164,"Watson, Grimes and Chan Bank",14146,1913-11-23
+1165,Williamson and Sons Bank,6913,1896-10-31
+1166,Peters-Pearson Bank,1733,1941-10-19
+1167,"Mills, Watts and Obrien Bank",46745,1927-02-27
+1168,Montes LLC Bank,11367,1968-10-29
+1169,Cox Inc Bank,32751,1916-05-05
+1170,Ross-Simmons Bank,21204,1929-11-14
+1171,Horn PLC Bank,35694,1891-12-24
+1172,Holland-Garrett Bank,30032,2008-08-05
+1173,Martin Ltd Bank,21825,1935-02-27
+1174,"Lloyd, Parker and Adams Bank",9083,1973-05-01
+1175,Pierce-Tucker Bank,21499,1999-02-21
+1176,Wolfe-Lane Bank,8459,1990-11-08
+1177,Nguyen-Fisher Bank,14630,1975-12-13
+1178,Ball Group Bank,38415,1906-05-13
+1179,Gillespie-Guerrero Bank,19169,1891-10-01
+1180,Krueger LLC Bank,40601,1933-12-09
+1181,Grant Ltd Bank,26446,2013-10-14
+1182,Miller-Costa Bank,48947,1952-02-02
+1183,Lopez-Wilson Bank,22073,1884-03-27
+1184,Ortega-Turner Bank,49300,1977-04-01
+1185,"Lyons, Moore and Huffman Bank",3576,1922-04-24
+1186,"Young, Williams and Boyd Bank",48642,1901-12-13
+1187,Phillips-Bates Bank,30363,1931-06-11
+1188,Lewis PLC Bank,6449,1880-08-17
+1189,Patterson-Moses Bank,29031,1998-09-19
+1190,Campbell-Vasquez Bank,16274,1875-04-07
+1191,"Simpson, Moore and Delgado Bank",25104,1999-05-29
+1192,Gonzalez Group Bank,34861,1994-07-18
+1193,Ford-Lopez Bank,48122,2008-03-18
+1194,Raymond-Garcia Bank,41101,1970-09-09
+1195,Clayton and Sons Bank,7243,1898-06-25
+1196,Ellis-Rush Bank,5524,1916-07-30
+1197,Sosa-Meyer Bank,35580,1995-04-04
+1198,Harris-Solis Bank,30044,1944-07-07
+1199,"Fowler, Brown and Smith Bank",11159,1914-06-10
+1200,"Wood, Hall and Moran Bank",1508,1939-10-10
+1201,"Jordan, Perez and Rice Bank",16033,1906-11-25
+1202,"Jones, Choi and Young Bank",33757,2005-10-18
+1203,"Ross, Golden and Hobbs Bank",38387,1995-11-15
+1204,Smith-Ellis Bank,6590,1905-09-08
+1205,Lynch-Madden Bank,32778,2000-09-26
+1206,"Young, Castillo and Wright Bank",14189,1950-03-08
+1207,Jackson Ltd Bank,19117,1935-01-23
+1208,Foley-Medina Bank,35156,1883-07-01
+1209,"Powell, White and Jones Bank",45139,2005-03-20
+1210,"Morris, Vincent and Baker Bank",31017,1960-03-17
+1211,Callahan PLC Bank,27438,1890-10-25
+1212,Evans-Pacheco Bank,30539,1879-10-04
+1213,Robertson-Larson Bank,43502,2011-06-11
+1214,Cortez LLC Bank,32206,1951-02-01
+1215,Gross-Wang Bank,42203,1974-11-25
+1216,Bowen-Diaz Bank,24660,1965-09-17
+1217,"Brown, Martin and Garrison Bank",27499,1982-11-17
+1218,"Robbins, Roberts and Lowe Bank",7625,1929-11-05
+1219,"Martin, Hernandez and Walsh Bank",12886,1919-01-13
+1220,Bowen-Mueller Bank,43369,1999-06-28
+1221,Ochoa-Lara Bank,34593,1888-07-20
+1222,Graham and Sons Bank,48167,1893-12-20
+1223,Duncan LLC Bank,49776,1972-01-26
+1224,Leblanc PLC Bank,3958,1943-10-08
+1225,Wade-Rivera Bank,22766,1985-02-07
+1226,Johnson-Gonzalez Bank,25818,1881-10-27
+1227,Taylor and Sons Bank,32732,1991-03-25
+1228,Nelson and Sons Bank,30542,1942-04-14
+1229,"Rice, Shelton and Johnson Bank",12927,1972-08-21
+1230,Flores PLC Bank,25811,1986-04-12
+1231,Robertson-Tucker Bank,13457,1927-02-06
+1232,Carpenter Group Bank,7436,1952-01-25
+1233,"Hamilton, Murray and Wilson Bank",11345,1950-01-15
+1234,Mitchell-Smith Bank,13430,2014-09-22
+1235,Ortiz-Wilson Bank,38900,1931-04-07
+1236,Waters and Sons Bank,40815,1959-11-24
+1237,Singleton Inc Bank,43134,2003-06-09
+1238,"Porter, Beck and Benjamin Bank",46611,1909-01-10
+1239,Tapia PLC Bank,12267,1936-03-05
+1240,Fry and Sons Bank,25506,1898-07-02
+1241,Miller Ltd Bank,45801,1926-07-29
+1242,Hardy-Zimmerman Bank,23764,1900-11-11
+1243,Fields PLC Bank,41464,1973-12-21
+1244,Phillips PLC Bank,38256,1957-10-14
+1245,Stein Inc Bank,1274,1982-11-23
+1246,Diaz-Lee Bank,36478,1962-10-15
+1247,"Davis, Cunningham and Fleming Bank",46091,1912-03-01
+1248,White Ltd Bank,15581,1983-08-05
+1249,Navarro-Burnett Bank,48971,1982-09-17
+1250,Thornton-Diaz Bank,21232,2001-08-27
+1251,"Owens, Turner and Simmons Bank",25569,2003-02-06
+1252,Davidson PLC Bank,15085,2001-09-04
+1253,Lee-Martin Bank,42015,1986-08-06
+1254,Smith-Morgan Bank,31907,1877-10-22
+1255,Byrd-Hall Bank,28683,1911-08-02
+1256,"Mitchell, Valdez and Schmidt Bank",21214,1902-09-28
+1257,Stuart-Miller Bank,11012,1968-07-17
+1258,Campbell-Smith Bank,34858,2008-06-28
+1259,"Bryant, Mosley and Stanton Bank",9207,1931-09-25
+1260,"Mclaughlin, Ibarra and Walker Bank",23486,1991-02-17
+1261,"Rodgers, Townsend and Rodriguez Bank",35585,1973-05-26
+1262,Preston-Wright Bank,40146,1998-10-04
+1263,"Phillips, Griffin and Lewis Bank",28672,1928-06-16
+1264,Schmidt Group Bank,35399,1977-01-28
+1265,"Mooney, Rios and Sanchez Bank",24258,1945-03-06
+1266,Jones Ltd Bank,13678,1957-08-21
+1267,"Preston, Schneider and Pierce Bank",33465,1915-12-12
+1268,Ferguson-Page Bank,9464,1926-01-28
+1269,Avery-Caldwell Bank,32911,1990-06-04
+1270,"Young, Wade and Parsons Bank",23260,1969-06-08
+1271,Rangel-Jacobson Bank,34647,1952-08-09
+1272,"Smith, Miller and Singh Bank",30166,1952-11-10
+1273,"Morris, Sherman and Phillips Bank",27647,1887-06-21
+1274,Tanner PLC Bank,43769,1975-09-19
+1275,"Campbell, Gentry and Acosta Bank",48235,1875-09-05
+1276,Knox-Wood Bank,30680,1912-02-05
+1277,"Hanson, Thomas and Cherry Bank",35560,2010-06-27
+1278,Powell LLC Bank,12951,1959-11-21
+1279,Rogers-Berg Bank,21086,2005-11-04
+1280,"Gonzalez, Moyer and Blankenship Bank",33495,1999-03-21
+1281,Davis-Fox Bank,7110,1888-09-06
+1282,"Vega, Macdonald and Lopez Bank",38849,1930-08-31
+1283,Byrd-Gross Bank,35972,1913-07-01
+1284,Chang Group Bank,27280,2012-04-17
+1285,Mcconnell-Mcpherson Bank,45400,1918-03-03
+1286,Holmes PLC Bank,40772,1990-01-10
+1287,Thomas PLC Bank,23209,1908-04-17
+1288,Martin-Lutz Bank,4526,1971-08-12
+1289,Taylor LLC Bank,47161,1919-05-13
+1290,"Powell, Mann and Greene Bank",19177,1894-11-14
+1291,Miller-Garcia Bank,33543,1884-11-18
+1292,Martinez-Stewart Bank,14065,1877-01-10
+1293,Pierce Ltd Bank,18852,1907-01-04
+1294,King Ltd Bank,23929,1998-01-28
+1295,Mayer-Campos Bank,27891,1876-02-10
+1296,Mendoza Group Bank,17175,1895-09-04
+1297,"Thomas, Olson and Drake Bank",9823,1916-10-09
+1298,Cameron and Sons Bank,40347,1918-12-04
+1299,"Smith, Brown and Reynolds Bank",10266,1983-09-01
+1300,Hunter-Smith Bank,5377,1882-06-21
+1301,Riley PLC Bank,10311,1963-09-05
+1302,Hudson-Alvarado Bank,8700,1939-04-15
+1303,Grimes and Sons Bank,23556,1963-08-10
+1304,Mcclain-Smith Bank,28856,1939-10-06
+1305,Prince-Mcguire Bank,29808,1926-07-23
+1306,"Drake, Chang and Garza Bank",10275,1923-09-20
+1307,Gregory-Copeland Bank,14157,1992-10-15
+1308,"Thomas, Cook and Chen Bank",14549,1923-10-13
+1309,Nicholson-Camacho Bank,48468,1991-07-12
+1310,Gonzales-Hill Bank,20438,1933-10-17
+1311,Tate Inc Bank,45813,1903-06-25
+1312,Fowler Ltd Bank,49596,1978-07-18
+1313,"Carr, Burgess and Lowery Bank",36141,2006-08-24
+1314,Estrada-Lucas Bank,40551,1899-03-23
+1315,Curry Ltd Bank,9038,1915-06-14
+1316,"Velasquez, Singh and Adams Bank",27754,1924-12-26
+1317,"Parker, Lloyd and Perry Bank",29963,1890-09-22
+1318,Campbell and Sons Bank,5769,1931-06-14
+1319,"Cannon, Sutton and Johnson Bank",15289,1902-12-27
+1320,"Butler, Mitchell and Hernandez Bank",14258,2004-04-30
+1321,Zamora LLC Bank,6332,1909-11-20
+1322,"Gutierrez, Smith and Sherman Bank",48160,1896-03-06
+1323,Roberts-Walker Bank,11420,1973-04-05
+1324,"Guerrero, Wade and Underwood Bank",29626,1931-01-05
+1325,Moran-Hampton Bank,34876,1910-08-31
+1326,Holland-Powell Bank,14808,2007-04-15
+1327,Christensen LLC Bank,46104,1895-11-30
+1328,Pennington-Mason Bank,32562,1972-11-23
+1329,Shaw PLC Bank,19162,1924-11-06
+1330,Mcdowell-Garrett Bank,28258,1903-09-17
+1331,Zhang and Sons Bank,5253,1950-10-26
+1332,"Austin, Wilson and Rodriguez Bank",20268,1942-05-09
+1333,Morales-Sullivan Bank,30338,1878-01-15
+1334,Gomez-Martinez Bank,14708,1917-05-02
+1335,Martinez-Carr Bank,4447,1964-08-03
+1336,Moore LLC Bank,40249,1886-01-08
+1337,Walker PLC Bank,45560,1891-10-13
+1338,Johnson-Mooney Bank,24915,1990-06-21
+1339,Shea-Peters Bank,18131,1976-08-11
+1340,Howard Inc Bank,39652,1977-03-03
+1341,Duarte-Barnes Bank,26725,1876-11-17
+1342,"Cameron, Moore and Burgess Bank",48561,1933-09-22
+1343,Brewer-Lewis Bank,47398,1896-11-04
+1344,Fitzpatrick Ltd Bank,28727,1952-12-17
+1345,Lynch Ltd Bank,32838,1886-11-05
+1346,"Contreras, Jacobson and Haynes Bank",3985,1920-04-19
+1347,"Perez, Foster and Murphy Bank",20775,1902-03-21
+1348,Riley and Sons Bank,40085,1899-06-15
+1349,Arellano Group Bank,16842,1982-09-29
+1350,"Rivera, Hudson and Williams Bank",15400,2006-06-26
+1351,Wilson PLC Bank,7499,1973-01-10
+1352,Williams Inc Bank,32505,2012-10-24
+1353,"Miller, Lawrence and Thompson Bank",21076,1952-01-28
+1354,Harris-Bell Bank,45436,2013-07-11
+1355,"Bryant, Smith and Higgins Bank",43331,1936-06-11
+1356,Sanchez-Wilkerson Bank,32133,2006-06-16
+1357,Horne Group Bank,8522,1929-02-13
+1358,Herrera Group Bank,34651,1933-07-26
+1359,Ruiz and Sons Bank,20999,2014-01-01
+1360,Hunt PLC Bank,18240,1980-10-05
+1361,Wagner Ltd Bank,7837,1884-10-24
+1362,Kent PLC Bank,3362,1964-06-12
+1363,"Cruz, Morton and Mcdowell Bank",22841,1882-10-06
+1364,Bruce-Ingram Bank,45248,1960-02-05
+1365,English-Vargas Bank,37432,1983-08-09
+1366,"Lloyd, Cooper and Brooks Bank",18660,2001-04-15
+1367,Gray-Flores Bank,17573,1994-03-05
+1368,"Mejia, Rangel and Bowers Bank",44326,1895-05-19
+1369,"Lane, Hopkins and Riddle Bank",43693,1919-11-11
+1370,Mcfarland-Larson Bank,26049,1977-03-20
+1371,Hill-Massey Bank,18939,1947-07-16
+1372,"Mason, Sherman and Mahoney Bank",48456,1955-04-08
+1373,Rios-Nguyen Bank,37101,1941-01-01
+1374,Williams LLC Bank,34120,1921-12-05
+1375,"Lee, Moore and Cobb Bank",3316,1982-07-06
+1376,Thompson and Sons Bank,45307,1933-02-06
+1377,Marshall-Miller Bank,32529,1975-03-27
+1378,Blackwell Ltd Bank,40494,1883-01-22
+1379,Hanson-Thomas Bank,29000,1958-02-17
+1380,Sims LLC Bank,34454,1939-12-19
+1381,Webb and Sons Bank,9917,1886-08-08
+1382,Young Inc Bank,26371,1899-10-30
+1383,"Patel, Thomas and Wong Bank",9203,1879-06-13
+1384,Woods-Anderson Bank,25682,1974-11-08
+1385,Lin PLC Bank,29792,1880-01-23
+1386,Oconnor-Joseph Bank,16358,1910-01-21
+1387,Weaver PLC Bank,43439,1934-11-16
+1388,Griffith-Smith Bank,28735,1885-04-05
+1389,Hebert Ltd Bank,23476,2005-06-17
+1390,"Chandler, Gallagher and Hawkins Bank",33620,1975-11-12
+1391,Hughes-Blankenship Bank,6828,1893-07-10
+1392,Allen Ltd Bank,7252,1937-12-09
+1393,"Chang, Doyle and Randall Bank",18885,1994-11-06
+1394,Watkins Inc Bank,24639,1976-08-18
+1395,Weiss-Ryan Bank,1154,1915-01-28
+1396,Campbell-Wilson Bank,44801,1911-07-02
+1397,"Taylor, Johnson and Warren Bank",37195,1921-01-23
+1398,"Trujillo, Yang and Morgan Bank",24805,1951-09-18
+1399,"Adams, Mullins and Wyatt Bank",39614,1968-06-25
+1400,Mitchell-Henry Bank,14882,1953-07-24
+1401,Stone PLC Bank,35372,1921-11-12
+1402,Doyle PLC Bank,27676,1936-04-26
+1403,Aguilar-Wilson Bank,17934,1906-05-27
+1404,Mason LLC Bank,15550,1987-12-30
+1405,"Fox, Barton and Green Bank",48515,1875-06-05
+1406,Wheeler Inc Bank,35573,1995-11-16
+1407,"Page, Atkins and Mitchell Bank",11032,1964-12-03
+1408,"Ruiz, Villarreal and Gilbert Bank",27541,1912-09-30
+1409,Williams-Ryan Bank,25095,1969-08-15
+1410,Martinez-Scott Bank,30464,1941-12-04
+1411,Lin-Stanley Bank,26413,1976-08-01
+1412,"Goodwin, Dean and Daniels Bank",19165,1995-06-27
+1413,Smith-Bullock Bank,41760,1978-10-18
+1414,Gonzalez and Sons Bank,36222,1876-11-07
+1415,Smith-Garza Bank,14038,1908-02-10
+1416,Leach Ltd Bank,43157,2011-07-01
+1417,Small-Pratt Bank,39994,1935-07-31
+1418,Sims-Rodriguez Bank,47115,1994-04-02
+1419,Warren-Collins Bank,22164,1953-08-10
+1420,Hernandez-Stewart Bank,7890,1926-04-05
+1421,Wilson LLC Bank,35133,2002-05-16
+1422,Martinez-Collins Bank,2230,1967-05-29
+1423,"Hebert, Rodriguez and Friedman Bank",4178,1882-08-31
+1424,"Davis, Hawkins and Morgan Bank",26162,1901-05-17
+1425,Wheeler Ltd Bank,32118,1896-10-03
+1426,Reese Group Bank,15566,2006-12-23
+1427,Butler LLC Bank,12393,2013-03-21
+1428,Walker and Sons Bank,29048,1981-04-16
+1429,Ramos and Sons Bank,24632,1976-12-21
+1430,"Miller, Meyers and Stanley Bank",10614,1953-07-21
+1431,Jackson LLC Bank,20049,1999-10-20
+1432,Coleman Ltd Bank,18314,1925-06-28
+1433,Willis PLC Bank,14910,1917-05-31
+1434,Caldwell Inc Bank,43588,1959-10-13
+1435,Diaz-Kidd Bank,46154,1996-05-25
+1436,Cervantes-Fuller Bank,49939,1980-01-20
+1437,Kelley LLC Bank,33478,1982-10-19
+1438,Elliott-Adkins Bank,13173,1887-07-04
+1439,Lopez Inc Bank,31559,1920-09-13
+1440,Woods-Adams Bank,45171,2003-11-29
+1441,Taylor-Ruiz Bank,27859,2014-01-12
+1442,"Thompson, Jones and Nelson Bank",21347,1965-01-24
+1443,"Clay, Frank and Garcia Bank",40858,1971-12-01
+1444,"Kelly, Stewart and Johnson Bank",37324,2010-12-28
+1445,Bowman Group Bank,16498,2011-07-17
+1446,Gibbs Group Bank,8880,1935-12-09
+1447,Martinez and Sons Bank,33279,1929-08-03
+1448,Price-Poole Bank,29197,1879-06-08
+1449,Gonzales-Kirk Bank,1819,1986-04-27
+1450,"Miller, Conner and Richardson Bank",12758,1975-09-24
+1451,Mendoza-Taylor Bank,44368,1995-07-15
+1452,Booth-Le Bank,1117,1911-08-01
+1453,"Salas, Rodgers and Taylor Bank",28103,1915-12-22
+1454,"Campbell, Moran and Chandler Bank",3884,1942-03-09
+1455,Smith-Watkins Bank,23763,1926-02-15
+1456,Houston Ltd Bank,48557,1888-07-08
+1457,"Lamb, Greene and Harris Bank",22327,1947-12-30
+1458,"Wright, Johnson and Clark Bank",41036,1912-11-19
+1459,"Craig, Rodriguez and Perkins Bank",23268,1926-05-21
+1460,Owens-Wright Bank,28922,1996-12-21
+1461,"Taylor, Nguyen and Thomas Bank",7728,1893-12-04
+1462,"Rice, Gibson and Stewart Bank",23188,2010-05-25
+1463,King Group Bank,9426,1999-05-06
+1464,Anderson PLC Bank,13293,1944-02-18
+1465,Newman-Dickson Bank,14062,1986-04-11
+1466,Kelley-Blanchard Bank,38722,1882-01-24
+1467,"Moran, Scott and Vasquez Bank",42772,1959-05-12
+1468,"Henry, Mendez and Myers Bank",10886,1989-04-26
+1469,Miller-Long Bank,34092,1915-09-05
+1470,Bailey-Shelton Bank,43194,1944-06-11
+1471,Flores and Sons Bank,2852,1993-10-17
+1472,Guerra Inc Bank,20315,1877-06-25
+1473,"Pearson, Garcia and Escobar Bank",30705,1980-11-02
+1474,"Simmons, Mcmahon and Sanchez Bank",46075,1910-06-22
+1475,"Allen, Pham and Conley Bank",40230,1931-10-11
+1476,Valencia-Martinez Bank,26847,1968-05-02
+1477,Sanchez-Bennett Bank,26432,1949-10-21
+1478,Davidson-Avila Bank,36771,1932-02-11
+1479,Guzman-Perez Bank,18258,1950-04-08
+1480,Ortiz-Jones Bank,29730,1923-05-24
+1481,Rose-Ellison Bank,38760,1946-10-29
+1482,"Simmons, Pierce and Mcmahon Bank",12440,1893-07-21
+1483,"Alexander, Phelps and Nguyen Bank",28842,1882-10-17
+1484,"Ray, Jordan and Gomez Bank",28113,1977-10-11
+1485,Smith-Donovan Bank,18545,1887-01-31
+1486,Cain LLC Bank,5772,2010-09-10
+1487,"Simmons, Taylor and Harris Bank",6377,1984-11-11
+1488,"House, Weaver and Smith Bank",35745,1953-07-24
+1489,"Hunt, Jackson and Perry Bank",29874,2004-06-29
+1490,"Johnson, Jones and Carter Bank",38765,1898-03-03
+1491,"Ellis, Hernandez and Smith Bank",11092,1898-01-25
+1492,"Russell, Gonzales and Lee Bank",42459,1984-07-20
+1493,Turner-Arnold Bank,23593,1890-11-07
+1494,"Leach, Mitchell and Conner Bank",6173,2003-06-28
+1495,Doyle-Fisher Bank,45030,1942-01-18
+1496,"Jackson, Schmidt and Petersen Bank",37828,1946-10-21
+1497,"Bass, Lewis and Armstrong Bank",41921,1905-06-02
+1498,"Oneill, Barber and Delgado Bank",48571,1921-02-11
+1499,"Lee, Norris and Combs Bank",14363,1893-09-06
+1500,Martin-Yates Bank,21358,1879-03-22
+1501,Schroeder-Wallace Bank,29958,1973-07-14
+1502,Rogers-Jackson Bank,20292,1895-12-26
+1503,Murphy Inc Bank,13823,1986-03-23
+1504,"Austin, Perez and Nash Bank",41228,1943-01-26
+1505,"Love, Smith and Smith Bank",41959,1993-10-13
+1506,"Williams, Ward and Dixon Bank",7299,1973-09-06
+1507,Kelley PLC Bank,14189,2004-07-26
+1508,Boyle Inc Bank,15398,1879-08-20
+1509,"Jackson, Perez and Moore Bank",41624,1964-04-07
+1510,"Mills, Herman and Rios Bank",9047,1891-03-20
+1511,"Schmidt, Cooper and Moore Bank",40740,1978-02-05
+1512,Cunningham Group Bank,21287,1985-12-13
+1513,Taylor-Adams Bank,45654,1898-11-16
+1514,Ross PLC Bank,4934,1898-03-29
+1515,Gomez-Russell Bank,32197,1922-10-09
+1516,"Smith, Franklin and Combs Bank",26775,1951-11-03
+1517,Peterson and Sons Bank,33855,1963-11-03
+1518,"Castillo, Lopez and Foster Bank",37255,1953-06-20
+1519,"Alvarado, Williams and Campbell Bank",22019,1988-10-09
+1520,Miller-Dominguez Bank,21021,1978-07-01
+1521,Khan Group Bank,26142,1939-10-13
+1522,"Harris, Watkins and Patton Bank",15526,1982-08-31
+1523,Butler-Bennett Bank,2212,1979-05-17
+1524,Gonzales Group Bank,46302,1883-06-23
+1525,"Williams, Goodwin and Smith Bank",18659,2013-09-17
+1526,"Carpenter, Bowers and Martinez Bank",22560,1956-10-21
+1527,"Smith, Lopez and Miller Bank",43896,1887-05-23
+1528,"Roberts, Weaver and Lewis Bank",17068,1992-07-03
+1529,Ramirez Inc Bank,38817,2006-09-19
+1530,Decker Ltd Bank,17868,1998-08-10
+1531,"Haynes, Turner and Hurst Bank",31810,1989-06-19
+1532,Huffman-Huber Bank,21255,1981-06-15
+1533,Boyer-Palmer Bank,17872,1972-04-20
+1534,Powell-Pollard Bank,26040,2003-09-28
+1535,Griffin-Shepard Bank,34168,1882-05-10
+1536,Bailey-Nixon Bank,41935,1965-05-15
+1537,Schultz and Sons Bank,24078,2000-09-23
+1538,Hamilton-Wright Bank,30532,1962-09-20
+1539,Mcgrath Group Bank,2740,1880-11-24
+1540,Allen-Taylor Bank,6186,1925-05-01
+1541,Hall-Mejia Bank,19790,1889-12-07
+1542,Levine and Sons Bank,8617,1971-05-19
+1543,"Martin, Sheppard and Wang Bank",29724,1897-11-23
+1544,Orr PLC Bank,49466,1928-08-09
+1545,Fuentes PLC Bank,18535,1888-09-01
+1546,Ward and Sons Bank,17619,2010-10-06
+1547,Mathis-Gardner Bank,7570,1950-10-12
+1548,Lowery-Kennedy Bank,10211,1926-02-22
+1549,Solis Inc Bank,9601,1987-05-31
+1550,Miller-Bates Bank,37571,1952-05-23
+1551,"Mckinney, Brown and Johnson Bank",27077,1948-07-14
+1552,Smith-Cobb Bank,7027,1956-06-19
+1553,Schroeder Ltd Bank,2079,1954-06-05
+1554,Torres Group Bank,11244,1996-08-20
+1555,Soto Inc Bank,41387,1985-02-25
+1556,"Wilson, Reid and Cox Bank",20539,1950-05-12
+1557,Moody PLC Bank,9941,1903-09-24
+1558,Coleman-Simmons Bank,25768,1939-02-10
+1559,Adams Group Bank,13769,1978-02-14
+1560,"Fleming, James and Hamilton Bank",5769,1891-03-25
+1561,Perkins Inc Bank,44206,1934-04-26
+1562,Cook-Morgan Bank,38235,1956-11-10
+1563,Stewart-Ferrell Bank,41681,2011-09-12
+1564,Rodriguez-Solis Bank,31270,1972-05-09
+1565,Snyder-Madden Bank,19394,1929-02-21
+1566,Lynch-Benitez Bank,15841,1934-11-29
+1567,Banks Group Bank,47836,1942-05-01
+1568,"Rice, Ewing and Cherry Bank",5413,1901-12-23
+1569,"Ramirez, Rivera and Barton Bank",3428,1891-02-19
+1570,"Mack, Holmes and Murray Bank",13675,1892-11-09
+1571,Cervantes PLC Bank,29045,1977-03-18
+1572,"Alvarado, Reyes and Gibson Bank",4679,1879-04-20
+1573,Perez-Wolfe Bank,34396,1957-10-12
+1574,Friedman LLC Bank,2700,1920-10-05
+1575,"Mitchell, Mcdonald and Webb Bank",41384,2007-01-08
+1576,"Morris, Wilkins and Hicks Bank",37083,1934-02-21
+1577,Young-Davis Bank,46065,1999-03-05
+1578,Ray-Moore Bank,9962,1911-09-07
+1579,Turner-Smith Bank,19497,1937-03-19
+1580,Barker Group Bank,7216,1904-12-31
+1581,Lucas-Michael Bank,33402,2003-03-24
+1582,"Davidson, Ballard and Smith Bank",9234,1955-01-27
+1583,Ali-Dawson Bank,19006,2004-07-10
+1584,"Murphy, White and Ryan Bank",24224,1955-02-20
+1585,Kim LLC Bank,34726,1912-04-28
+1586,Calderon-Williams Bank,11752,1978-01-01
+1587,"Smith, Patel and Phillips Bank",25022,1988-08-05
+1588,Wilkerson Inc Bank,25526,1974-07-22
+1589,Rice PLC Bank,12174,1890-07-10
+1590,Gillespie-Floyd Bank,45657,1925-07-28
+1591,Gardner-Payne Bank,35151,1891-07-09
+1592,Avery-Gutierrez Bank,1034,1887-08-13
+1593,Lane-Jones Bank,10881,1951-12-03
+1594,"Morrison, Hampton and Lopez Bank",25358,1979-09-06
+1595,"Morris, Nichols and Torres Bank",34673,1880-11-26
+1596,Rowe Group Bank,1491,1882-03-06
+1597,"Barker, Bean and Joseph Bank",36144,1891-04-02
+1598,Osborne and Sons Bank,20884,1913-04-30
+1599,Jordan LLC Bank,25656,1919-06-05
+1600,Pena-Bernard Bank,25079,1920-09-22
+1601,Turner-Pollard Bank,27637,1920-10-01
+1602,West and Sons Bank,16507,1920-06-28
+1603,Rollins and Sons Bank,9320,1984-04-04
+1604,Gilmore-Lewis Bank,15307,1898-01-22
+1605,Vazquez LLC Bank,11641,1989-08-11
+1606,"Simon, Kaufman and Wells Bank",12334,2003-11-24
+1607,"Brown, Mcmahon and Foster Bank",36351,2005-10-08
+1608,Benton-Moore Bank,13265,1948-08-02
+1609,"Blair, Simpson and Delgado Bank",23464,1962-04-26
+1610,"Preston, Villegas and Brown Bank",37430,1889-09-24
+1611,Perez-Nielsen Bank,43617,1971-07-15
+1612,"Smith, Jackson and Jimenez Bank",27820,1968-10-12
+1613,Duarte-Gonzales Bank,1939,1981-08-08
+1614,Sutton-Lopez Bank,29914,2004-02-06
+1615,Rodriguez-Ballard Bank,28521,1884-09-16
+1616,Carter-Williamson Bank,14214,1977-09-24
+1617,"Cuevas, Flores and Olson Bank",22612,1962-10-28
+1618,Soto-Watson Bank,19621,1977-02-15
+1619,"Harris, Higgins and Mccarthy Bank",37090,1887-09-17
+1620,Woodard PLC Bank,3297,1976-04-12
+1621,Neal-Jones Bank,32012,1983-12-03
+1622,Owens-Frederick Bank,36680,1882-02-06
+1623,Cervantes-Flores Bank,30312,1922-11-03
+1624,Foster-Young Bank,7546,1886-03-06
+1625,"King, Moran and Gallegos Bank",12270,1879-05-05
+1626,Garcia-Preston Bank,28056,1898-08-13
+1627,Reed-Russell Bank,22385,1998-09-05
+1628,"Parrish, Edwards and Herrera Bank",23868,1976-09-12
+1629,Singleton Group Bank,5568,2013-09-07
+1630,"Tapia, Williamson and Green Bank",47312,1995-04-10
+1631,"Bryant, Fowler and Ramos Bank",47781,1898-01-09
+1632,Hall PLC Bank,22476,1934-12-14
+1633,Taylor-Ware Bank,31099,1977-07-27
+1634,"Klein, Schwartz and Pacheco Bank",2055,1990-01-26
+1635,"Campbell, Vincent and Gonzalez Bank",20778,1983-02-25
+1636,Ramirez-Hunt Bank,14405,1975-08-28
+1637,"Mitchell, Adams and Ward Bank",28911,1912-07-25
+1638,Rose-Cochran Bank,28175,2013-08-03
+1639,"Little, Malone and Bennett Bank",37915,1950-11-02
+1640,Vasquez-Matthews Bank,27924,1998-06-22
+1641,"Smith, Vargas and Chavez Bank",18509,1889-12-03
+1642,Blair and Sons Bank,48351,1988-08-24
+1643,Miller and Sons Bank,49161,1893-01-04
+1644,"Campbell, Mcmillan and Carpenter Bank",16055,1889-08-25
+1645,"Ramos, Powers and Vaughn Bank",25926,1912-08-03
+1646,Allen Group Bank,9470,1960-08-02
+1647,Young Ltd Bank,36282,1978-10-18
+1648,Fletcher Group Bank,10676,1936-08-14
+1649,Stewart-Miller Bank,13936,1936-09-29
+1650,Case Inc Bank,33141,1910-11-28
+1651,"Hernandez, Rodgers and Wheeler Bank",36433,1990-04-27
+1652,Evans-Diaz Bank,17320,1889-10-26
+1653,Price-West Bank,25205,1900-04-04
+1654,"Beard, Davis and Thompson Bank",35419,1897-11-24
+1655,"Warren, Bowman and Johnson Bank",17859,1914-05-14
+1656,"Collins, Smith and Maxwell Bank",49851,1924-01-13
+1657,"Taylor, Mcneil and Freeman Bank",34915,1973-05-04
+1658,Robinson LLC Bank,18029,1886-06-24
+1659,Barajas LLC Bank,29594,1992-11-21
+1660,"Lamb, Gaines and Sanchez Bank",38705,2004-08-02
+1661,Horton-Smith Bank,30290,1889-02-08
+1662,Sloan-Olson Bank,8483,1892-11-01
+1663,"Barnes, Maxwell and Sherman Bank",10142,1957-06-04
+1664,"Munoz, Becker and Smith Bank",32583,1905-08-02
+1665,"Guerrero, Lopez and Hernandez Bank",19523,1988-02-07
+1666,Davidson-Roberts Bank,9610,1935-11-22
+1667,Osborne-King Bank,16976,1883-04-24
+1668,King-Chapman Bank,21312,1961-12-22
+1669,Lambert Inc Bank,4420,1932-06-05
+1670,Weaver-Henderson Bank,12377,2011-02-21
+1671,"Pierce, Murphy and Mejia Bank",4760,1896-07-04
+1672,Rivera-Flores Bank,24716,1883-04-24
+1673,Webster Ltd Bank,35062,2002-06-14
+1674,Harper Group Bank,11904,1996-04-09
+1675,"Kelley, Montoya and Morales Bank",30133,1987-05-18
+1676,Anderson-Smith Bank,16026,1969-04-02
+1677,"Davidson, Jackson and Carey Bank",32372,1929-12-20
+1678,Becker-Gross Bank,2848,1981-11-10
+1679,"Harris, Dean and Smith Bank",29463,1946-04-09
+1680,Burns Inc Bank,13404,1931-03-27
+1681,Brown-Price Bank,4274,1993-12-16
+1682,Wright-Sullivan Bank,30551,2001-03-26
+1683,Soto LLC Bank,28729,1984-10-13
+1684,Hardy-Owen Bank,22884,1875-06-29
+1685,Wilson-Espinoza Bank,49324,1882-02-02
+1686,Ewing Inc Bank,49683,1919-11-29
+1687,"Bell, Hendricks and Keith Bank",42904,1915-02-05
+1688,"Nichols, Lane and Miller Bank",27855,1904-03-27
+1689,Shepherd LLC Bank,47773,1899-04-03
+1690,"Washington, Morrison and Buchanan Bank",48697,1927-06-07
+1691,Cox Group Bank,14751,1885-06-29
+1692,West-White Bank,18793,1896-10-03
+1693,"Lynn, Sandoval and Glass Bank",16071,1967-10-06
+1694,Williams-Rivers Bank,24688,1876-04-15
+1695,"Arnold, Little and Church Bank",28533,1947-04-02
+1696,Doyle Ltd Bank,25996,1978-03-06
+1697,Petersen LLC Bank,20760,1981-12-16
+1698,"Nelson, Fox and Ross Bank",7310,1914-06-16
+1699,Parker LLC Bank,5130,1890-01-20
+1700,"Rodriguez, Hayes and Foster Bank",15179,1916-01-25
+1701,Gomez Group Bank,33496,1932-09-09
+1702,Lam Ltd Bank,17906,1987-05-14
+1703,Donaldson Inc Bank,48011,1891-04-16
+1704,"Davis, Bender and Nguyen Bank",24532,2011-09-14
+1705,"Allen, Ingram and Ellis Bank",19455,1996-04-21
+1706,"Kidd, Baker and Martin Bank",2146,2012-05-11
+1707,"Hall, Gay and Hernandez Bank",39218,1973-12-12
+1708,"Riley, Medina and Clark Bank",41899,1893-10-06
+1709,"Moon, Sweeney and Brock Bank",4450,1908-06-21
+1710,Perkins-Mckinney Bank,47974,1975-08-14
+1711,Montgomery-Taylor Bank,29883,1887-03-24
+1712,White-Nelson Bank,34869,1879-10-10
+1713,Valdez Inc Bank,44642,1897-09-01
+1714,"Stevenson, Lewis and Burke Bank",26797,1991-07-30
+1715,King-Murray Bank,12946,2006-01-22
+1716,"Maldonado, Evans and Richards Bank",21480,1942-04-07
+1717,Eaton Ltd Bank,47170,1875-03-23
+1718,Scott-Walker Bank,36122,1928-01-29
+1719,Robinson Group Bank,16937,1959-08-02
+1720,"Hart, Hogan and Brown Bank",19104,1887-04-13
+1721,Garrison Inc Bank,4097,2005-12-25
+1722,Moreno-Patterson Bank,7403,1876-01-20
+1723,"Reese, Cohen and Williams Bank",7907,1932-08-29
+1724,Smith-Morales Bank,41587,1898-06-18
+1725,"Bradley, Morrison and Potter Bank",21845,2004-02-11
+1726,"Kim, Flynn and Reid Bank",15803,1900-07-04
+1727,Holmes Ltd Bank,48765,1884-08-25
+1728,"Martin, Taylor and Morris Bank",40069,1918-06-05
+1729,"Mendez, Ramsey and Johnson Bank",40384,1941-07-11
+1730,"Jordan, Owens and Mcmillan Bank",37673,1894-01-11
+1731,Wilson-Strickland Bank,37589,1941-02-08
+1732,"Reyes, Howe and Preston Bank",1279,1950-12-12
+1733,Young-Lopez Bank,22950,2012-08-12
+1734,"Davis, Carter and Rodriguez Bank",17911,1999-02-18
+1735,Espinoza-Keller Bank,14263,1897-10-21
+1736,Anthony Group Bank,37243,1903-10-13
+1737,"Daniel, Smith and Phillips Bank",28962,1966-10-22
+1738,Hill and Sons Bank,48826,1903-10-02
+1739,"Johnson, Marquez and Dennis Bank",16055,1968-03-23
+1740,Hernandez LLC Bank,24436,1977-09-17
+1741,Torres Ltd Bank,29112,1888-04-13
+1742,"Cross, Martinez and Norris Bank",12725,1996-08-19
+1743,Maldonado-Wilson Bank,19357,2014-09-18
+1744,"Thompson, Rodriguez and Hill Bank",18686,1979-03-13
+1745,White-Sexton Bank,4138,1996-05-07
+1746,"Ochoa, Webb and Weber Bank",39302,1968-12-23
+1747,"Jennings, Washington and Phillips Bank",32385,1905-08-29
+1748,Francis Ltd Bank,20313,1876-12-19
+1749,"Diaz, Nelson and Cantrell Bank",49757,1988-12-05
+1750,"Wright, Koch and Lam Bank",5289,1967-07-06
+1751,Knapp-Wong Bank,23352,1965-11-10
+1752,Ross-Mercado Bank,48289,1901-10-29
+1753,Carroll PLC Bank,34805,1937-03-19
+1754,Ramirez Group Bank,12497,1910-04-23
+1755,King-Baxter Bank,12176,1917-06-26
+1756,Mitchell Ltd Bank,6509,1900-01-20
+1757,Kent-Klein Bank,33211,2007-07-17
+1758,Maldonado-Martin Bank,45174,1958-05-21
+1759,"Garcia, Lane and Rodriguez Bank",24098,1898-05-09
+1760,Newton-Sharp Bank,21717,1993-05-27
+1761,Todd and Sons Bank,26160,1987-05-26
+1762,Moore-Page Bank,6140,2000-08-23
+1763,"Stanley, Spencer and Osborne Bank",39144,1962-06-10
+1764,"Lee, Wright and Edwards Bank",4009,1910-11-01
+1765,"Byrd, Coleman and Butler Bank",17066,2009-06-16
+1766,"Conway, Hernandez and Hernandez Bank",36333,1918-06-28
+1767,Perry LLC Bank,46645,1887-12-28
+1768,"Anderson, Carter and Scott Bank",19705,1937-06-26
+1769,Harrison LLC Bank,46226,1931-10-21
+1770,Robinson-Williams Bank,36718,2006-02-22
+1771,Sims-Nelson Bank,14579,1896-04-30
+1772,"Franco, Rogers and Vang Bank",31664,1960-06-05
+1773,"Brown, Torres and Diaz Bank",15349,1890-11-13
+1774,Villarreal LLC Bank,30605,1967-08-27
+1775,Flowers-Baker Bank,16721,1919-09-02
+1776,"Pitts, Turner and Koch Bank",39736,1902-03-18
+1777,"Oneal, Barnett and Perry Bank",8762,1991-07-09
+1778,Peters Group Bank,43631,1889-04-13
+1779,Baker-Hudson Bank,10462,1915-01-06
+1780,"Mcclure, Jackson and Garcia Bank",22102,1982-03-31
+1781,Ford Group Bank,26120,2001-08-27
+1782,"Williams, Parrish and Robinson Bank",35935,1902-03-06
+1783,Smith-Martin Bank,3654,2005-10-15
+1784,Crawford-Mcdonald Bank,6477,1997-08-06
+1785,Day-Johnson Bank,9625,2002-01-18
+1786,"Delgado, Wilkins and Carr Bank",6355,2010-06-24
+1787,Mitchell-Mcclain Bank,5747,1910-08-08
+1788,Williamson-Blackburn Bank,34846,1905-05-05
+1789,Trujillo LLC Bank,2771,2008-11-14
+1790,"Fisher, Knight and Stewart Bank",19040,2006-08-23
+1791,Christian-Lang Bank,41309,1948-07-31
+1792,Santana PLC Bank,27820,1947-08-16
+1793,Cardenas LLC Bank,4184,1926-01-05
+1794,Lawrence-Palmer Bank,24552,1985-08-04
+1795,Chavez-Kim Bank,38355,1975-05-13
+1796,Brooks-Floyd Bank,49628,1994-09-03
+1797,"Norris, Gonzalez and Martinez Bank",9062,1890-02-09
+1798,"Mendoza, Bennett and Young Bank",49249,1905-06-15
+1799,"Williams, Morgan and Torres Bank",15687,1905-05-16
+1800,Conner Inc Bank,39386,1920-06-07
+1801,Cruz-Greene Bank,41685,1876-07-16
+1802,Graves PLC Bank,15734,1954-04-14
+1803,"Leblanc, Ewing and Jones Bank",32693,1935-08-29
+1804,Mcmillan Ltd Bank,20347,1979-06-23
+1805,Edwards and Sons Bank,5767,1881-11-23
+1806,Moses-Lawson Bank,16785,1894-09-19
+1807,Briggs PLC Bank,37587,1910-07-17
+1808,"Gallegos, Collins and Carlson Bank",40296,2007-06-15
+1809,Lopez and Sons Bank,17688,1997-12-22
+1810,Pugh Ltd Bank,27028,1919-02-27
+1811,"Irwin, Taylor and Black Bank",5661,1996-12-17
+1812,"Calhoun, Noble and Bishop Bank",43669,1971-08-01
+1813,"Hamilton, Clarke and Key Bank",39574,1949-06-15
+1814,David Group Bank,26034,2014-07-06
+1815,Ward LLC Bank,28952,2004-06-09
+1816,"Dickerson, Mercado and Martin Bank",42982,1884-06-24
+1817,Stevenson-Smith Bank,33553,1981-01-13
+1818,Morris-Ware Bank,26367,1891-04-09
+1819,Nguyen-Rowe Bank,19610,1979-09-21
+1820,Li PLC Bank,22030,1952-03-30
+1821,Henderson-Sullivan Bank,28463,1948-12-02
+1822,Wall-Thomas Bank,38232,1895-02-18
+1823,"Webb, Graham and Jones Bank",6432,2011-01-18
+1824,Williams-Parrish Bank,36915,1875-09-10
+1825,Rogers Group Bank,29698,1882-08-15
+1826,Jefferson PLC Bank,11219,2002-04-29
+1827,"Sims, Brooks and Smith Bank",20332,1996-03-25
+1828,Finley and Sons Bank,18293,1982-05-04
+1829,Barker Inc Bank,7251,1891-12-28
+1830,Weiss-Johnson Bank,1530,1965-04-09
+1831,"Douglas, Griffin and Salazar Bank",28116,1993-11-17
+1832,Johnston-Adams Bank,36099,1939-02-03
+1833,Campbell-Gonzalez Bank,37024,1918-06-30
+1834,Molina-Stevens Bank,29107,1978-01-02
+1835,Phillips Inc Bank,17183,1982-08-09
+1836,"Barton, Lawrence and Greene Bank",33564,1885-07-30
+1837,"Brown, Lozano and Bush Bank",36004,1955-04-25
+1838,"Barber, Williams and Lopez Bank",22995,2005-11-18
+1839,"Johnson, Powell and Chambers Bank",20915,1880-06-30
+1840,Marshall LLC Bank,30556,1907-03-14
+1841,Stewart-Parker Bank,47605,1963-11-17
+1842,"Perry, Quinn and Sosa Bank",48528,1928-12-04
+1843,Wilson-Nichols Bank,22621,1936-07-14
+1844,"Roberts, Vasquez and Marshall Bank",6658,1983-07-06
+1845,Baker-Gilbert Bank,34645,1966-11-25
+1846,Williams-Merritt Bank,12600,1991-10-13
+1847,Brown-Carpenter Bank,48141,1948-01-30
+1848,Walker-Walters Bank,30388,1927-04-03
+1849,Perkins Group Bank,1819,2004-04-13
+1850,Alexander-Bishop Bank,10593,1947-10-24
+1851,Shannon LLC Bank,38301,1889-02-08
+1852,Benjamin-Bell Bank,44701,1941-05-22
+1853,"Robinson, Johnson and Owens Bank",38982,1991-07-11
+1854,Hayes-Gonzalez Bank,34630,1967-10-25
+1855,"Robinson, Calderon and May Bank",22777,2006-04-24
+1856,Rodgers-Brennan Bank,4928,2002-11-26
+1857,Butler-Davenport Bank,15919,1950-08-13
+1858,Rodriguez-Arias Bank,9174,1921-05-04
+1859,Butler-Yu Bank,25878,1945-12-09
+1860,Cook PLC Bank,43898,1979-10-15
+1861,Washington LLC Bank,31049,1982-11-04
+1862,"Rivera, Mosley and Yoder Bank",20403,1966-05-16
+1863,Krause-Wright Bank,28332,2004-01-01
+1864,Chavez and Sons Bank,8908,1964-09-18
+1865,Garcia-Smith Bank,39900,1918-02-26
+1866,Brewer PLC Bank,46191,2008-06-06
+1867,Stanley PLC Bank,3458,1891-08-19
+1868,"Miller, Wang and Thomas Bank",29938,1908-10-15
+1869,Cooper Ltd Bank,12897,1967-03-11
+1870,Mayer-Cole Bank,32883,1960-08-29
+1871,Wilson-Malone Bank,24200,1915-11-27
+1872,Woods-Davis Bank,16309,1965-07-25
+1873,"Singh, Wilson and Mcdonald Bank",22482,1960-04-18
+1874,Reynolds Inc Bank,28624,1935-11-26
+1875,Newton and Sons Bank,27367,1892-06-17
+1876,"Rowland, Soto and Matthews Bank",47249,1913-09-23
+1877,Mcmahon-Davis Bank,32415,1923-01-05
+1878,"Holloway, Frazier and Stevens Bank",10480,2015-02-01
+1879,Frederick-Martin Bank,36152,1974-08-02
+1880,Richards-Wade Bank,29812,1959-10-20
+1881,Willis Ltd Bank,21233,1907-11-27
+1882,Tate-Brown Bank,1423,1891-03-10
+1883,Vargas-Soto Bank,29392,1922-08-28
+1884,Harvey-Moore Bank,13001,1881-05-30
+1885,Webb-Rodriguez Bank,44805,1997-07-24
+1886,"Duran, Wallace and Marshall Bank",27098,2012-08-06
+1887,Ortiz-Lyons Bank,36147,1978-04-28
+1888,Harris-Tucker Bank,9395,1981-04-27
+1889,"Humphrey, Anderson and Lawrence Bank",20904,1980-05-08
+1890,Cline PLC Bank,11533,1964-03-17
+1891,Giles-Brown Bank,10022,1904-07-04
+1892,Lane-Williams Bank,15621,1961-06-07
+1893,Powers-Crawford Bank,40008,2005-03-14
+1894,"Ramirez, Warren and Warren Bank",33253,1972-06-09
+1895,Zavala LLC Bank,34470,1953-08-09
+1896,Dunlap PLC Bank,37292,1987-07-14
+1897,"Evans, Galvan and Moore Bank",36308,1915-06-17
+1898,Clark Inc Bank,49152,1946-10-30
+1899,"Wilson, Grant and Horn Bank",17334,1943-05-17
+1900,Avila LLC Bank,29609,1994-08-10
+1901,Higgins Inc Bank,28500,2005-12-07
+1902,Summers PLC Bank,28262,1881-04-26
+1903,Knight LLC Bank,1849,1890-04-20
+1904,Gonzales PLC Bank,41670,1949-05-16
+1905,Cherry PLC Bank,3551,2012-10-02
+1906,"Nelson, Rose and Rose Bank",9315,1901-12-01
+1907,"Jones, Villarreal and Washington Bank",4726,1938-05-09
+1908,Simmons Inc Bank,33726,2000-12-26
+1909,"Wright, Wallace and Ellis Bank",31416,1973-01-22
+1910,"Nelson, Mcintyre and Barry Bank",20651,2002-06-15
+1911,Shaw Group Bank,18658,1938-12-08
+1912,Stanley Group Bank,11067,1961-06-11
+1913,Woods-Torres Bank,31733,1986-02-13
+1914,"Romero, Curry and Keller Bank",48245,1927-04-16
+1915,"Marshall, Gallagher and Lee Bank",7715,1898-05-06
+1916,"Cardenas, Martinez and Rodriguez Bank",4779,1877-12-20
+1917,Marks-Taylor Bank,11204,1986-10-09
+1918,"Roberts, Garcia and Patrick Bank",31903,1945-06-12
+1919,"Butler, Smith and Valencia Bank",37510,1981-05-08
+1920,"Fowler, Wise and Turner Bank",6962,1923-05-12
+1921,Griffith Inc Bank,37858,1955-06-09
+1922,Dudley-Golden Bank,47798,1959-06-09
+1923,"Beck, Allen and Rodriguez Bank",46015,1881-08-17
+1924,Molina-Hernandez Bank,44025,2002-04-02
+1925,"Burns, Navarro and Bird Bank",38196,1966-10-24
+1926,"Cisneros, Bowman and James Bank",22213,1896-11-21
+1927,"Sullivan, Lynch and Martinez Bank",36282,1910-09-04
+1928,Warner-Guerrero Bank,42403,1947-09-10
+1929,Frank PLC Bank,24355,1958-11-21
+1930,Rodriguez-Daniel Bank,15089,1974-06-19
+1931,Pollard-Perry Bank,3312,2004-01-27
+1932,"Baldwin, Patton and Robertson Bank",40944,1875-09-22
+1933,Gates and Sons Bank,37925,1970-04-03
+1934,Rowe and Sons Bank,40411,1891-08-18
+1935,Francis-Long Bank,6176,1914-08-09
+1936,Duffy and Sons Bank,36835,1986-02-15
+1937,Torres-Watson Bank,14923,1909-12-07
+1938,Reeves-Marquez Bank,38970,1926-01-18
+1939,"Jackson, Simon and Brown Bank",31398,1971-09-10
+1940,Page PLC Bank,48266,1926-01-21
+1941,"Price, Rios and Rich Bank",44501,1904-09-16
+1942,Riley-Wood Bank,30906,1951-11-16
+1943,Porter LLC Bank,20465,1936-02-13
+1944,"Joseph, Willis and Watkins Bank",12476,1992-01-28
+1945,Gonzales-Baird Bank,19307,1895-02-14
+1946,"Wilson, Davidson and Matthews Bank",41598,1936-06-10
+1947,Clay-Wise Bank,5116,1941-05-18
+1948,Brock and Sons Bank,21781,1899-01-11
+1949,Callahan-Hartman Bank,19494,1990-07-17
+1950,Mccann and Sons Bank,8582,1923-01-29
+1951,"Ayers, Edwards and Dawson Bank",28432,1901-04-05
+1952,"Miller, Powell and Small Bank",48413,1901-10-07
+1953,"Parks, Shaw and Gray Bank",23314,1923-09-22
+1954,Davis Group Bank,40489,1950-04-09
+1955,Lopez-Sandoval Bank,8977,2007-12-20
+1956,"Miller, Thornton and Moore Bank",33461,1912-01-28
+1957,"Hurley, Wright and Strickland Bank",3616,1993-07-15
+1958,"Welch, James and Duncan Bank",35299,1958-12-02
+1959,Martinez-Harrison Bank,41282,1993-04-16
+1960,Watkins-Johnson Bank,16657,1947-10-16
+1961,Gilbert LLC Bank,37894,1904-10-11
+1962,Walker-Gray Bank,28486,1926-02-24
+1963,Morris Ltd Bank,43350,1987-09-28
+1964,Moyer LLC Bank,43631,1966-06-19
+1965,Gallagher-Swanson Bank,21448,1917-02-11
+1966,Butler-Elliott Bank,28176,1970-08-09
+1967,"Smith, Cox and Rios Bank",36549,1949-03-28
+1968,Bell-Pennington Bank,33020,1878-03-14
+1969,Hoover LLC Bank,23697,2006-07-18
+1970,"Booker, Harmon and Parrish Bank",27200,1994-02-13
+1971,Chaney and Sons Bank,27435,1882-01-06
+1972,"Henderson, Harris and Henderson Bank",20591,1981-09-15
+1973,Orozco-Roach Bank,20415,1927-10-02
+1974,Morgan Group Bank,38760,1947-09-27
+1975,Sandoval Inc Bank,22376,1919-07-01
+1976,Smith-Thomas Bank,13129,1916-02-28
+1977,Chavez-Lowe Bank,31946,1923-05-31
+1978,"Jones, Chapman and Kim Bank",7575,1877-11-14
+1979,"Chan, Stephenson and Mcdonald Bank",32796,1933-01-02
+1980,Hall Inc Bank,24050,1998-10-22
+1981,Anderson-Ortiz Bank,41454,2010-06-26
+1982,Prince-Martin Bank,30681,1889-08-02
+1983,"Harris, Jenkins and Hansen Bank",13347,1947-05-27
+1984,Gardner Ltd Bank,4425,1908-07-28
+1985,Frazier-Robertson Bank,22323,1942-06-30
+1986,Duarte Inc Bank,10385,2000-09-16
+1987,Robbins-Graham Bank,38077,1911-06-18
+1988,Colon Inc Bank,49465,2003-02-26
+1989,Jacobs LLC Bank,10368,2003-04-23
+1990,Kelly and Sons Bank,49899,1977-05-10
+1991,Meyer-Chan Bank,8890,1931-10-19
+1992,Meyer Group Bank,46297,1894-12-27
+1993,Wood-Sanders Bank,38568,1972-05-01
+1994,Cook-Rodriguez Bank,30027,1977-04-29
+1995,"Fowler, Cunningham and Young Bank",45776,1876-05-06
+1996,Gaines and Sons Bank,23462,1876-02-27
+1997,Cummings-Anderson Bank,46516,1965-01-13
+1998,Leonard-Flynn Bank,32439,1935-06-28
+1999,"Sellers, Schneider and Vargas Bank",28003,2005-10-08
+2000,Perez-Gonzalez Bank,31326,1958-07-23
+2001,Daniels PLC Bank,27351,1996-12-23
+2002,Webb Group Bank,14883,1971-12-02
+2003,Shaw-Wang Bank,21084,1940-05-19
+2004,"Rodriguez, Brown and Moreno Bank",18403,1920-07-14
+2005,Flores-Carroll Bank,9396,1920-08-20
+2006,Hill Ltd Bank,35350,1923-02-01
+2007,Bryant PLC Bank,5361,2010-11-18
+2008,"Baker, Chambers and King Bank",31165,1890-08-24
+2009,"Leon, Taylor and Fleming Bank",43534,1908-12-17
+2010,"Hall, Bailey and Wilkinson Bank",26987,1913-03-09
+2011,Delacruz-Alvarado Bank,11184,2012-12-25
+2012,Schultz-Cook Bank,1545,1955-10-03
+2013,"Atkinson, Sullivan and Kim Bank",48220,2008-10-30
+2014,Alvarez Group Bank,43953,1977-02-10
+2015,Welch Ltd Bank,2199,1976-04-04
+2016,Holt-Haley Bank,9603,1903-11-30
+2017,"Kelley, Paul and Robertson Bank",5581,1941-09-23
+2018,Jones LLC Bank,23646,1921-05-01
+2019,Kelly Ltd Bank,5598,1945-03-13
+2020,Mcdaniel LLC Bank,3650,1915-11-13
+2021,Cruz Group Bank,42754,1999-07-01
+2022,Smith-Miller Bank,4539,1911-06-15
+2023,"Gardner, Wallace and Aguilar Bank",13499,1941-01-22
+2024,Gentry Group Bank,23928,1883-12-14
+2025,"Garcia, Lewis and Murphy Bank",35574,1878-09-04
+2026,"Ryan, Martin and Russell Bank",12216,1942-02-16
+2027,Novak-Bernard Bank,2999,1881-04-10
+2028,"Riley, Gibbs and Rodriguez Bank",21813,1947-09-13
+2029,"Gonzales, Hahn and Cox Bank",12941,1968-04-02
+2030,"Simmons, Russell and Smith Bank",2521,1946-10-14
+2031,Norris Inc Bank,37593,1931-06-14
+2032,Garza PLC Bank,2331,1993-05-26
+2033,Bowman Ltd Bank,45407,2011-12-01
+2034,Greene LLC Bank,34649,1966-09-05
+2035,"Wilson, Gonzalez and Wise Bank",1436,1961-08-23
+2036,Thomas-Stephens Bank,18384,2002-10-31
+2037,Sharp Group Bank,28013,1946-07-24
+2038,"Pearson, Morgan and Flores Bank",12207,1920-12-22
+2039,Donovan and Sons Bank,22738,1994-07-28
+2040,"Perez, Jones and Henderson Bank",44266,1975-06-15
+2041,Morgan-Grimes Bank,17997,1887-02-25
+2042,Boyle-Butler Bank,6657,1918-01-06
+2043,Rogers-Mccullough Bank,5191,1993-10-09
+2044,Vasquez-Nielsen Bank,8843,1950-07-17
+2045,"Garza, Hernandez and Turner Bank",33197,1999-04-17
+2046,"Williams, Crawford and Hernandez Bank",15564,1944-07-04
+2047,Crawford-Skinner Bank,24394,1965-05-30
+2048,"Huffman, Beck and Carpenter Bank",12420,1987-11-29
+2049,Romero-Ellis Bank,18180,1916-01-05
+2050,Hernandez Inc Bank,13684,1879-07-21
+2051,Nichols-Marks Bank,26072,1920-01-19
+2052,Nelson Ltd Bank,43234,1958-01-17
+2053,Conner Ltd Bank,11195,1995-01-07
+2054,Evans-Murphy Bank,29108,1941-11-11
+2055,Sharp LLC Bank,39337,1914-03-26
+2056,Harrington-Long Bank,28595,1928-05-10
+2057,Brown-Boyle Bank,22766,1983-03-06
+2058,Mcguire and Sons Bank,11967,1979-01-09
+2059,Moss Group Bank,29216,1935-04-07
+2060,"Hernandez, Tran and Webb Bank",49430,1975-12-24
+2061,"Dunlap, Glover and Miller Bank",26319,1898-08-04
+2062,Gomez and Sons Bank,12601,1975-04-02
+2063,"Powell, Gregory and Tate Bank",9171,1985-06-20
+2064,Case Ltd Bank,35442,1958-08-18
+2065,Hamilton Ltd Bank,15535,1956-08-02
+2066,Ray Ltd Bank,35941,1891-09-19
+2067,"Rose, Gregory and Payne Bank",45025,1913-10-14
+2068,Rogers-Rhodes Bank,35936,1942-04-14
+2069,"Johnson, Graham and Ware Bank",20306,1881-02-24
+2070,Marquez PLC Bank,15787,2007-06-16
+2071,"Armstrong, Williams and Montoya Bank",43744,1978-08-23
+2072,Bryant-Evans Bank,13107,1983-07-24
+2073,"Vargas, Cook and Patterson Bank",20633,1944-04-15
+2074,Jones-Tyler Bank,5680,2013-07-27
+2075,Wilson-Mitchell Bank,18654,1982-04-17
+2076,Jordan-Watkins Bank,20618,1948-09-20
+2077,Crawford-Rowe Bank,5725,2012-11-29
+2078,Butler Inc Bank,9811,1909-05-15
+2079,"Rodriguez, Donaldson and Smith Bank",21540,1942-11-20
+2080,Stevenson-Acevedo Bank,8468,1876-07-04
+2081,Peterson-Reyes Bank,3057,1999-06-27
+2082,"Smith, Harrell and Bradley Bank",48181,1890-01-18
+2083,Smith-Mcdonald Bank,18624,1963-09-23
+2084,"Rosales, Hines and Wright Bank",49606,1947-08-25
+2085,Fitzgerald-Reid Bank,16567,1964-11-26
+2086,Taylor-Carpenter Bank,46574,1948-03-02
+2087,Stephens Inc Bank,45095,1901-08-03
+2088,"Colon, Oconnor and Kane Bank",39978,1954-11-02
+2089,Jordan Inc Bank,49849,1996-09-14
+2090,Hill-Long Bank,45005,1918-02-03
+2091,"Lopez, Stein and Valdez Bank",10095,1997-01-14
+2092,Olson-Noble Bank,39756,1909-10-30
+2093,"Sanders, Rodgers and Anthony Bank",1740,2007-12-20
+2094,Cole-King Bank,48251,1910-10-18
+2095,"Shaw, Sanders and Klein Bank",48690,1976-06-08
+2096,"Sanders, Gomez and Sims Bank",9440,1952-12-10
+2097,Lindsey Ltd Bank,45116,1952-05-21
+2098,Berry Group Bank,3749,2009-03-14
+2099,Castro-Fisher Bank,14310,1879-09-16
+2100,Mullen PLC Bank,16494,1945-06-27
+2101,Ford Inc Bank,6982,1945-03-30
+2102,"Lin, Gomez and Saunders Bank",11970,1891-10-09
+2103,Woods-Watts Bank,26310,1884-09-07
+2104,White-Stewart Bank,46836,1922-10-04
+2105,Frederick-Wagner Bank,2927,1883-07-02
+2106,Grant-Roberts Bank,3560,1947-12-09
+2107,Conrad-Hull Bank,20230,1995-05-27
+2108,Petersen-Warren Bank,22499,1962-10-28
+2109,Payne-Gomez Bank,25218,1903-05-22
+2110,Reeves Group Bank,5972,1916-02-14
+2111,Collins Group Bank,20064,1945-09-03
+2112,"Smith, Nunez and Mayer Bank",30559,1954-02-04
+2113,Edwards-Horton Bank,47154,1978-05-24
+2114,Owen-Hicks Bank,25661,2009-03-05
+2115,"Smith, Mccall and Clarke Bank",12334,1985-03-26
+2116,Brooks-Reed Bank,13659,1977-06-14
+2117,Perkins LLC Bank,39352,1886-04-18
+2118,Roberts PLC Bank,24321,1992-07-01
+2119,"Meza, Jackson and Wong Bank",31400,1941-01-06
+2120,Reeves-Taylor Bank,29871,1886-08-01
+2121,"Powell, Stone and Smith Bank",10928,1885-06-13
+2122,"King, Williams and Smith Bank",47770,2007-09-21
+2123,"Bradley, Porter and Townsend Bank",15716,1923-04-15
+2124,Lee-Black Bank,22614,1987-02-04
+2125,Gutierrez-Williams Bank,37101,1986-03-17
+2126,Mathews Ltd Bank,8159,2014-03-10
+2127,"Ford, Mccormick and Hood Bank",7067,1996-02-16
+2128,Lee Ltd Bank,26709,1888-05-28
+2129,Silva-Davis Bank,39612,1888-12-29
+2130,"Simmons, Carter and Pierce Bank",45237,1977-11-17
+2131,"Brown, Bauer and Caldwell Bank",1437,1915-09-18
+2132,Thomas Ltd Bank,4234,1879-09-25
+2133,Rice-Young Bank,20191,2006-11-15
+2134,"Bell, Patel and Simmons Bank",35311,1893-02-12
+2135,Murillo-Pugh Bank,17184,1974-07-27
+2136,Holland-Vaughan Bank,14900,1996-07-04
+2137,"Wells, Dominguez and Lee Bank",15909,1930-09-19
+2138,May-Navarro Bank,25920,1941-02-22
+2139,"Martinez, Hobbs and Garcia Bank",19410,2005-10-29
+2140,Hayes-Murphy Bank,31633,1995-03-23
+2141,Noble-Washington Bank,8524,1958-09-29
+2142,"Wright, Carter and Mitchell Bank",45232,1982-06-10
+2143,Nguyen and Sons Bank,1439,2008-06-11
+2144,"Evans, Johnston and Mullins Bank",7463,1902-07-04
+2145,King PLC Bank,41933,1930-11-02
+2146,Wiley-Jackson Bank,27847,1940-03-02
+2147,Perez-Park Bank,14942,1924-09-02
+2148,"Young, Bennett and Mendoza Bank",33410,1919-01-17
+2149,"Mata, Herrera and Gonzalez Bank",15594,1891-01-07
+2150,Patel Ltd Bank,35962,1984-03-16
+2151,"Castillo, Dixon and Mitchell Bank",47997,1992-12-27
+2152,Kline-Alvarado Bank,46378,1927-10-11
+2153,"Walsh, Ray and Gonzales Bank",5983,1991-02-15
+2154,Lee-Garcia Bank,26698,1894-04-03
+2155,Bullock-Bush Bank,30004,1994-10-17
+2156,Arnold Group Bank,45688,2013-01-08
+2157,Horne and Sons Bank,33238,1917-06-24
+2158,Daniels-Diaz Bank,24394,1889-06-10
+2159,"Doyle, Reyes and Perez Bank",5052,1882-02-24
+2160,"Payne, Evans and Moore Bank",24581,1985-11-24
+2161,Johnson-Wilson Bank,11150,1976-02-02
+2162,Sparks Group Bank,23616,1896-05-21
+2163,Martin-Mendoza Bank,44387,2015-01-30
+2164,"Good, Lowery and Dunlap Bank",16826,2005-07-22
+2165,Martin-Castro Bank,14272,1985-07-23
+2166,Hall-Velazquez Bank,49866,1950-03-15
+2167,"Rogers, Gomez and Hogan Bank",49714,1959-06-08
+2168,Luna-Williams Bank,33232,1908-10-27
+2169,Sherman Group Bank,43566,1890-02-21
+2170,Smith-Mays Bank,17670,1931-02-02
+2171,King-Harris Bank,27795,1956-05-21
+2172,Gregory-Bradley Bank,31766,1914-07-20
+2173,Ellis LLC Bank,1940,1896-02-13
+2174,Smith-Cooke Bank,33481,1955-03-24
+2175,"Dixon, Morris and Hunt Bank",30915,1961-01-13
+2176,James PLC Bank,45632,2008-04-22
+2177,Mosley Ltd Bank,42565,1983-12-09
+2178,Decker-Brown Bank,12374,1880-06-23
+2179,"Padilla, Dixon and Johnson Bank",37346,1883-08-26
+2180,Valentine Inc Bank,12131,1879-11-26
+2181,Huang and Sons Bank,31972,1911-02-13
+2182,Robertson PLC Bank,14223,1986-04-22
+2183,"Duncan, Taylor and Copeland Bank",41123,1921-07-16
+2184,Carroll-Juarez Bank,35888,2007-09-22
+2185,"Fernandez, Garcia and Summers Bank",25425,1989-02-25
+2186,Jones-Ray Bank,28052,1934-02-21
+2187,"Freeman, Arellano and Miller Bank",7731,1923-05-01
+2188,"Hamilton, Gross and Simpson Bank",26945,1956-09-11
+2189,"Newman, Jimenez and Gutierrez Bank",10237,1901-09-21
+2190,Daugherty and Sons Bank,17959,1937-04-29
+2191,"May, Jones and Elliott Bank",35547,1957-02-15
+2192,"Jenkins, Hall and Wood Bank",20401,1896-09-15
+2193,House Inc Bank,32259,1995-02-24
+2194,Williams-Lopez Bank,24276,1952-01-26
+2195,"Knox, Rogers and Williamson Bank",23974,1909-04-05
+2196,Banks-Ramirez Bank,42115,1899-10-05
+2197,Bautista Group Bank,42318,1917-04-23
+2198,James Ltd Bank,31338,2000-05-21
+2199,Gonzalez-White Bank,16407,1968-05-25
+2200,"White, Ward and Williams Bank",30960,1925-08-06
+2201,Kim-Contreras Bank,19356,1969-12-26
+2202,Young-Walker Bank,5747,1932-02-22
+2203,Aguilar and Sons Bank,5786,1979-12-26
+2204,"Acosta, Morris and Smith Bank",48388,1925-11-06
+2205,Wilson-Holmes Bank,13885,1947-10-26
+2206,Martin-Gray Bank,20673,1960-07-21
+2207,"Villegas, Gutierrez and Branch Bank",36132,1966-12-29
+2208,Huff LLC Bank,48593,1936-08-07
+2209,"Burnett, Gallagher and Mendoza Bank",49858,1963-07-05
+2210,Ramirez-Ramirez Bank,37071,1878-07-04
+2211,Kelly-Barton Bank,21981,1934-07-08
+2212,Thompson-Holland Bank,5830,1878-10-09
+2213,Delgado-Farley Bank,17979,1944-01-03
+2214,"Garcia, Velasquez and Hardin Bank",7101,1952-04-25
+2215,Ross-Torres Bank,42652,1882-10-07
+2216,Norman-Rivera Bank,6984,1956-08-29
+2217,Wright-Harris Bank,7651,1919-03-25
+2218,Rich-Williams Bank,19508,1990-11-21
+2219,"Scott, Jenkins and Love Bank",36305,1954-12-03
+2220,Sanchez-Ortiz Bank,6986,2001-05-24
+2221,Brown-Bennett Bank,7516,1977-11-13
+2222,Nelson-Evans Bank,24614,1928-09-13
+2223,Boone-Williams Bank,35710,1984-08-01
+2224,Rocha PLC Bank,35562,2006-01-26
+2225,"Harding, Winters and Schwartz Bank",18013,1886-08-17
+2226,Gray-Sellers Bank,43704,1979-03-28
+2227,Moore Inc Bank,6292,1971-11-23
+2228,"Robinson, Conner and Santiago Bank",27859,1903-05-22
+2229,Alvarado-Rivas Bank,7434,1969-11-01
+2230,Smith-Guzman Bank,40011,1955-10-12
+2231,"Collins, Lopez and Gordon Bank",33316,1914-05-04
+2232,Tran and Sons Bank,11524,1911-04-01
+2233,"Martinez, Bradley and Hall Bank",12202,1879-10-06
+2234,Garcia-Anderson Bank,14013,1971-07-26
+2235,Haley Ltd Bank,17263,1884-01-19
+2236,"Orozco, Burgess and Garcia Bank",43694,1935-10-23
+2237,Hansen Ltd Bank,21327,1978-01-05
+2238,"Everett, Garrison and Guerrero Bank",36893,1970-07-29
+2239,Obrien Group Bank,27232,1962-04-24
+2240,"Armstrong, Thomas and Hill Bank",2983,1891-10-30
+2241,Faulkner Ltd Bank,16421,1960-11-08
+2242,Cameron Group Bank,34660,1998-04-10
+2243,"Waters, Davis and Kaiser Bank",23822,1988-09-19
+2244,Bowers PLC Bank,41094,1974-02-24
+2245,"Elliott, Deleon and Wiley Bank",21312,1953-09-15
+2246,Turner-Allen Bank,7076,1946-08-24
+2247,"Richmond, Anderson and Kelley Bank",20459,1953-07-09
+2248,Morris Inc Bank,41371,2009-02-06
+2249,Howard PLC Bank,16484,1926-01-06
+2250,Torres-Barnes Bank,14618,1915-03-20
+2251,"Jones, Hood and Robinson Bank",34938,1901-09-29
+2252,"Hernandez, Taylor and Rogers Bank",25700,1925-07-31
+2253,Bishop-Wilson Bank,35435,1951-01-29
+2254,Bautista-Smith Bank,3809,1959-02-25
+2255,"Williams, Carter and Oneill Bank",1662,1958-09-09
+2256,Rogers-Eaton Bank,26438,1995-10-06
+2257,Parker-Williams Bank,13687,1982-07-10
+2258,Kramer-Richards Bank,47937,1985-05-28
+2259,Waters-Moss Bank,22285,1979-05-23
+2260,"Hanson, Patterson and Lane Bank",12759,1877-01-25
+2261,Davila Group Bank,4537,1920-08-09
+2262,Harmon Inc Bank,1772,1963-06-11
+2263,"Malone, Gonzales and Robinson Bank",24838,1960-10-11
+2264,Bray Inc Bank,13880,1886-07-06
+2265,Shaw Ltd Bank,14706,1998-03-07
+2266,Webster-Clarke Bank,6205,1962-07-08
+2267,Trevino-Camacho Bank,17724,1989-05-08
+2268,Bradley Ltd Bank,5213,1902-01-23
+2269,"Martinez, Richardson and Woodard Bank",26529,1925-11-15
+2270,Thornton Inc Bank,20707,1885-11-23
+2271,Branch LLC Bank,36554,1989-07-04
+2272,"Thornton, Bates and Smith Bank",41032,1916-01-24
+2273,"Thornton, Jacobs and Montgomery Bank",21020,1914-09-17
+2274,Brown-Smith Bank,3449,1948-06-07
+2275,"Williams, Rodriguez and Harris Bank",16641,1945-08-28
+2276,Davis-Miller Bank,49003,1998-12-08
+2277,Campbell-Gibson Bank,1212,1936-07-10
+2278,Bright-Schwartz Bank,21545,1880-05-22
+2279,Snow-Murphy Bank,31965,1955-08-12
+2280,Trevino Group Bank,15463,1889-07-06
+2281,Wang-Bryan Bank,8660,1963-01-16
+2282,"Porter, Gray and Nicholson Bank",31242,1888-09-02
+2283,Ellis PLC Bank,35146,1924-10-04
+2284,Gillespie Inc Bank,1826,1901-07-07
+2285,"Ibarra, Clayton and Kelly Bank",29178,1981-06-16
+2286,Wright Group Bank,23872,1881-02-26
+2287,"Clark, Watson and Burns Bank",46859,1964-10-13
+2288,Short-Taylor Bank,2385,1886-03-04
+2289,Reed and Sons Bank,19750,1938-04-17
+2290,Best LLC Bank,2174,1997-02-15
+2291,Obrien-Lee Bank,10945,1997-04-30
+2292,"Hoffman, Kelly and Schmidt Bank",24103,1993-01-13
+2293,Santiago and Sons Bank,9050,2004-09-30
+2294,Gibbs-Gonzalez Bank,14229,1977-05-28
+2295,"Warren, Long and Moore Bank",26793,1980-02-02
+2296,"Delgado, Petersen and Melendez Bank",33458,1904-12-01
+2297,"Nguyen, Harris and Turner Bank",49426,1992-01-28
+2298,Sanford-Berg Bank,6069,1943-01-26
+2299,Matthews PLC Bank,7826,1942-03-18
+2300,Washington and Sons Bank,45471,2007-12-16
+2301,Parker-Sherman Bank,42356,1994-01-02
+2302,"Flores, Simpson and Willis Bank",32840,1903-05-06
+2303,"Holt, Henry and Cox Bank",42183,1885-10-07
+2304,"Velasquez, Rodriguez and Long Bank",27705,1969-08-21
+2305,"Sanchez, Cook and Bryan Bank",23453,1959-04-14
+2306,Brown-Cummings Bank,22765,1965-03-04
+2307,"Hawkins, Leonard and Vincent Bank",14646,1981-08-18
+2308,Knapp PLC Bank,41935,1996-10-13
+2309,"Mercado, Wallace and Friedman Bank",45348,1990-10-05
+2310,"Perry, Skinner and Taylor Bank",36761,1948-05-09
+2311,"Garcia, Walsh and Parsons Bank",11644,1995-09-06
+2312,Nicholson-West Bank,10662,1944-10-31
+2313,"Brennan, Brewer and Rodriguez Bank",2247,1916-01-26
+2314,Yates PLC Bank,36136,1970-01-13
+2315,Harper-Sanchez Bank,18255,1987-10-13
+2316,Rosario Ltd Bank,16456,1919-05-16
+2317,Brown-Scott Bank,3218,1974-12-24
+2318,Henderson Inc Bank,2821,1921-10-23
+2319,Wilson and Sons Bank,42840,1875-04-11
+2320,Zavala Ltd Bank,39258,1924-06-20
+2321,Benson-Deleon Bank,30243,1881-04-13
+2322,Clark LLC Bank,43369,1979-03-13
+2323,Miles and Sons Bank,48226,1934-12-24
+2324,Gregory Ltd Bank,36570,1914-09-05
+2325,Reid-Schneider Bank,11095,1900-07-09
+2326,Avila-Harris Bank,6644,1959-10-02
+2327,Hill PLC Bank,7238,1909-10-12
+2328,Tucker-Stephens Bank,36072,2007-04-04
+2329,"Douglas, Horton and Crawford Bank",20706,1960-12-25
+2330,Ruiz-Kim Bank,40308,1967-01-15
+2331,"Taylor, Lopez and Hernandez Bank",38256,1994-12-28
+2332,"Patterson, Peterson and Tucker Bank",7377,1959-07-19
+2333,Riggs Ltd Bank,39165,2007-11-20
+2334,Watson PLC Bank,26512,1886-02-04
+2335,"Martin, Bryan and Hutchinson Bank",46702,2000-07-07
+2336,"Gilbert, Galvan and Kelley Bank",23048,1901-03-15
+2337,"Jackson, Preston and Perry Bank",40312,1898-01-24
+2338,Garza-Floyd Bank,9169,1954-07-14
+2339,Hall-Walters Bank,6652,2007-03-14
+2340,Reynolds PLC Bank,40625,1975-09-20
+2341,Hughes Inc Bank,37181,1881-12-04
+2342,Vega-Johnson Bank,39071,1894-02-27
+2343,Hensley-Atkinson Bank,28213,1879-04-21
+2344,Ross-Cohen Bank,41930,1991-05-19
+2345,Freeman-Navarro Bank,38187,1934-01-06
+2346,Gutierrez-West Bank,8427,2011-03-18
+2347,"Cross, Horton and Palmer Bank",43104,1934-03-07
+2348,Robinson-Myers Bank,41827,2008-06-15
+2349,Bryant Group Bank,14357,1927-07-11
+2350,"Dunlap, Hill and Lopez Bank",16738,1920-12-21
+2351,"Brown, Russell and Davidson Bank",20943,1960-07-04
+2352,Weeks and Sons Bank,21595,1949-01-12
+2353,"Chavez, Moore and Greer Bank",8274,1983-09-27
+2354,Bowman PLC Bank,46381,1984-10-28
+2355,Myers-Hall Bank,11331,1978-06-30
+2356,Villarreal-Schwartz Bank,29341,2000-08-01
+2357,Kirby LLC Bank,45789,1891-03-25
+2358,Fox Group Bank,15921,1964-12-06
+2359,"Bailey, Perez and Lawrence Bank",49091,1957-07-02
+2360,Johnson-Stevenson Bank,22820,1979-09-27
+2361,Nichols and Sons Bank,30914,1901-01-13
+2362,"Powell, Sutton and Park Bank",2533,1964-10-05
+2363,Grant PLC Bank,12411,1877-02-02
+2364,Mclean Ltd Bank,39301,1991-02-09
+2365,Ochoa PLC Bank,31858,1971-07-16
+2366,Matthews LLC Bank,30370,1891-02-16
+2367,Harper-Anderson Bank,28194,1958-05-01
+2368,Johnson-Juarez Bank,32309,1944-07-30
+2369,Parks-Allen Bank,16875,1934-10-07
+2370,Bennett-Williams Bank,16998,1922-04-05
+2371,Middleton Ltd Bank,41037,1898-06-06
+2372,"Dixon, Nelson and Gonzalez Bank",16031,1948-03-31
+2373,"Anderson, Lawson and Miller Bank",38420,1927-06-25
+2374,"Khan, Bailey and King Bank",45215,1956-09-14
+2375,Mejia Inc Bank,14098,1927-04-19
+2376,Sexton-Conway Bank,30313,1976-11-16
+2377,Stone-Carlson Bank,9643,1966-05-19
+2378,Wilson-Martinez Bank,37733,1898-08-27
+2379,Graves-Lee Bank,15155,1882-07-30
+2380,Rowe-Sosa Bank,33410,1915-05-27
+2381,Irwin-Russell Bank,40498,1917-04-13
+2382,Scott and Sons Bank,43287,1961-06-17
+2383,Gardner Group Bank,2724,1921-04-22
+2384,Henry LLC Bank,26703,1963-03-11
+2385,"Fleming, Williams and Velazquez Bank",47236,2001-02-19
+2386,"Rogers, Smith and Young Bank",12163,1943-03-03
+2387,"Murphy, Irwin and Thomas Bank",49338,1894-10-01
+2388,Hodges PLC Bank,39884,1988-05-01
+2389,"Hunter, Kelley and Boyd Bank",5174,1921-05-10
+2390,"Fitzgerald, Velazquez and Lindsey Bank",44477,1903-12-11
+2391,Lam-Maldonado Bank,36524,1923-03-01
+2392,"Wright, Montgomery and White Bank",28894,1945-06-11
+2393,Wilson-Washington Bank,28572,1942-06-26
+2394,Stevenson Ltd Bank,24578,1976-08-07
+2395,Wolf-Adams Bank,43577,1986-08-03
+2396,"Hardy, Richards and Valencia Bank",49690,1882-07-17
+2397,Andrews Inc Bank,11886,1944-08-28
+2398,Garcia-Horton Bank,5922,1949-04-20
+2399,"Richardson, Meza and Moran Bank",10129,1924-10-28
+2400,Williams-Price Bank,20311,1962-03-31
+2401,Kidd-Mills Bank,20733,1992-09-23
+2402,"Skinner, Ramsey and Gentry Bank",48065,1876-04-07
+2403,Bailey-Perez Bank,26778,1896-01-24
+2404,"Robinson, Williams and Nelson Bank",12428,1963-08-25
+2405,"Dickerson, Henderson and Guzman Bank",2532,1878-01-13
+2406,Walker Inc Bank,7433,1966-11-25
+2407,"Fisher, Mccormick and Irwin Bank",39635,1942-11-14
+2408,Bradshaw-Singleton Bank,13361,1908-11-28
+2409,Morrison-Conley Bank,5825,1963-11-04
+2410,Clark-Short Bank,46059,1961-09-10
+2411,"Thomas, Case and Simpson Bank",21384,1998-08-25
+2412,Taylor-Brennan Bank,13523,1876-08-11
+2413,Johnson-Smith Bank,3594,1909-08-17
+2414,Bridges Inc Bank,13910,2004-04-17
+2415,Cain and Sons Bank,36835,1971-11-11
+2416,Jordan-Martin Bank,5545,1991-12-31
+2417,Baker-Kemp Bank,13487,1949-05-04
+2418,Bradford-Conway Bank,23138,1981-01-09
+2419,Leach-Fisher Bank,26760,1947-04-23
+2420,"Perez, Moreno and Hall Bank",24579,1912-02-27
+2421,"Cooper, Gray and Gutierrez Bank",49909,1945-01-06
+2422,Allen-Johnson Bank,9049,1879-07-22
+2423,"Fields, Hicks and Lee Bank",47195,1910-09-10
+2424,Horton-Parker Bank,2228,1953-03-01
+2425,Benson-Young Bank,15785,1964-07-16
+2426,"Rodriguez, Lee and Werner Bank",13893,1951-05-03
+2427,Schwartz-Holder Bank,15864,1944-06-11
+2428,"Travis, Henderson and Rogers Bank",49756,1935-10-14
+2429,Skinner-Church Bank,42309,1977-08-24
+2430,Brock-Rodgers Bank,22589,2001-09-30
+2431,Gomez LLC Bank,37125,1973-10-03
+2432,"Lang, Lozano and Miller Bank",5834,1932-10-14
+2433,Young-Cain Bank,41807,1912-01-27
+2434,Carney-Pearson Bank,32247,1954-06-13
+2435,"Hanson, Reynolds and Rodriguez Bank",16671,1998-06-21
+2436,Bennett-Chen Bank,21902,1888-04-05
+2437,Mcdaniel Group Bank,19633,1967-01-22
+2438,"Miller, Hatfield and Ortega Bank",8190,1941-07-28
+2439,Mcdonald-Vaughn Bank,27069,2013-04-16
+2440,Sullivan PLC Bank,26506,2000-06-29
+2441,Mccarty and Sons Bank,42169,2008-04-29
+2442,Smith-Camacho Bank,16274,1922-06-07
+2443,Gross Inc Bank,46233,1944-10-30
+2444,Tran-Barker Bank,20182,1930-01-30
+2445,"Smith, Gonzalez and Christensen Bank",40877,1983-05-17
+2446,"Johns, Castillo and Austin Bank",42406,1984-02-18
+2447,Scott-Deleon Bank,10610,1929-08-06
+2448,"Johnson, White and Gonzalez Bank",34130,1924-06-03
+2449,"Jimenez, Brown and Martinez Bank",39624,1929-10-09
+2450,"Nelson, Benson and Robertson Bank",16195,1935-04-21
+2451,"Copeland, Barajas and Bauer Bank",3824,1983-08-25
+2452,Reyes-Lindsey Bank,47033,1971-05-15
+2453,Kennedy Group Bank,15218,2004-04-05
+2454,"Carter, Hopkins and Waller Bank",23936,1895-05-30
+2455,Logan Inc Bank,5989,1949-09-16
+2456,Navarro LLC Bank,23748,2001-11-22
+2457,"Stephenson, Harris and Fuller Bank",5885,1958-10-24
+2458,"Oconnor, Campbell and Evans Bank",33388,1959-10-25
+2459,Daniel-Higgins Bank,16125,1922-02-13
+2460,"Lamb, Griffith and Stone Bank",37460,1892-06-02
+2461,Daniels-Mccarty Bank,48422,1926-07-07
+2462,Morris-Anderson Bank,3299,1942-05-27
+2463,Chandler Group Bank,28400,1899-09-24
+2464,Washington-Poole Bank,33528,1893-09-16
+2465,Huynh Group Bank,30197,1975-06-05
+2466,Proctor-Myers Bank,28525,1950-01-28
+2467,"Stewart, Moore and Johnson Bank",42167,1995-04-15
+2468,Sanchez-Berry Bank,18209,1943-06-11
+2469,Woods-Wu Bank,6165,1883-02-23
+2470,Sullivan and Sons Bank,48861,1883-06-11
+2471,Copeland-Hudson Bank,34354,1925-12-23
+2472,"Smith, Ramsey and Rosario Bank",25315,1953-11-18
+2473,"Johnson, Rivera and Hunter Bank",48439,1949-04-03
+2474,"White, Smith and Murphy Bank",11313,1944-04-07
+2475,Wilson Inc Bank,47130,1879-09-22
+2476,"Rivera, Turner and Mcdowell Bank",12021,1937-11-13
+2477,"Kennedy, Taylor and Kirk Bank",18281,1994-06-20
+2478,Jackson-Silva Bank,24136,1895-10-18
+2479,Carter-Estrada Bank,13835,1999-10-13
+2480,"Harrington, Lane and Parsons Bank",30495,1983-08-12
+2481,"Patterson, Simpson and Lang Bank",38876,1903-01-07
+2482,Phillips-Myers Bank,34459,2000-07-24
+2483,Austin-Jones Bank,37263,1905-06-07
+2484,Stewart-Smith Bank,8863,1980-05-21
+2485,"Clay, Warren and Edwards Bank",42256,1956-09-07
+2486,George-Kelly Bank,43144,1940-03-24
+2487,Butler-Palmer Bank,42311,1895-12-11
+2488,Howell Group Bank,38190,1881-10-15
+2489,"Griffin, Mcgee and Bell Bank",14458,1982-11-08
+2490,"Bender, Hunt and Leblanc Bank",46744,1984-01-09
+2491,"Evans, James and Lucas Bank",38704,1878-06-22
+2492,Fischer-Boyle Bank,17351,1921-12-07
+2493,"Nolan, Turner and Carter Bank",17711,2011-07-12
+2494,"Mclean, Marshall and Haynes Bank",46500,2010-03-31
+2495,Hall-Whitehead Bank,21234,1876-04-10
+2496,"Willis, Nichols and Davis Bank",41450,1984-02-03
+2497,Olson-Moore Bank,12703,1907-03-08
+2498,"Rogers, Brown and Solomon Bank",11545,1959-03-07
+2499,Harris and Sons Bank,30748,1948-01-16
+2500,Miller-Ingram Bank,12140,2004-08-31
+2501,Lucero Group Bank,27857,2004-09-08
+2502,"Mcdowell, Bowen and Khan Bank",45916,1909-08-20
+2503,Wilson-Gonzalez Bank,38584,1898-12-03
+2504,Flores Inc Bank,33180,1894-07-16
+2505,Walter PLC Bank,19795,1954-06-27
+2506,"Hansen, Miller and Garcia Bank",30435,1988-12-24
+2507,Ingram-Hanson Bank,39499,1924-07-16
+2508,Coleman-Sanchez Bank,9899,1958-05-11
+2509,Vargas-Adams Bank,20116,1888-10-11
+2510,"Armstrong, Jones and Curtis Bank",49632,1980-05-04
+2511,"Jones, Good and Powell Bank",14812,1974-06-24
+2512,"Davis, Butler and Martin Bank",47360,1919-12-29
+2513,Dominguez and Sons Bank,41348,1877-10-11
+2514,Owens Group Bank,3935,1879-08-31
+2515,"Foster, Thompson and Williams Bank",2124,1919-05-10
+2516,"Scott, Guzman and Dyer Bank",46998,1916-02-07
+2517,Owens Ltd Bank,40392,1995-07-22
+2518,Rivera Group Bank,4422,1922-01-05
+2519,Gaines-Walker Bank,3348,1958-02-05
+2520,Sanders-Smith Bank,11533,1958-09-13
+2521,"Lozano, Barnes and Marshall Bank",13913,1894-07-05
+2522,Burgess-Coleman Bank,12103,1959-05-11
+2523,"George, Moss and Green Bank",16251,1947-11-22
+2524,Cobb LLC Bank,37749,1981-03-14
+2525,"Clay, Deleon and Smith Bank",18131,1962-07-31
+2526,"Ward, Brandt and Dean Bank",49507,1991-03-26
+2527,Thompson-Miller Bank,20296,1925-12-15
+2528,Morgan and Sons Bank,14012,1949-03-07
+2529,"Lawson, Liu and Brown Bank",20606,1939-01-06
+2530,Mejia Ltd Bank,48144,1960-05-01
+2531,"Williams, Graves and Keith Bank",27217,1934-09-11
+2532,Johnson-Hill Bank,38813,1899-05-29
+2533,Fox and Sons Bank,25801,2005-07-03
+2534,"Smith, Hatfield and Higgins Bank",48975,1990-04-23
+2535,"Harper, Ray and Thomas Bank",6799,1981-12-19
+2536,Palmer and Sons Bank,8686,1924-07-08
+2537,Duke and Sons Bank,34655,1928-09-24
+2538,Reeves-Thompson Bank,10286,1910-01-19
+2539,Huynh-Hernandez Bank,19757,1897-04-29
+2540,"Delgado, Martin and Rush Bank",43606,1924-05-14
+2541,Harvey-Miller Bank,3240,1972-01-18
+2542,Cameron Inc Bank,6678,1919-07-26
+2543,Ray and Sons Bank,34184,1928-01-26
+2544,Wilson-Wells Bank,37244,1995-02-05
+2545,"Gonzalez, Beltran and Gross Bank",41869,1999-12-19
+2546,Huerta-Caldwell Bank,4026,1989-07-27
+2547,Duncan Inc Bank,19318,1884-04-15
+2548,"Robinson, Thomas and Castillo Bank",21193,1883-05-05
+2549,"Wall, Davis and French Bank",17663,1975-02-25
+2550,"Anderson, Phillips and Rivera Bank",42373,1941-01-11
+2551,Wang-Mcdonald Bank,24530,1991-04-23
+2552,Nelson PLC Bank,48791,1962-02-15
+2553,"Campbell, Castillo and Nolan Bank",41473,1992-12-19
+2554,"Robertson, Jimenez and Lyons Bank",24478,1930-02-04
+2555,Wolfe and Sons Bank,21529,1929-06-02
+2556,"Doyle, Greer and Bishop Bank",11128,1897-08-04
+2557,"Bennett, Jackson and Campbell Bank",21074,2011-02-01
+2558,Anderson Inc Bank,33617,1913-06-10
+2559,Brown-Chase Bank,31709,1891-03-21
+2560,Roman and Sons Bank,42033,1889-01-09
+2561,Berg-Wade Bank,9789,1918-12-20
+2562,Murray Inc Bank,8664,2004-02-05
+2563,"Carr, Taylor and Wolf Bank",5787,1928-07-18
+2564,"Perez, King and Martinez Bank",1770,1967-11-13
+2565,"Hinton, Smith and Barnett Bank",11878,1915-04-14
+2566,"Fletcher, Cooley and Sullivan Bank",20101,1998-09-25
+2567,Clark-Jackson Bank,36174,1904-05-08
+2568,Phillips-Brown Bank,6548,1902-12-09
+2569,"Schmidt, Murphy and Johnson Bank",41827,2001-11-19
+2570,Miller-Paul Bank,32860,2005-04-03
+2571,Thomas-Smith Bank,28657,1967-11-15
+2572,Myers-Thompson Bank,24158,1967-11-05
+2573,Caldwell-Burns Bank,45736,1921-06-26
+2574,Williams-Watson Bank,32393,1894-07-19
+2575,"Henry, Horn and Dodson Bank",22033,1992-05-08
+2576,Waters-Swanson Bank,36008,2011-10-14
+2577,Patterson-Snyder Bank,13097,1988-04-29
+2578,"Harris, Barnett and Khan Bank",18426,1994-09-28
+2579,Burnett and Sons Bank,16771,1889-09-03
+2580,Sullivan-Santos Bank,1412,1907-11-25
+2581,"Mora, Estrada and Green Bank",30141,1931-06-14
+2582,"Collins, Crosby and Miller Bank",10269,1937-03-31
+2583,"Ayers, Mccarthy and Ryan Bank",24583,1983-08-17
+2584,Palmer-Bartlett Bank,34520,1970-11-07
+2585,"Davidson, Woods and Smith Bank",26220,1942-12-12
+2586,Hughes-Flores Bank,33421,1967-03-22
+2587,Harrison Group Bank,2270,1954-06-24
+2588,Jackson-Cook Bank,24825,1943-01-11
+2589,"Garcia, Graham and Hawkins Bank",14066,1911-10-28
+2590,Medina-Brooks Bank,45179,1917-10-10
+2591,Walter-Rodriguez Bank,20393,1957-03-30
+2592,Lang-Jennings Bank,20190,1891-12-19
+2593,Torres-Alvarez Bank,35771,1907-10-13
+2594,"Fitzgerald, Miles and Cook Bank",29425,1925-01-02
+2595,"Livingston, Brown and Davis Bank",38441,1914-04-20
+2596,Calderon-Herman Bank,24217,1966-05-17
+2597,"Keller, Hansen and Delgado Bank",40933,1942-11-24
+2598,Jones-Blair Bank,43591,1941-10-13
+2599,"Rhodes, Watts and Baird Bank",15337,1899-12-04
+2600,Murray Group Bank,25461,2000-12-01
+2601,"Singleton, Rosario and Freeman Bank",18647,2010-11-27
+2602,Scott-Sanchez Bank,39112,2005-10-16
+2603,Lane and Sons Bank,17606,1877-10-28
+2604,Curry-Alvarado Bank,27403,1965-06-17
+2605,"Ramirez, Hanson and Ramos Bank",31589,1933-02-08
+2606,Harrison PLC Bank,6571,1938-09-16
+2607,Miller-Anderson Bank,38069,1934-08-11
+2608,Lin-Hanson Bank,45527,1989-02-14
+2609,"Robertson, Cannon and Cortez Bank",14255,1988-04-09
+2610,"Chase, Ramirez and Johnson Bank",18007,1910-06-12
+2611,Robinson-Meza Bank,28506,1919-01-27
+2612,Kennedy-Young Bank,28687,1888-09-25
+2613,Anthony-Rogers Bank,49888,1944-12-21
+2614,"Barry, Collins and Bartlett Bank",5736,1885-12-26
+2615,"Werner, Silva and Mercado Bank",1048,1894-12-22
+2616,Delacruz Group Bank,40567,1995-08-28
+2617,"Martinez, Chandler and Brown Bank",18519,2013-11-08
+2618,Landry-Flores Bank,16017,1910-11-08
+2619,"Gordon, Lynch and Ward Bank",29191,1996-09-05
+2620,Perez-Anderson Bank,12296,1986-01-25
+2621,White-Castro Bank,28818,1931-07-30
+2622,"Johnson, Hernandez and Hunter Bank",11797,1990-10-23
+2623,Taylor-Nguyen Bank,12371,1915-10-29
+2624,"Jones, Harris and Martinez Bank",47662,1899-11-19
+2625,"Matthews, Esparza and Miller Bank",35393,1930-06-13
+2626,Johnson-Dixon Bank,29303,1951-03-23
+2627,Carroll-Moore Bank,42510,1943-08-23
+2628,Lawson LLC Bank,29896,2011-06-27
+2629,"Washington, Johnson and Torres Bank",30308,1969-09-12
+2630,Gomez-Velasquez Bank,12754,1919-11-25
+2631,Morris Group Bank,25807,1974-01-03
+2632,Jones-Robertson Bank,11143,1999-01-15
+2633,"Taylor, Anderson and Bryant Bank",8269,1932-05-10
+2634,"Duncan, Cervantes and Jefferson Bank",7234,2002-07-07
+2635,Weeks-Cunningham Bank,41852,1993-08-21
+2636,"Williams, Smith and Nelson Bank",43141,1889-08-04
+2637,Thompson-Sims Bank,35396,1913-04-30
+2638,Mitchell LLC Bank,24059,1998-12-19
+2639,"Graves, Valentine and Padilla Bank",40681,1922-04-04
+2640,"Bennett, Smith and Mckay Bank",23223,1950-03-28
+2641,Gilbert Ltd Bank,48944,1985-04-07
+2642,"Holden, Clements and Robertson Bank",37003,1892-08-12
+2643,"Wood, Thompson and Jensen Bank",46277,1907-06-15
+2644,"Moreno, Cuevas and Glass Bank",34453,1959-01-14
+2645,Wu LLC Bank,37872,1892-01-01
+2646,"Gilbert, Curtis and Smith Bank",25683,1973-12-31
+2647,Peterson Group Bank,46990,1891-07-22
+2648,Livingston-Johnson Bank,42211,1954-09-23
+2649,Conrad Inc Bank,37276,1965-02-16
+2650,Li-Brown Bank,46313,1984-03-23
+2651,Ross-Richardson Bank,40416,1924-01-30
+2652,Mendoza PLC Bank,23984,1917-03-03
+2653,"Powell, Marquez and Rodriguez Bank",36449,1949-07-03
+2654,"Rosales, Ballard and Barnes Bank",2162,1966-10-14
+2655,"Harrison, Casey and Cooper Bank",47770,1918-12-20
+2656,Patterson-Baker Bank,4024,1967-04-29
+2657,"Blair, Thompson and Rivas Bank",11513,1930-10-26
+2658,"Thompson, Potter and Hayes Bank",1266,1959-10-22
+2659,Long PLC Bank,22363,1979-12-12
+2660,Hall Ltd Bank,20504,2015-01-01
+2661,"Howard, Morgan and Miller Bank",13230,1898-11-28
+2662,Wood-Armstrong Bank,37083,1995-03-03
+2663,Munoz-Allen Bank,23303,1887-08-24
+2664,Collins-Hines Bank,30358,1928-04-15
+2665,Miller-Jenkins Bank,17295,1947-11-01
+2666,"Strickland, Petersen and Molina Bank",44064,1932-11-28
+2667,"Griffith, Williams and Stout Bank",20827,1914-07-16
+2668,"White, Hamilton and Dennis Bank",33988,1935-11-06
+2669,Myers-Sullivan Bank,40844,1901-12-05
+2670,"Jackson, Lane and Robertson Bank",43061,1988-03-09
+2671,"Henderson, Evans and Price Bank",45146,1876-04-23
+2672,Olson-Robinson Bank,34416,2003-08-25
+2673,Wells-Wood Bank,10879,1975-12-26
+2674,Turner Group Bank,48928,1944-06-26
+2675,Peterson LLC Bank,2553,1913-04-02
+2676,"Maynard, Best and Carpenter Bank",23595,1883-11-13
+2677,"Graham, Bishop and Hurley Bank",7711,1924-03-13
+2678,Bullock Group Bank,40691,1998-08-01
+2679,Cook Ltd Bank,40499,2008-10-12
+2680,"Hill, Green and Meyers Bank",13527,1969-11-20
+2681,Lee-Jarvis Bank,21655,1891-09-03
+2682,Williams PLC Bank,39198,1959-06-30
+2683,Melton Ltd Bank,19753,1927-07-04
+2684,Lopez-Christensen Bank,17519,1884-06-17
+2685,"Powers, Ward and Gibson Bank",23643,2013-08-23
+2686,Alvarez-Mckenzie Bank,27524,1982-11-20
+2687,Stark LLC Bank,34108,1904-12-25
+2688,Lowery PLC Bank,23488,1968-04-10
+2689,"Barnes, Schroeder and Thompson Bank",2414,1902-07-06
+2690,Duran PLC Bank,30330,1908-04-12
+2691,Taylor-Holmes Bank,3925,1997-07-13
+2692,"Gonzalez, Nichols and Montes Bank",26529,1923-05-03
+2693,Mills Inc Bank,17381,1949-11-18
+2694,"Booth, Ray and Myers Bank",13684,2002-02-11
+2695,Myers Group Bank,34746,1924-10-11
+2696,"Hughes, Whitaker and Brown Bank",26241,1913-12-07
+2697,"Edwards, James and Spence Bank",19248,1924-03-21
+2698,"Miller, Steele and Davis Bank",31173,1976-10-26
+2699,Chase-Hammond Bank,35127,1937-11-25
+2700,Saunders-Escobar Bank,26869,1893-12-30
+2701,"Gates, Spencer and Cobb Bank",28944,2003-07-21
+2702,"Brewer, Gutierrez and Woods Bank",45244,1897-05-17
+2703,"Fisher, Davila and Brown Bank",42334,2002-08-06
+2704,Levine-Schultz Bank,10661,2013-03-27
+2705,"Peck, Everett and Black Bank",19531,1877-04-11
+2706,"Robertson, Rios and Bolton Bank",1107,1962-02-18
+2707,Keith and Sons Bank,31478,1955-06-28
+2708,"Wright, Hansen and Arias Bank",46384,1883-08-15
+2709,Wagner-Vasquez Bank,38076,2007-03-26
+2710,Luna-Blair Bank,43533,2000-04-27
+2711,"Davis, Powell and Hudson Bank",49926,1904-05-04
+2712,Sampson PLC Bank,25718,1951-10-04
+2713,"Hensley, Farrell and Gonzalez Bank",44710,1896-06-22
+2714,"Johnson, Holt and Gardner Bank",1997,1942-06-24
+2715,"Pitts, Spears and Hancock Bank",13137,1927-02-11
+2716,"Barry, Gonzalez and Rodriguez Bank",2983,1961-12-16
+2717,"Bonilla, Chen and Sanchez Bank",46655,1973-04-05
+2718,Vega-Perez Bank,23057,1932-12-18
+2719,"Williamson, Johnston and Wilson Bank",36848,1957-04-28
+2720,"Hansen, Silva and Clark Bank",8423,1985-05-29
+2721,"Williams, White and Nelson Bank",15844,2002-05-16
+2722,Gibson-Cross Bank,27574,1927-11-21
+2723,Gutierrez and Sons Bank,28773,1901-11-25
+2724,Lyons Inc Bank,12637,1896-09-16
+2725,Valdez PLC Bank,36280,1965-03-10
+2726,Cole PLC Bank,18809,1898-06-01
+2727,Esparza-Wilson Bank,26402,1991-08-06
+2728,Aguilar-Carter Bank,40615,1898-10-13
+2729,Ball Inc Bank,43050,1936-02-06
+2730,Moore PLC Bank,8428,1920-10-06
+2731,Clark-Davis Bank,3023,1985-06-11
+2732,Bishop-Brown Bank,11944,1990-03-18
+2733,Scott-Holmes Bank,33280,1912-09-27
+2734,Nicholson LLC Bank,27847,2009-12-12
+2735,Gomez-Parsons Bank,25396,1891-01-27
+2736,"Fuller, Sanchez and Wilson Bank",25394,1910-05-05
+2737,Cole-Rhodes Bank,17643,1911-10-20
+2738,"Russell, Sullivan and Hebert Bank",10003,1970-08-04
+2739,"Chen, Chandler and Long Bank",13910,2011-09-08
+2740,"Brooks, Mejia and White Bank",8866,1955-05-04
+2741,Torres LLC Bank,24605,1934-01-08
+2742,"Chavez, Fisher and Nelson Bank",41270,1893-09-24
+2743,Daniels Inc Bank,15438,1909-05-30
+2744,Fisher-Bush Bank,12532,1978-07-30
+2745,"Ramos, Le and Martinez Bank",3130,1875-10-09
+2746,Schmidt-Smith Bank,36276,1992-10-22
+2747,"Dorsey, Jacobs and Duncan Bank",48016,1885-07-09
+2748,"Stephenson, Gonzalez and Lee Bank",9840,1979-11-02
+2749,"Spence, Mitchell and Morgan Bank",44025,1950-09-01
+2750,"Reid, Tate and Bass Bank",45515,1916-01-20
+2751,"Gutierrez, Wells and Reynolds Bank",27908,1967-11-30
+2752,Christian-Maldonado Bank,25784,1987-04-02
+2753,Olsen-Vincent Bank,7232,1948-04-18
+2754,"Fields, Mahoney and Kelley Bank",40417,1876-01-04
+2755,Melton-Avery Bank,16309,1950-05-25
+2756,Castaneda-Sanchez Bank,5992,1983-11-27
+2757,"Franklin, Ellis and Lee Bank",21150,1981-07-27
+2758,Richards-Carlson Bank,25440,1890-06-10
+2759,Krause-Cooper Bank,41170,1923-11-25
+2760,Castillo-Taylor Bank,46728,1958-06-08
+2761,Cortez Group Bank,18620,1896-07-17
+2762,"Vargas, Elliott and Malone Bank",17156,1955-10-06
+2763,"Hudson, Young and Howard Bank",49619,1889-08-23
+2764,"Romero, Stevenson and Miller Bank",32895,1956-10-02
+2765,Moody Inc Bank,4003,2001-10-24
+2766,Mayer LLC Bank,12489,1993-04-10
+2767,Stephenson Inc Bank,48606,1936-12-30
+2768,Kelly-Mcbride Bank,17641,1912-03-29
+2769,"Johnson, Glover and Garrison Bank",8566,1891-01-23
+2770,Thompson-Young Bank,40677,2002-07-12
+2771,Gilbert-Meyer Bank,43910,1907-12-07
+2772,Booker-Scott Bank,44889,1911-11-15
+2773,"Ramirez, Burnett and Mcdonald Bank",40752,1970-11-25
+2774,Colon and Sons Bank,13516,1956-11-27
+2775,"Sanchez, Hughes and Pineda Bank",28170,1928-03-27
+2776,Walker-Clark Bank,44850,1894-05-08
+2777,"Hale, Hayes and Porter Bank",47511,1982-05-04
+2778,"Rodriguez, House and Allen Bank",26493,2001-05-23
+2779,"James, Davis and Phelps Bank",8596,1879-10-19
+2780,Copeland and Sons Bank,16233,1976-05-24
+2781,Wiggins Group Bank,33197,1932-08-31
+2782,Mcdaniel Inc Bank,42658,1942-07-17
+2783,Shelton Ltd Bank,22965,1913-12-16
+2784,Coleman-Vincent Bank,45865,1938-02-23
+2785,Newman-Morales Bank,25290,1990-09-04
+2786,Cordova-Brown Bank,43115,1877-01-25
+2787,"Williams, Joseph and Santiago Bank",5224,1968-03-17
+2788,Garcia-Johnson Bank,49123,1978-09-09
+2789,Proctor-Robinson Bank,21324,1883-07-30
+2790,"Goodman, Cline and Nicholson Bank",37296,1896-12-21
+2791,Payne-Watts Bank,30521,1898-10-20
+2792,Li-Davis Bank,32161,1902-06-01
+2793,"Potter, Cooper and West Bank",24405,1980-08-21
+2794,"Roberts, Hill and Aguilar Bank",41342,1930-12-26
+2795,Porter-Thomas Bank,8148,1984-03-29
+2796,Parker-Caldwell Bank,19075,1985-09-08
+2797,Rivera PLC Bank,29768,1884-07-28
+2798,Perkins and Sons Bank,2216,1896-11-08
+2799,Jones-Holland Bank,9542,1961-01-16
+2800,"Khan, Brown and Pierce Bank",24337,1886-08-06
+2801,Fisher-Wright Bank,5889,1915-02-01
+2802,Baker Inc Bank,3342,1940-02-10
+2803,"Ingram, Dixon and Schwartz Bank",44532,2001-12-15
+2804,Roberts-Lamb Bank,35064,1936-08-03
+2805,"Ward, Ramos and Peters Bank",21943,1935-08-09
+2806,Miller-Johnson Bank,44081,1914-10-30
+2807,"Green, Preston and Taylor Bank",18565,1953-03-29
+2808,Alexander-Pena Bank,31199,2001-09-05
+2809,Andrews-Adams Bank,5437,1959-01-17
+2810,Green-Cooper Bank,44070,1926-09-21
+2811,Gates Inc Bank,32841,1903-03-24
+2812,Hale and Sons Bank,28403,2012-09-05
+2813,"Ross, Baker and Morris Bank",29081,1944-08-03
+2814,Wilkinson and Sons Bank,20756,1989-04-20
+2815,"Martinez, Monroe and Webb Bank",45537,1972-06-28
+2816,Whitaker-Diaz Bank,27762,1922-03-12
+2817,Brown-Moran Bank,29340,1996-02-21
+2818,"Berry, Rodriguez and Wade Bank",39121,1962-02-11
+2819,Figueroa-Brown Bank,14575,1901-07-05
+2820,"Davis, Williams and Mays Bank",23204,1880-02-01
+2821,Morris PLC Bank,37289,1893-01-23
+2822,"Vance, Orr and Moran Bank",46679,1892-03-31
+2823,"Jones, Norman and Bright Bank",35690,2003-12-26
+2824,"Graves, Garner and Gonzalez Bank",11999,1928-04-19
+2825,"Torres, Bowen and Wilson Bank",33497,1877-05-22
+2826,"Shaw, Peters and Costa Bank",16482,1989-03-23
+2827,"Russell, Green and Johnson Bank",14401,1986-02-06
+2828,"Foster, Reynolds and Roman Bank",28059,1891-08-20
+2829,"Thompson, Fox and Garcia Bank",14508,2011-11-26
+2830,"Lee, Hansen and Hickman Bank",24408,1885-09-18
+2831,Sanders-Jones Bank,21524,1951-10-09
+2832,Thompson-Garcia Bank,11048,1948-08-15
+2833,Porter Ltd Bank,33947,1948-11-22
+2834,"Harrington, Peters and Branch Bank",7961,1881-04-27
+2835,Mullins-Fitzgerald Bank,12558,2011-03-30
+2836,Glover-Hardy Bank,1809,1900-12-01
+2837,Ayers-Clark Bank,17793,1887-01-26
+2838,Romero-Lopez Bank,1463,1984-08-28
+2839,"Jacobs, Hanson and King Bank",19960,1900-10-11
+2840,"Hunt, Williams and Patton Bank",40390,1971-04-14
+2841,Williams-Ali Bank,33476,2013-09-08
+2842,Warren PLC Bank,6211,1989-07-15
+2843,"Collins, Jones and Allen Bank",24238,1987-05-10
+2844,"Hernandez, Mcgee and Diaz Bank",47661,1918-06-01
+2845,"Nixon, Murphy and Harris Bank",30673,1929-03-19
+2846,"Ortiz, Parker and Copeland Bank",1728,1902-10-16
+2847,"Martin, Garcia and Collins Bank",38893,1961-12-16
+2848,Byrd-Garcia Bank,38957,1943-07-07
+2849,Underwood-Jackson Bank,7368,1942-04-14
+2850,"Rosario, Bell and Underwood Bank",41480,1886-10-09
+2851,Gordon Group Bank,38964,1969-02-02
+2852,Stark-Kaiser Bank,47303,1959-02-13
+2853,Avila-Richardson Bank,11292,1914-03-26
+2854,Oliver Inc Bank,42410,1970-09-05
+2855,"White, Fox and Cook Bank",18926,1941-08-13
+2856,Carr-Smith Bank,21309,1998-05-10
+2857,"Watkins, Pearson and Bradshaw Bank",38124,1930-09-04
+2858,Olson-Guerrero Bank,24867,1921-05-31
+2859,White and Sons Bank,17401,1979-10-27
+2860,Boyd-Davis Bank,13511,1879-03-07
+2861,Martinez-Manning Bank,15463,1991-03-07
+2862,Rodgers and Sons Bank,21999,1963-02-27
+2863,"Butler, Benton and Jones Bank",42088,1965-11-16
+2864,Bowen-Brown Bank,9600,1931-10-07
+2865,"Jones, Rivera and Martin Bank",30074,1910-06-24
+2866,"Lopez, Carroll and Davis Bank",14850,2013-12-07
+2867,Edwards-Cohen Bank,49573,2009-05-29
+2868,"Ramirez, Gomez and Williams Bank",17460,1952-03-30
+2869,"Fuller, Sutton and Combs Bank",20739,1919-07-17
+2870,Gregory-Morgan Bank,6317,1896-07-08
+2871,Hammond-Schmidt Bank,12777,1881-04-26
+2872,"Johnson, Johnson and Becker Bank",31201,1898-03-16
+2873,"Burns, Burke and Huff Bank",46737,1937-08-16
+2874,Thompson LLC Bank,22188,1940-01-10
+2875,Christensen PLC Bank,5966,1900-09-19
+2876,"Warren, Stewart and Bray Bank",40098,1964-01-25
+2877,Vaughan-Miller Bank,37754,1965-05-20
+2878,Blake LLC Bank,26159,1905-05-13
+2879,Brown Group Bank,21101,2011-12-10
+2880,Hart Inc Bank,10814,2001-04-14
+2881,Daugherty PLC Bank,24201,1882-04-14
+2882,Sloan-Brown Bank,10766,2001-09-21
+2883,Brooks Group Bank,16824,1904-09-14
+2884,Johnson-Gonzales Bank,35356,1991-10-10
+2885,Fuentes Group Bank,38966,1912-03-27
+2886,"Foley, Taylor and Moore Bank",3841,1904-11-21
+2887,Griffin-Miller Bank,26409,1906-03-17
+2888,Ray-Petty Bank,3599,1955-12-15
+2889,"Harper, Murphy and Johnson Bank",23969,1903-08-24
+2890,"Thomas, Scott and Long Bank",15708,1970-03-09
+2891,Watson-Gray Bank,22367,2005-11-17
+2892,"Crosby, Brewer and Ramirez Bank",42534,1986-06-23
+2893,Gomez-Gonzalez Bank,35439,1928-11-03
+2894,"Robertson, Evans and Byrd Bank",30487,1894-12-24
+2895,"Tran, Stanley and Miller Bank",16927,1977-07-18
+2896,"Hall, Reynolds and Vaughan Bank",35823,2013-11-07
+2897,"Nelson, Lewis and Taylor Bank",47047,1934-02-22
+2898,Aguirre-Shaw Bank,13665,1999-03-11
+2899,"Wong, Robinson and Nguyen Bank",11898,1974-02-18
+2900,Ashley LLC Bank,46613,2010-02-11
+2901,Harris-Alexander Bank,3531,1906-07-29
+2902,Holland Inc Bank,29370,1899-08-06
+2903,Vaughn LLC Bank,28898,2003-03-04
+2904,Alvarez-Mendoza Bank,44670,1941-11-06
+2905,"Mullins, Robles and Russo Bank",35712,1979-06-16
+2906,"Jones, Clark and Marshall Bank",20255,1949-06-06
+2907,Wells Inc Bank,44133,1945-02-04
+2908,Munoz-Martinez Bank,24745,1913-03-29
+2909,James-Avila Bank,33464,1962-03-15
+2910,"Ruiz, King and Ortiz Bank",17471,1960-04-08
+2911,"Robertson, Henderson and Mason Bank",48897,1922-11-09
+2912,"Castillo, Ward and Perkins Bank",18550,1927-03-10
+2913,Snyder PLC Bank,48343,1909-01-15
+2914,"Smith, Marks and Daniel Bank",36327,2015-01-11
+2915,Brennan-Johnston Bank,19738,2005-09-23
+2916,"Charles, Robinson and Carter Bank",7451,1982-05-10
+2917,Ellis-Gordon Bank,3715,1994-06-10
+2918,Burnett LLC Bank,17680,1911-01-23
+2919,"Shepherd, Moore and Roberts Bank",30821,1996-01-17
+2920,Cox-Rodriguez Bank,18187,1992-08-27
+2921,Perez Ltd Bank,25014,1952-11-03
+2922,"Meza, Mcmahon and Rhodes Bank",21361,2012-03-22
+2923,Gonzalez Inc Bank,37082,1902-08-31
+2924,Griffin PLC Bank,22806,1939-09-10
+2925,Mclaughlin-Palmer Bank,27307,1993-08-13
+2926,Woods-Mason Bank,10545,1962-01-04
+2927,Ruiz-Morgan Bank,10463,1972-05-18
+2928,Day-Kirby Bank,42503,1993-02-25
+2929,Campbell-Lopez Bank,41576,1886-04-20
+2930,Young-Robles Bank,10141,1986-04-13
+2931,"Robertson, Shah and Williams Bank",15930,1886-09-21
+2932,Massey Ltd Bank,20309,1876-02-01
+2933,Arellano Inc Bank,27100,1908-10-04
+2934,"Todd, Stanley and Jackson Bank",24119,1960-03-11
+2935,Zuniga LLC Bank,9989,1916-07-18
+2936,Costa Inc Bank,1967,1936-01-08
+2937,Moon-Phillips Bank,41241,1970-04-14
+2938,"Wells, Mitchell and Smith Bank",29296,1943-08-23
+2939,Weaver-Nelson Bank,4901,1951-07-30
+2940,Ford-Tran Bank,20490,1947-10-09
+2941,"Torres, Moran and Stephenson Bank",1592,1985-01-22
+2942,Cooper-Gilmore Bank,22432,2000-12-19
+2943,Keith-Parks Bank,27145,2014-03-03
+2944,"Leach, Bruce and Moore Bank",39765,1905-03-11
+2945,Cabrera Inc Bank,23812,1995-05-09
+2946,"Smith, Duarte and Morris Bank",22903,1961-10-14
+2947,Webster-Day Bank,26017,1886-02-22
+2948,Lee Group Bank,26685,1974-09-10
+2949,"Powell, Hernandez and Vasquez Bank",37012,1911-12-03
+2950,Best-Banks Bank,36157,1934-02-28
+2951,Santana-Boyd Bank,48292,1945-10-01
+2952,"Thomas, Carlson and Short Bank",20363,1880-06-25
+2953,Fox-Hill Bank,49300,1914-08-20
+2954,"Garza, Anderson and Long Bank",46872,1901-06-27
+2955,"Campbell, Curtis and Kirby Bank",44314,1916-07-02
+2956,Humphrey Inc Bank,45556,1974-06-07
+2957,Price PLC Bank,17556,1884-01-05
+2958,"Gonzales, Guerrero and Shaffer Bank",20208,1970-12-03
+2959,"Perez, Johnson and Day Bank",5603,1986-03-14
+2960,"Clark, Olson and Weaver Bank",14929,1976-03-29
+2961,Brady-Fisher Bank,31681,1939-07-21
+2962,Duncan Ltd Bank,43421,1959-02-26
+2963,"Edwards, Ware and Parsons Bank",36797,1996-03-21
+2964,Huber Ltd Bank,38441,1973-07-07
+2965,"Bennett, Brown and Acosta Bank",5120,1895-05-07
+2966,"Thompson, Love and Hill Bank",21718,1876-10-15
+2967,"Morales, Hall and York Bank",25328,1909-01-24
+2968,Ball and Sons Bank,48215,1993-05-06
+2969,Browning Ltd Bank,43808,1958-12-11
+2970,Harrison-Taylor Bank,10197,1995-04-01
+2971,"Dougherty, Bridges and Brooks Bank",17401,1886-12-28
+2972,"Conley, Thomas and Soto Bank",21142,1961-02-03
+2973,Barr-Rodriguez Bank,24972,1936-03-26
+2974,Hughes-Patterson Bank,44704,1995-08-11
+2975,Moreno Ltd Bank,27302,1948-09-28
+2976,"Espinoza, Riley and Hill Bank",21742,1892-04-18
+2977,Davis-Lee Bank,5766,1929-10-22
+2978,"Ritter, Cain and Valenzuela Bank",47552,1928-07-08
+2979,Gilbert Inc Bank,24647,2012-06-30
+2980,"Carney, Howard and Ross Bank",14595,1957-09-02
+2981,"Oconnor, Huynh and Pittman Bank",28545,1922-11-25
+2982,"Ayers, Elliott and Estes Bank",19659,1891-04-16
+2983,"Valdez, Frank and Taylor Bank",12689,1919-08-30
+2984,Stephenson Ltd Bank,33335,1940-05-29
+2985,Hartman Inc Bank,41686,1985-04-01
+2986,Thompson-Reeves Bank,28915,1880-12-27
+2987,Boyle Group Bank,24459,1931-06-20
+2988,Lawson-Bradford Bank,38518,1979-12-17
+2989,"Ballard, Fisher and Rodriguez Bank",31360,1923-08-27
+2990,"Hanna, Willis and Aguilar Bank",3774,1993-09-20
+2991,Wyatt LLC Bank,8059,1977-09-23
+2992,Gonzales-Williams Bank,4479,1891-04-01
+2993,"Mullen, Gonzalez and Williams Bank",37559,1980-10-09
+2994,Nichols-Roberts Bank,38440,1938-08-03
+2995,Massey-Dyer Bank,12336,2011-02-04
+2996,Moran PLC Bank,36926,1983-08-26
+2997,Miller-Joseph Bank,20524,1998-06-30
+2998,"Gibson, Richardson and Ford Bank",26215,1928-05-29
+2999,"Li, Roberts and Ross Bank",28764,1985-08-04
+3000,Love-Ryan Bank,8400,1972-06-23
