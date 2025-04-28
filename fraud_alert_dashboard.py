@@ -124,24 +124,17 @@ app.layout = html.Div(
                 html.P(CAPTIONS["cards"]),
                 dcc.Graph(figure=fig_last_txn),
                 html.P(CAPTIONS["last"]),
+                 dcc.Graph(figure=fig_loans),
+                html.P(CAPTIONS["loans"]),
             ], style={"width":"48%","display":"inline-block","verticalAlign":"top"}),
             html.Div([
                 dcc.Graph(figure=fig_sessions),
                 html.P(CAPTIONS["sess"]),
                 dcc.Graph(figure=fig_dormant),
                 html.P(CAPTIONS["dorm"]),
-            ], style={"width":"48%","display":"inline-block","marginLeft":"4%"}),
-            html.Div([
-                dcc.Graph(figure=fig_sessions),
-                html.P(CAPTIONS["sess"]),
-                dcc.Graph(figure=fig_dormant),
-                html.P(CAPTIONS["dorm"]),
-                dcc.Graph(figure=fig_loans),
-                html.P(CAPTIONS["loans"]),
                 dcc.Graph(figure=fig_req),
                 html.P(CAPTIONS["req"]),
-            ], style={"width":"48%", "display":"inline-block", "marginLeft":"4%"}),
-        ]),
+            ], style={"width":"48%","display":"inline-block","marginLeft":"4%"}),
         html.Hr(),
         html.P("Built with Dash + Plotly • Source SQL in comments • © 2025 S-Cube Team")
     ]
