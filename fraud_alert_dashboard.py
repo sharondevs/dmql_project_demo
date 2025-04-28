@@ -11,29 +11,19 @@ from sqlalchemy import create_engine
 BASE = pathlib.Path(__file__).parent
 DATA_DIR = BASE / "data"
 
-def load_or_query(table, sql=None):
+def load_or_query(table):
     csv_path = DATA_DIR / f"{table}.csv"
     if csv_path.exists():
         return pd.read_csv(csv_path)
 
-customers     = load_or_query("Customer",
-    "SELECT cust_id, first_name, last_name, salary_bracket FROM Customer")
-accounts      = load_or_query("Accounts",
-    "SELECT account_no, cust_id, balance FROM Accounts")
-transactions  = load_or_query("Transactions",
-    textwrap.dedent("""
-        SELECT tid, t_type, amount, time::date AS day,
-               source_acc_no, dest_acc_no
-        FROM Transactions;
-    """))
-sessions      = load_or_query("Sessions",
-    "SELECT session_id, cust_id FROM Sessions")
-creditcard    = load_or_query("CreditCard",
-    "SELECT cust_id, outstanding FROM CreditCard")
-loans         = load_or_query("Loans",
-    "SELECT cust_id, principal, paid FROM Loans")
-loanrequest   = load_or_query("LoanRequest",
-    "SELECT type, approval FROM LoanRequest")
+customers     = load_or_query("Customer")
+print(f"Loaded {len(customers)} customers")
+accounts      = load_or_query("Accounts")
+transactions  = load_or_query("Transactions")
+sessions      = load_or_query("Sessions")
+creditcard    = load_or_query("CreditCard")
+loans         = load_or_query("Loans")
+loanrequest   = load_or_query("LoanRequest")
 
 customers["customer"] = customers["first_name"] + " " + customers["last_name"]
 
