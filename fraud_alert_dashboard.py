@@ -135,6 +135,7 @@ app.layout = html.Div(
                 dcc.Graph(figure=fig_req),
                 html.P(CAPTIONS["req"]),
             ], style={"width":"48%","display":"inline-block","marginLeft":"4%"}),
+        ]),
         html.Hr(),
         html.P("Built with Dash + Plotly • Source SQL in comments • © 2025 S-Cube Team")
     ]
